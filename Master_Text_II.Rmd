@@ -556,4 +556,68 @@ Zimbabwe <- Zimbabwe %>%
   arrange(desc(Freq))
 ```
 
+```{r}
+##Column Rename
+##colnames(ptop10.2)[1] <- "Country"
+
+#View(afg.ord)
+colnames(afg.ord)[2] <- "AfgFreq"
+colnames(bangladesh)[2] <- "BanglFreq"
+colnames(burundi)[2] <- "BurundiFreq"
+colnames(cameroon)[2] <- "CamFreq"
+colnames(CAR)[2] <- "CARFreq"
+colnames(Cuba)[2] <- "CubaFreq"
+colnames(DRC)[2] <- "DRCFreq"
+colnames(Haiti)[2] <- "HaitiFreq"
+colnames(Iraq)[2] <- "IraqFreq"
+colnames(Jordan)[2] <- "JordanFreq"
+colnames(Kenya)[2] <- "KenyaFreq"
+colnames(Lebanon)[2] <- "LebanonFreq"
+colnames(Libya)[2] <- "LibyaFreq"
+colnames(Mozambique)[2] <- "MozFreq"
+colnames(Myanmar)[2] <- "MyanFreq"
+colnames(NigeriaReg)[2] <- "NegRegFreq"
+colnames(NorthKorea)[2] <- "NKFreq"
+colnames(Palestine)[2] <- "PalFreq"
+colnames(Somalia)[2] <- "SolFreq"
+colnames(SouthSudan)[2] <- "SouthSudanFreq"
+colnames(Sudan)[2] <- "SudanFreq"
+colnames(Syria)[2] <- "SyriaFreq"
+colnames(Uganda)[2] <- "UgandFreq"
+colnames(Ukraine)[2] <- "UkraineFreq"
+colnames(Venezuela)[2] <- "VeneFreq"
+colnames(Yemen)[2] <- "YemenFreq"
+colnames(Zimbabwe)[2] <- "ZimFreq"
+```
+
+```{r}
+###Merging
+AfgBang <- merge(x=afg.ord, y=bangladesh, by="Var1", all=TRUE)
+BangBur <- merge(x=AfgBang, y=burundi, by="Var1", all=TRUE)
+BurCam <- merge(x=BangBur, y=cameroon, by="Var1", all=TRUE)
+CamCAR <- merge(x=BurCam, y=CAR, by="Var1", all=TRUE)
+CARCuba <- merge(x=CamCAR, y=Cuba, by="Var1", all=TRUE)
+CubaDRC <- merge(x=CARCuba, y=DRC, by="Var1", all=TRUE)
+DRCHaiti <- merge(x=CubaDRC, y=Haiti, by="Var1", all=TRUE)
+HaitiIraq <- merge(x=DRCHaiti, y=Iraq, by="Var1", all=TRUE)
+IraqJor <- merge(x=HaitiIraq, y=Jordan, by="Var1", all=TRUE)
+JorKen <- merge(x=IraqJor, y=Kenya, by="Var1", all=TRUE)
+KenLeb <- merge(x=JorKen, y=Lebanon, by="Var1", all=TRUE)
+LebLib <- merge(x=KenLeb, y=Libya, by="Var1", all=TRUE)
+LibMoz <- merge(x=LebLib, y=Mozambique, by="Var1", all=TRUE)
+MozMyan <- merge(x=LibMoz, y=Myanmar, by="Var1", all=TRUE)
+MyanNig <- merge(x=MozMyan, y=NigeriaReg, by="Var1", all=TRUE)
+NigNK <- merge(x=MyanNig, y=NorthKorea, by="Var1", all=TRUE)
+NKPal <- merge(x=NigNK, y=Palestine, by="Var1", all=TRUE)
+PalSom <- merge(x=NKPal, y=Somalia, by="Var1", all=TRUE)
+SomSouth <- merge(x=PalSom, y=SouthSudan, by="Var1", all=TRUE)
+SouthSSudan <- merge(x=SomSouth, y=Sudan, by="Var1", all=TRUE)
+SudSry <- merge(x=SouthSSudan, y=Syria, by="Var1", all=TRUE)
+SyrUgan <- merge(x=SudSry, y=Uganda, by="Var1", all=TRUE)
+UganUkr <- merge(x=SyrUgan, y=Ukraine, by="Var1", all=TRUE)
+UkrVen <- merge(x=UganUkr, y=Venezuela, by="Var1", all=TRUE)
+VenYem <- merge(x=UkrVen, y=Yemen, by="Var1", all=TRUE)
+YemZim <- merge(x=VenYem, y=Zimbabwe, by="Var1", all=TRUE)
+ALL <- YemZim
+```
 
