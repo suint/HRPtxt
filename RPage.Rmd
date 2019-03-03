@@ -5,34 +5,43 @@ author: "Kelly Mi, Wanqi Liang, Anita Chen, and Erin Harned"
 output:
   html_notebook
 ---
+***
 
-```{r Setup, include=FALSE, results='hide', warning=FALSE}
-    library(knitr)
-    opts_chunk$set(fig.path="images/",
-                   cache.path="cache/",
-                   cache=FALSE,
-                   echo=TRUE,
-                   message=FALSE,
-                   warning=FALSE)  
-setwd("/Users/owner/Documents/02. Education/Columbia 2018-2019/06. CU Extra Curricular/HackItTogether")
-```
+![](img/header_vis.png)
 
-```{r, eval=TRUE, echo=FALSE}
-library(dplyr)
-library(ggplot2)
-library(tibble)
-all <- read.csv(file="./HRP_txt_local/All.csv", header=TRUE)
-short <- all %>%
-  filter(Var1=="cash" | Var1=="critical" | Var1=="repatriation" | Var1=="gbv" | Var1=="protect" | Var1=="suicide" | Var1=="wash")
+<br />
 
-short2 <- short %>%
-  select(-X)
 
-shortagain = setNames(data.frame(t(short2[,-1])), short2[,1])
-#colnames(shortagain)[0] <- "Country"
-short4 <- shortagain %>% rownames_to_column()
-colnames(short4)[1] <- "Country"
+Humanitarian aid groups all over the world use websites such as [ReliefWeb](https://reliefweb.int/) to coordinate efforts in the fight against global violence, hunger, and instability. Currently, this information is posted in the form of lengthy documents detailing their work and goals. Using data mining and visualization techniques we hope to create greater fluidity and speed of communication in order to facilitate cooperation across multiple regions. Using interactive graphs, charts, and maps, humanitarian organizations can find other countries to cooperate with in combating some of the world's most urgent crises such as gender-based violence, sanitation, and forced displacement.  
 
-ggplot(short4, aes(x=cash, y=Country)) +geom_point(aes(size=cash))
-```
+*[Keyword Visualizations](#keyword-visualization)*  | 
+----------------------------------------------------|---------------------------------
+[Cash fundraising](#cash-fundraising)               |[Water, sanitation, and hygiene](#Water-sanitation-and-hygiene)
+[Critical situations](#critical-situations)         |[Repatriation efforts](#Repatriation-efforts)
+[Gender-based violence](#Gender-based-violence)     |[Protection](#Protection)
+*[Interactive table](#Interactive table)*           |
 
+
+###Keyword visualization
+
+####Cash fundraising
+
+
+Fundraising is one of the most essential aspects of humanitarian aid. Using tools such as data visualization, humanitarian groups will be able to communicate with other efforts and work together in raising funds.
+
+
+####Critical situations
+
+In the most urgent situations, communication is key. Using keyword detection we can visualize which situations are time-sensitive.
+
+####Repatriation efforts
+
+Repatriation is an international effort. The complications of immigration and international travel mean that information is essential. Data-mining techniques allow us to see which countries are working towards repatriation most frequently.
+
+####Gender-based violence
+
+####Protection
+
+####Water, sanitation, and hygiene
+
+####Interactive table
