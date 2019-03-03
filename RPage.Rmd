@@ -1,0 +1,38 @@
+---
+title: "Connecting Across Emergencies"
+author: "Kelly Mi, Wanqi Liang, Anita Chen, and Erin Harned"
+
+output:
+  html_notebook
+---
+
+```{r Setup, include=FALSE, results='hide', warning=FALSE}
+    library(knitr)
+    opts_chunk$set(fig.path="images/",
+                   cache.path="cache/",
+                   cache=FALSE,
+                   echo=TRUE,
+                   message=FALSE,
+                   warning=FALSE)  
+setwd("/Users/owner/Documents/02. Education/Columbia 2018-2019/06. CU Extra Curricular/HackItTogether")
+```
+
+```{r, eval=TRUE, echo=FALSE}
+library(dplyr)
+library(ggplot2)
+library(tibble)
+all <- read.csv(file="./HRP_txt_local/All.csv", header=TRUE)
+short <- all %>%
+  filter(Var1=="cash" | Var1=="critical" | Var1=="repatriation" | Var1=="gbv" | Var1=="protect" | Var1=="suicide" | Var1=="wash")
+
+short2 <- short %>%
+  select(-X)
+
+shortagain = setNames(data.frame(t(short2[,-1])), short2[,1])
+#colnames(shortagain)[0] <- "Country"
+short4 <- shortagain %>% rownames_to_column()
+colnames(short4)[1] <- "Country"
+
+ggplot(short4, aes(x=cash, y=Country)) +geom_point(aes(size=cash))
+```
+
