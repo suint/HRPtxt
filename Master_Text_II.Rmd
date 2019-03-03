@@ -1,0 +1,559 @@
+---
+title: "Master_Text_II"
+author: "Erin Harned"
+date: "3/3/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(stringr)
+library(tokenizers)
+
+setwd("/Users/owner/Documents/02. Education/Columbia 2018-2019/06. CU Extra Curricular/HackItTogether/HRP_txt")
+sentences<-scan("2019_afg.txt","character",sep="\n")
+sentences <- str_replace_all(sentences, "[^[:alpha:]]", " ")
+sentences<-gsub("\\.","",sentences)
+sentences<-gsub("\\,","",sentences)
+words<-strsplit(sentences," ")
+#print(words3)
+words<-tokenize_words(sentences, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq<-table(unlist(words))
+#View(words.freq)
+
+afg <- as.data.frame(words.freq)
+
+library(dplyr)
+afg.ord <- afg %>%
+  arrange(desc(Freq))
+```
+
+```{r}
+#Bangladesh
+
+sentences2<-scan("2019_bangladesh.txt","character",sep="\n")
+sentences2 <- str_replace_all(sentences2, "[^[:alpha:]]", " ")
+sentences2<-gsub("\\.","",sentences2)
+sentences2<-gsub("\\,","",sentences2)
+words2<-strsplit(sentences2," ")
+#print(words3)
+words2<-tokenize_words(sentences2, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq2<-table(unlist(words2))
+#View(words.freq)
+
+bangladesh <- as.data.frame(words.freq2)
+
+library(dplyr)
+bangladesh <- bangladesh %>%
+  arrange(desc(Freq))
+```
+
+```{r}
+#Burundi
+
+sentences3 <- scan("2019_burundi_regional.txt","character", sep="\n")
+sentences3 <- str_replace_all(sentences3, "[^[:alpha:]]", " ")
+sentences3<-gsub("\\.","",sentences3)
+sentences3<-gsub("\\,","",sentences3)
+words3<-strsplit(sentences3," ")
+#print(words3)
+words3<-tokenize_words(sentences3, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq3<-table(unlist(words3))
+#View(words.freq)
+
+burundi <- as.data.frame(words.freq3)
+
+#library(dplyr)
+burundi <- burundi %>%
+  arrange(desc(Freq))
+```
+
+```{r}
+#Cameroon
+
+sentences4 <- scan("2019_cameroon_summary.txt","character", sep="\n")
+sentences4 <- str_replace_all(sentences4, "[^[:alpha:]]", " ")
+sentences4<-gsub("\\.","",sentences4)
+sentences4<-gsub("\\,","",sentences4)
+words4<-strsplit(sentences4," ")
+#print(words3)
+words4<-tokenize_words(sentences4, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq4<-table(unlist(words4))
+#View(words.freq)
+
+cameroon <- as.data.frame(words.freq4)
+
+#library(dplyr)
+cameroon <- cameroon %>%
+  arrange(desc(Freq))
+```
+```{r}
+#CAR
+
+sentences5 <- scan("2019_CAR.txt","character", sep="\n")
+sentences5 <- str_replace_all(sentences5, "[^[:alpha:]]", " ")
+sentences5 <-gsub("\\.","",sentences5)
+sentences5 <-gsub("\\,","",sentences5)
+words5<-strsplit(sentences5," ")
+#print(words3)
+words5<-tokenize_words(sentences5, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq5<-table(unlist(words5))
+#View(words.freq)
+
+CAR <- as.data.frame(words.freq5)
+
+#library(dplyr)
+CAR <- CAR %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Cuba
+
+sentences6 <- scan("2019_cuba.txt","character", sep="\n")
+sentences6 <- str_replace_all(sentences6, "[^[:alpha:]]", " ")
+sentences6 <-gsub("\\.","",sentences6)
+sentences6 <-gsub("\\,","",sentences6)
+words6<-strsplit(sentences6," ")
+#print(words3)
+words6<-tokenize_words(sentences6, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq6<-table(unlist(words6))
+#View(words.freq)
+
+Cuba <- as.data.frame(words.freq6)
+
+#library(dplyr)
+Cuba <- Cuba %>%
+  arrange(desc(Freq))
+```
+```{r}
+#DRC Regional
+
+sentences7 <- scan("2019_drc_regional.txt","character", sep="\n")
+sentences7 <- str_replace_all(sentences7, "[^[:alpha:]]", " ")
+sentences7 <-gsub("\\.","",sentences7)
+sentences7 <-gsub("\\,","",sentences7)
+words7<-strsplit(sentences7," ")
+#print(words3)
+words7<-tokenize_words(sentences7, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq7<-table(unlist(words7))
+#View(words.freq)
+
+DRC <- as.data.frame(words.freq7)
+
+#library(dplyr)
+DRC <- DRC %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Haiti
+
+sentences8 <- scan("2019_haiti.txt","character", sep="\n")
+sentences8 <- str_replace_all(sentences8, "[^[:alpha:]]", " ")
+sentences8 <-gsub("\\.","",sentences8)
+sentences8 <-gsub("\\,","",sentences8)
+words8<-strsplit(sentences8," ")
+#print(words3)
+words8<-tokenize_words(sentences8, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq8<-table(unlist(words8))
+#View(words.freq)
+
+Haiti <- as.data.frame(words.freq8)
+
+#library(dplyr)
+Haiti <- Haiti %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Iraq
+
+sentences9 <- scan("2019_iraq.txt","character", sep="\n")
+sentences9 <- str_replace_all(sentences9, "[^[:alpha:]]", " ")
+sentences9 <-gsub("\\.","",sentences9)
+sentences9 <-gsub("\\,","",sentences9)
+words9<-strsplit(sentences9," ")
+#print(words3)
+words9<-tokenize_words(sentences9, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq9<-table(unlist(words9))
+#View(words.freq)
+
+Iraq <- as.data.frame(words.freq9)
+
+#library(dplyr)
+Iraq <- Iraq %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Jordan
+
+sentences10 <- scan("2019_jordan.txt","character", sep="\n")
+sentences10 <- str_replace_all(sentences10, "[^[:alpha:]]", " ")
+sentences10 <-gsub("\\.","",sentences10)
+sentences10 <-gsub("\\,","",sentences10)
+words10<-strsplit(sentences10," ")
+#print(words3)
+words10<-tokenize_words(sentences10, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq10<-table(unlist(words10))
+#View(words.freq)
+
+Jordan <- as.data.frame(words.freq10)
+
+#library(dplyr)
+Jordan <- Jordan %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Kenya Regional
+
+sentences11 <- scan("2019_kenya_regional.txt","character", sep="\n")
+sentences11 <- str_replace_all(sentences11, "[^[:alpha:]]", " ")
+sentences11 <-gsub("\\.","",sentences11)
+sentences11 <-gsub("\\,","",sentences11)
+words11<-strsplit(sentences11," ")
+#print(words3)
+words11<-tokenize_words(sentences11, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq11<-table(unlist(words11))
+#View(words.freq)
+
+Kenya <- as.data.frame(words.freq11)
+
+#library(dplyr)
+Kenya <- Kenya %>%
+  arrange(desc(Freq))
+```
+
+```{r}
+#Lebanon
+
+sentences12 <- scan("2019_lebanon.txt","character", sep="\n")
+sentences12 <- str_replace_all(sentences12, "[^[:alpha:]]", " ")
+sentences12 <-gsub("\\.","",sentences12)
+sentences12 <-gsub("\\,","",sentences12)
+words12<-strsplit(sentences12," ")
+#print(words3)
+words12<-tokenize_words(sentences12, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq12<-table(unlist(words12))
+#View(words.freq)
+
+Lebanon <- as.data.frame(words.freq12)
+
+#library(dplyr)
+Lebanon <- Lebanon %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Libya
+
+sentences13 <- scan("2019_libya.txt","character", sep="\n")
+sentences13 <- str_replace_all(sentences13, "[^[:alpha:]]", " ")
+sentences13 <-gsub("\\.","",sentences13)
+sentences13 <-gsub("\\,","",sentences13)
+words13<-strsplit(sentences13," ")
+#print(words3)
+words13<-tokenize_words(sentences13, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq13<-table(unlist(words13))
+#View(words.freq)
+
+Libya <- as.data.frame(words.freq13)
+
+#library(dplyr)
+Libya <- Libya %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Mozambique
+
+sentences14 <- scan("2019_mozambique.txt","character", sep="\n")
+sentences14 <- str_replace_all(sentences14, "[^[:alpha:]]", " ")
+sentences14 <-gsub("\\.","",sentences14)
+sentences14 <-gsub("\\,","",sentences14)
+words14<-strsplit(sentences14," ")
+#print(words3)
+words14<-tokenize_words(sentences14, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq14<-table(unlist(words14))
+#View(words.freq)
+
+Mozambique <- as.data.frame(words.freq14)
+
+#library(dplyr)
+Mozambique <- Mozambique %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Myanmar
+
+sentences15 <- scan("2019_myanmar.txt","character", sep="\n")
+sentences15 <- str_replace_all(sentences15, "[^[:alpha:]]", " ")
+sentences15 <-gsub("\\.","",sentences15)
+sentences15 <-gsub("\\,","",sentences15)
+words15<-strsplit(sentences15," ")
+#print(words3)
+words15<-tokenize_words(sentences15, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq15<-table(unlist(words15))
+#View(words.freq)
+
+Myanmar <- as.data.frame(words.freq15)
+
+#library(dplyr)
+Myanmar <- Myanmar %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Nigeria Regional
+
+sentences16 <- scan("2019_nigeria_regional.txt","character", sep="\n")
+sentences16 <- str_replace_all(sentences16, "[^[:alpha:]]", " ")
+sentences16 <-gsub("\\.","",sentences16)
+sentences16 <-gsub("\\,","",sentences16)
+words16<-strsplit(sentences16," ")
+#print(words3)
+words16<-tokenize_words(sentences16, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq16<-table(unlist(words16))
+#View(words.freq)
+
+NigeriaReg <- as.data.frame(words.freq16)
+
+#library(dplyr)
+NigeriaReg <- NigeriaReg %>%
+  arrange(desc(Freq))
+```
+```{r}
+#North Korea
+
+sentences17 <- scan("2019_northkorea_faoappeal.txt","character", sep="\n")
+sentences17 <- str_replace_all(sentences17, "[^[:alpha:]]", " ")
+sentences17 <-gsub("\\.","",sentences17)
+sentences17 <-gsub("\\,","",sentences17)
+words17<-strsplit(sentences17," ")
+#print(words3)
+words17<-tokenize_words(sentences17, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq17<-table(unlist(words17))
+#View(words.freq)
+
+NorthKorea <- as.data.frame(words.freq17)
+
+#library(dplyr)
+NorthKorea <- NorthKorea %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Palestine
+
+sentences18 <- scan("2019_opt.txt","character", sep="\n")
+sentences18 <- str_replace_all(sentences18, "[^[:alpha:]]", " ")
+sentences18 <-gsub("\\.","",sentences18)
+sentences18 <-gsub("\\,","",sentences18)
+words18<-strsplit(sentences18," ")
+#print(words3)
+words18<-tokenize_words(sentences18, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq18<-table(unlist(words18))
+#View(words.freq)
+
+Palestine <- as.data.frame(words.freq18)
+
+#library(dplyr)
+Palestine <- Palestine %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Somalia
+
+sentences19 <- scan("2019_somalia.txt","character", sep="\n")
+sentences19 <- str_replace_all(sentences19, "[^[:alpha:]]", " ")
+sentences19 <-gsub("\\.","",sentences19)
+sentences19 <-gsub("\\,","",sentences19)
+words19<-strsplit(sentences19," ")
+#print(words3)
+words19<-tokenize_words(sentences19, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq19<-table(unlist(words19))
+#View(words.freq)
+
+Somalia <- as.data.frame(words.freq19)
+
+#library(dplyr)
+Somalia <- Somalia %>%
+  arrange(desc(Freq))
+```
+```{r}
+#South Sudan
+
+sentences20 <- scan("2019_southsudan.txt","character", sep="\n")
+sentences20 <- str_replace_all(sentences20, "[^[:alpha:]]", " ")
+sentences20 <-gsub("\\.","",sentences20)
+sentences20 <-gsub("\\,","",sentences20)
+words20<-strsplit(sentences20," ")
+#print(words3)
+words20<-tokenize_words(sentences20, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq20<-table(unlist(words20))
+#View(words.freq)
+
+SouthSudan <- as.data.frame(words.freq20)
+
+#library(dplyr)
+SouthSudan <- SouthSudan %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Sudan
+
+sentences21 <- scan("2019_sudan.txt","character", sep="\n")
+sentences21 <- str_replace_all(sentences21, "[^[:alpha:]]", " ")
+sentences21 <-gsub("\\.","",sentences21)
+sentences21 <-gsub("\\,","",sentences21)
+words21<-strsplit(sentences21," ")
+#print(words3)
+words21<-tokenize_words(sentences21, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq21<-table(unlist(words21))
+#View(words.freq)
+
+Sudan <- as.data.frame(words.freq21)
+
+#library(dplyr)
+Sudan <- Sudan %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Syria Regional
+
+sentences22 <- scan("2019_syria_3rso.txt","character", sep="\n")
+sentences22 <- str_replace_all(sentences22, "[^[:alpha:]]", " ")
+sentences22 <-gsub("\\.","",sentences22)
+sentences22 <-gsub("\\,","",sentences22)
+words22<-strsplit(sentences22," ")
+#print(words3)
+words22<-tokenize_words(sentences22, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq22<-table(unlist(words22))
+#View(words.freq)
+
+Syria <- as.data.frame(words.freq22)
+
+#library(dplyr)
+Syria <- Syria %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Uganda
+
+sentences23 <- scan("2019_uganda.txt","character", sep="\n")
+sentences23 <- str_replace_all(sentences23, "[^[:alpha:]]", " ")
+sentences23 <-gsub("\\.","",sentences23)
+sentences23 <-gsub("\\,","",sentences23)
+words23<-strsplit(sentences23," ")
+#print(words3)
+words23<-tokenize_words(sentences23, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq23<-table(unlist(words23))
+#View(words.freq)
+
+Uganda <- as.data.frame(words.freq23)
+
+#library(dplyr)
+Uganda <- Uganda %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Ukraine
+
+sentences24 <- scan("2019_ukraine.txt","character", sep="\n")
+sentences24 <- str_replace_all(sentences24, "[^[:alpha:]]", " ")
+sentences24 <-gsub("\\.","",sentences24)
+sentences24 <-gsub("\\,","",sentences24)
+words24<-strsplit(sentences24," ")
+#print(words3)
+words24<-tokenize_words(sentences24, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq24<-table(unlist(words24))
+#View(words.freq)
+
+Ukraine <- as.data.frame(words.freq24)
+
+#library(dplyr)
+Ukraine <- Ukraine %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Venezuela Regional Crisis
+
+sentences25 <- scan("2019_venezuela_regional.txt","character", sep="\n")
+sentences25 <- str_replace_all(sentences25, "[^[:alpha:]]", " ")
+sentences25 <-gsub("\\.","",sentences25)
+sentences25 <-gsub("\\,","",sentences25)
+words25<-strsplit(sentences25," ")
+#print(words3)
+words25<-tokenize_words(sentences25, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq25<-table(unlist(words25))
+#View(words.freq)
+
+Venezuela <- as.data.frame(words.freq25)
+
+#library(dplyr)
+Venezuela <- Venezuela %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Yemen
+
+sentences26 <- scan("2019_yemen.txt","character", sep="\n")
+sentences26 <- str_replace_all(sentences26, "[^[:alpha:]]", " ")
+sentences26 <-gsub("\\.","",sentences26)
+sentences26 <-gsub("\\,","",sentences26)
+words26<-strsplit(sentences26," ")
+#print(words3)
+words26<-tokenize_words(sentences26, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq26<-table(unlist(words26))
+#View(words.freq)
+
+Yemen <- as.data.frame(words.freq26)
+
+#library(dplyr)
+Yemen <- Yemen %>%
+  arrange(desc(Freq))
+```
+```{r}
+#Zimbabwe
+
+sentences27 <- scan("2019_zim_flash.txt","character", sep="\n")
+sentences27 <- str_replace_all(sentences27, "[^[:alpha:]]", " ")
+sentences27 <-gsub("\\.","",sentences27)
+sentences27 <-gsub("\\,","",sentences27)
+words27<-strsplit(sentences27," ")
+#print(words3)
+words27<-tokenize_words(sentences27, stopwords = stopwords::stopwords('en'))
+#print(words3)
+words.freq27<-table(unlist(words27))
+#View(words.freq)
+
+Zimbabwe <- as.data.frame(words.freq27)
+
+#library(dplyr)
+Zimbabwe <- Zimbabwe %>%
+  arrange(desc(Freq))
+```
+
+

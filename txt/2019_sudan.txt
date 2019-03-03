@@ -1,0 +1,1563 @@
+. 01 
+sudan 
+Photo: UNAMID/ A.Gonzalez 
+JAN 2017 
+HUMANITARIAN 
+STRATEGY 
+multi-ye ar 
+2017 - 2019 
+Tawilla, North Darfur 
+© UN agencies
+
+02 . S U D A N 
+E G Y P T 
+L I BYA 
+E T H I O P I A 
+CHAD 
+S O U T H S U DAN 
+S AU D I A R A B I A 
+C E N T R A L A F R I CAN 
+R E P U B L I C 
+E R I T R E A 
+K E N YA 
+DEMOCRAT I C R E P U B L I C 
+O F T H E CONGO 
+Abyei 
+NORTHERN 
+RIVER NILE 
+RED SEA 
+NORTH 
+DARFUR 
+NORTH 
+KORDOFAN 
+SOUTH 
+DARFUR 
+EAST 
+DARFUR 
+GEDAREF 
+SOUTH 
+KORDOFAN 
+WEST 
+KORDOFAN 
+KASSALA 
+SENNAR 
+BLUE NILE 
+WHITE 
+NILE 
+WEST 
+DARFUR 
+CENTRAL 
+DARFUR 
+AL GEZIRA 
+KHARTOUM 
+Khartoum 
+R e d S e a
+
+. 03 
+Table of contents 
+Foreword by Humanitarian Coordinator .................................................................. 04 
+Foreword by HAC Commissioner General ............................................................... 05 
+the multi-ye ar humantarian strategy 
+Why a Multi-Year Humanitarian Strategy for Sudan .............................................. 06 
+Scope and priorities ........................................................................................................... 07 
+Enhancing the humanitarian-development-peace nexus .............................. 07 
+Strengthening partnerships with and capacities of national actors ............ 07 
+Predictability of humanitarian financing ................................................................. 08 
+The Crisis: humanitarian needs 
+Overview ................................................................................................................................... 09 
+Planning assumptions ...................................................................................................... 09 
+multi-ye ar humanitarian strategy 
+outcomes 
+Overview .............................................................................................................................. 11 
+Outcome 1 ............................................................................................................................ 12 
+Outcome 2 ............................................................................................................................ 12 
+Outcome 3 ........................................................................................................................... 15 
+coordination 
+Strategy overview ............................................................................................................. 17 
+Cross-cutti ng issues 
+Centrality of Protection and Accountability ............................................................. 18 
+Gender and age sensitive programming ................................................................... 18 
+Environment ..................................................................................................................... 18 
+monitoring and evaluation 
+Monitoring ..................................................................................................................... 19 
+Evaluation and continuous learning ................................................................. 19 
+draft results framew ork
+
+04 Forew ord by the humanitarian coordinator 
+Forew ord by 
+the humanitarian 
+coordinator 
+Ms. Marta Ruedas 
+Resident and Humanitarian Coordinator 
+For over 14 years, the humanitarian community in Sudan has provided life-saving assistance to people affected by conflict and 
+natural disasters including those internally displaced and refugees fleeing from neighbouring countries. The humanitarian 
+response has also helped to stabilise living conditions for millions of people in Darfur and other areas, and reduced mortality 
+and morbidity. This Multi-Year Humanitarian Strategy – the first of its kind in Sudan – recognises that Sudan has both new 
+crises and long-term humanitarian needs which require different types of interventions. It represents a commitment by 
+the humanitarian community to better address the long-term needs and to work towards a sustainable reduction in needs, 
+vulnerabilities and risk. At the same time, life-saving interventions to respond to new crises will be prioritised in line with 
+humanitarian principles. 
+This approach will advance the commitments made at the World Humanitarian Summit to pursue a New Way of Working that 
+better integrates the humanitarian and development workstreams to strengthen the humanitarian-development nexus as part 
+of the Grand Bargain; and brings together humanitarian partners and donors to pursue multi-year humanitarian planning in 
+support of this objective. 
+Though the intention of this multi-year approach is to take a first step towards putting some of the humanitarian caseload on 
+the road towards a more developmental approach, humanitarian needs in Sudan remain significant, with 4.8 million people in 
+need of assistance this year, including 2.3 million IDPs. Millions of people are facing food insecurity and acute malnutrition. 
+Over 400,000 refugees have arrived from South Sudan since 2013 with over 85,000 arriving in the first three months of this year, 
+and this number is expected to grow. While a robust humanitarian response will continue to be essential - especially in Central 
+Darfur, South Kordofan and Blue Nile – much of this population is also in need of greater development assistance in order for 
+some of the structural underpinnings of the issues to be addressed. 
+The strategy will be linked to the UNDAF – the UN’s development plan – at the outcome and output levels, enhancing 
+alignment between humanitarian and development goals. Humanitarian partners have already been implementing projects that 
+address long-term displacement and build resilience and in 2016 started to shift to a vulnerability-based approach rather than 
+targeting based on status. Building on this approach, this strategy will lay the foundations for durable solutions for displaced 
+persons - both internally displaced persons and refugees - in line with international normative frameworks. 
+We have developed the strategy – that will be complemented with annual response plans and budgets – in close cooperation 
+with the Government of Sudan and our national and international partners. Our collective efforts will also be required to 
+implement it successfully. The strategy is in line with the broader vision of the Government to promote stability, reduce 
+vulnerability and enhance resilience. We will also work to strengthen the capacities of national actors, including in preparedness 
+and early warning. Government support and facilitation of humanitarian activities is critical to the success of this strategy. The 
+continued support of donors, including the flexibility to make multi-year funding commitments and to scale up support for 
+development activities, is also critical. 
+Through these efforts, we are committed to ensuring an efficient, sustainable and principled humanitarian response to those in 
+need. 
+
+forew ord by the humanitarian aid commissioner general 05 
+forew ord by 
+the humanitarian aid 
+commissioner general 
+H.E. Mr. Ahmed Mohamed Adam 
+Humanitarian Aid Commissioner General 
+The Multi-Year Humanitarian Strategy (2017-2019) constitutes an important step for the humanitarian response in Sudan. For 
+the first time, humanitarian action will be guided by a strategy looking three years ahead. This will allow for strengthening the 
+links between emergency humanitarian response and the longer-term development necessary to sustainably reduce the level of 
+needs in Sudan. 
+The past year has witnessed continued progress towards peace and stability presenting greater opportunities for development 
+interventions, while humanitarian needs are driven by climatic factors and poverty, strengthening development activities is 
+essential to addressing the underlying causes. 
+By taking a multi-year approach and providing clear links to the Government and UN’s planned development outcomes 
+in Sudan, this strategy will enable the humanitarian response to be adapted to the need for longer-term planning and the 
+promotion of sustainable development. Ultimately, it should help to reduce the need for external humanitarian assistance. 
+This strategy is a product of collaboration and consultation between the Government, United Nations and Partners. It 
+contributes to national priorities and strategies. In addition, it provides the opportunity to further strengthen government 
+collaboration and partnership with the UN and partners in Sudan over the coming three years. Such partnership is vital to 
+ensuring people in need receive humanitarian assistance and protection in a timely and sustained manner. 
+The strategy ensures that the range of humanitarian response builds capacity at all levels for both Government and national 
+partners, including local communities, civil society, and local and national institutions. In cooperation with development 
+actors, national capacity for early warning and recovery will also be strengthened. Together, this will help to strengthen 
+national response mechanisms, better coordinate humanitarian response with national service delivery, and ultimately reduce 
+dependence on aid. 
+The Government of Sudan is committed to facilitate the implementation of this strategy, to enhance the effectiveness of the 
+humanitarian response, while seeking to advance durable solutions for the displaced population, and promoting sustainable 
+development for all Sudanese, including the most vulnerable. We hope this Strategy will provide an example which can benefit 
+other countries in the region and beyond. 
+We thank donors for their continued support and count on their commitment to provide multi-year humanitarian funding, as 
+well as greater development funding, in areas with humanitarian needs.I would also like to thank all those who contributed to 
+the preparation of the strategy in particular the Government National Mechanism and the United Nations. I look forward to our 
+continued active partnership to serve all the people in Sudan in need of humanitarian assistance and development intervention.
+
+06 the multi-ye ar humanitarian strategy 
+the multi-ye ar 
+humanitarian strategy 
+This Multi-Year Humanitarian Strategy is a commitment by the international humanitarian community 
+in Sudan, in line with the Government quarter century strategy and the Government third five-year 
+plan, to deliver a more appropriate humanitarian response to both emergency and long-term needs 
+across the country, in line with humanitarian principles. Planning beyond annual cycles will allow 
+for better preparedness and a stronger evidence base for humanitarian activities. It will also improve 
+collective accountability to affected people by investing in sustainable approaches that enable a 
+gradual transition to durable solutions and development. Multi-year planning will also increase 
+humanitarian actors’ accountability to all stakeholders, including the government, donors and 
+implementing partners, by maximising the impact of available financial resources. This strategy is a 
+commitment to the people of Sudan to shift from saving lives to reducing needs and vulnerabilities 
+and creating the basis for early recovery and durable solutions. 
+WHY A MULTI-YEAR HUMANITARIAN STRATEGY 
+FOR SUDAN ? 
+Since the beginning of the humanitarian crisis in Sudan, the 
+humanitarian community has provided life-saving assistance 
+to people affected by conflict and natural disasters and 
+stabilized the living conditions of millions of people in Darfur 
+and other areas. Material and protection assistance has been 
+provided to a long-term refugee population and internally 
+displaced persons (IDPs), reducing mortality and morbidity 
+and preventing a spillover effect and further displacement 
+abroad. At the same time, humanitarian assistance has 
+been extended to people affected by chronic development 
+challenges and limited access to basic services and assets. 
+While this has prevented people from slipping below 
+emergency thresholds, it has not addressed the underlying 
+vulnerabilities, and assistance has been inadequate. 
+Challenges in predicting the extent of conflict, its impact and 
+the resolution thereof have contributed to these shortcomings. 
+It is hoped that the long-term and strategic interventions 
+and the support provided by all stakeholders outlined in this 
+strategy will help to address these issues. Since 2004, funding 
+requests for humanitarian assistance in Sudan have varied 
+from US$700,000 to $2.1 billion annually. In the last five years 
+alone, donors have generously provided at least $3.2 billion1 to 
+consolidated humanitarian response plans. 
+The shift to a Multi-Year Humanitarian Strategy is supported 
+by the recognition that Sudan has new and long-term 
+humanitarian needs. Across Darfur and the Two Areas, 
+unilateral ceasefires have been announced, which have mostly 
+held. Across Darfur, the main armed groups are largely 
+absent on the ground, but in the Jebel Marra area, some 
+armed groups are present. An improved security situation 
+has provided the impetus for some returns, both from Chad 
+and from within Darfur. There is also renewed hope for 
+further returns, should the overall security situation stabilise 
+further. Even then, the overall volatility of the situation 
+and some inter-communal clashes and general banditry in 
+Darfur have the potential to contribute to new crises or new 
+displacement. The priority in any new crisis would be to save 
+lives. Addressing the long-term humanitarian needs on the 
+other hand requires longer planning horizons, and integrated 
+and multi-sectoral strategies. The 2016 Humanitarian 
+Response Plan (HRP) for Sudan incorporated such strategies, 
+for example, the HCT Darfur Protracted Displacement 
+Strategy (PDS), the Sudan National IDP Policy, and the 
+Multi-Sectoral Response Strategy for return and reintegration. 
+1Figures based on OCHA Financial Tracking Service 
+Required Funded 
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+2.5 
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 
+$billion 
+2015 2016 
+Figures before 2011 include 
+South Sudan 
+$1.5bn 
+$2.1bn 
+$0.9bn 
+$0.5bn 
+Requirements vs. funding 2004 - 2016 
+
+the multi-ye ar humanitarian strategy 07 
+Longer planning horizons will allow partners to strengthen 
+programming for example by investing in more robust 
+assessments and designing sustainable approaches in support 
+of government efforts both at federal and local levels. 
+This Multi-Year Humanitarian Strategy will allow 
+humanitarian programming to include learning and capture 
+good practices that can be replicated and scaled up as 
+appropriate to boost capacity to provide life-saving assistance 
+and lay the foundations for recovery and development. 
+At the same time, the strategy will facilitate engagement 
+with development and peacebuilding partners to address 
+the drivers of vulnerabilities, underlying structural issues 
+across the country and the root causes of conflict. As such, 
+humanitarian programming will make a concrete and 
+measurable contribution to sustainable development in 
+Sudan. This is in line with global thinking around a New Way 
+of Working and the humanitarian-development nexus, that 
+humanitarian and development actors, donors, and Member 
+States committed to at the World Humanitarian Summit in 
+May 2016. 
+Scope and Priorities 
+Results Framework: 
+Outcomes with three-year targets 
+Outputs with annual targets 
+HRP 2017 HRP 2018 HRP 2019 
+2017 - 2019 
+MULTIYEAR HUMANITARIAN 
+STRATEGY 
+Annual 
+update on 
+needs, 
+activities, 
+budgets, 
+targets 
+Annual 
+update on 
+needs, 
+activities, 
+budgets, 
+targets 
+Annual 
+update on 
+needs, 
+activities, 
+budgets, 
+targets 
+This strategy provides the overarching framework for 
+humanitarian response in Sudan for three years from 2017 
+to 2019. The annual Humanitarian Needs Overview (HNO) 
+will continue to provide the basis for humanitarian activities, 
+identifying key humanitarian issues and severity of needs 
+across the country. The strategy will be operationalized 
+through annual HRPs presenting updates on strategies 
+(rooted in good practice), activities, financial requirements 
+and targets. The annual analysis and planning process will 
+remain instrumental to bring all partners together, take stock 
+of progress made against planned results and enable annual 
+joint analysis of needs and joint work planning. During these 
+three years, humanitarian partners will monitor and evaluate 
+progress against the outcomes identified in this strategy, 
+which will help to further shape and improve annual planning 
+and to refine the strategy. Periodic reviews of the severity of 
+needs will provide the basis for a rigorous prioritization of 
+humanitarian activities. 
+The multi-year planning process will allow for the 
+identification of gaps, synergies and potential integration 
+with the 2018-2021 United Nations Development Assistance 
+Framework (UNDAF). The success of this Multi-Year 
+Humanitarian Strategy will depend on the engagement 
+and commitment of a broad range of actors (development, 
+government, donors, political and peacebuilding partners). 
+The outcomes and outputs under the strategy focus on 
+providing (i) life-saving assistance to people newly displaced 
+by conflict or natural disasters, responding to disease 
+outbreaks, large scale flooding or droughts. Investment in 
+preparedness to mitigate the impact of disasters and enable 
+a timely response will also be made; (ii) improved and 
+sustainable access to basic services and enhanced self-reliance 
+for population groups affected by displacement, and (iii) 
+addressing food insecurity, malnutrition and increasing 
+resilience. Humanitarian programming will also contribute to 
+ensuring durable solutions for IDPs, refugees, returnees and 
+host communities. 
+Enhancing the humanitariandevelopme 
+nt-peace nexus 
+In line with the former UN Secretary General’s report 
+following the World Humanitarian Summit, ‘One Humanity, 
+Shared Responsibility’ (2016) and the core responsibilities of 
+leaving no-one behind and working differently to end need, 
+development and humanitarian partners in Sudan commit 
+to strategic collaboration and coordination in planning, 
+implementing and monitoring the humanitarian response. 
+The strategy has been developed in close consultation with 
+the Government of Sudan and all humanitarian stakeholders 
+as well as the team developing the 2018-2021 UNDAF, taking 
+into consideration the Poverty Reduction Strategy Paper 
+(currently being finalized while the interim one is the basis 
+for this document), the Sustainable Development Goals 
+(SDGs) and working in close coordination with development 
+partners and the donor community. Departing from the linear 
+approach that humanitarian programming can transition 
+to development programming, this strategy is based on 
+the understanding that humanitarian, development and 
+peacebuilding interventions need to occur simultaneously in 
+order to be effective. Where opportunities exist, humanitarian 
+and development partners will aim to ensure that short, 
+medium and long-term programming is coherently aligned to 
+provide more durable and sustainable assistance to vulnerable 
+households and communities in order to more effectively 
+reduce needs and vulnerability and build resilience.
+
+08 the multi-ye ar humanitarian strategy 
+Strengthening part nerships with and capacities 
+of national actors 
+Capacity building for partners and government counterparts 
+(local communities, civil society, local and national 
+institutions) will be prioritized across the response in order 
+to strengthen national response mechanisms and ensure the 
+sustainability of the response, including greater integration 
+of refugee and IDP assistance within national social service 
+systems. Capacity building will also help stakeholders to 
+better manage crises and become more resilient to shocks, 
+in cooperation with development actors. Engagement 
+with communities and their governance structures will be 
+reinforced to ensure that services are sustainable beyond 
+humanitarian interventions, and that representatives of both 
+sexes and all ages and other relevant segments of communities 
+are involved in the design, delivery and monitoring of 
+services. Investment in local infrastructure and services will 
+support host communities and strengthen local capacity to 
+absorb and integrate internally displaced people, refugees and 
+asylum seekers. 
+Predictability of humanitarian financing 
+Under this Multi-Year Humanitarian Strategy, efforts will 
+be made to ensure that funding reaches people in need 
+more rapidly. A longer planning horizon and timely project 
+inception, combined with longer implementation periods 
+where possible, will support more meaningful community 
+engagement and capacity building of national counterparts. 
+The humanitarian community in Sudan is advocating with 
+donors to support this strategy by promoting multi-year 
+commitments or funding with their capitals, in the spirit 
+of the 2016 Grand Bargain and the New Way of Working 
+agreed at the World Humanitarian Summit. This will lead to 
+improved predictability of funding streams and will ultimately 
+enable humanitarian partners to work towards the vision 
+spelled out in this strategy. 
+In order to address the drivers of chronic humanitarian needs, 
+funding for development programming needs to be scaled 
+up. The humanitarian community is also advocating for a 
+broader range of financing options, including by multilateral 
+development banks, to address the underlying drivers of 
+humanitarian need. 
+Strategic use of the Sudan Humanitarian Fund (SHF) 
+In 2017, the SHF is aligning its allocation strategy with 
+the Multi-Year Humanitarian Strategy. Approximately $5 
+million of the $21 million will be earmarked for two-year 
+projects. The SHF continues to promote multi-sectoral 
+and area-based approaches to ensure that needs are 
+addressed in a comprehensive and transparent manner. 
+Some projects will target returnee populations and link 
+with social cohesion and sustainable livelihoods activities 
+under the Darfur Community Peace and Stability Fund 
+(UN DCPSF) as well as basic services and governance 
+activities (UN Darfur Fund). Other projects will focus on 
+IDPs in long-term displacement, including multi-purpose 
+cash interventions and a focus on livelihood support in line 
+with the Protracted Displacement Strategy. 
+© UN agencies
+
+sudan: humanitarian needs 09 
+sudan: 
+humanitarian needs 
+OVERVIEW 
+Sudan faces two major overlapping humanitarian challenges: 
+while the security situation has improved, as long as nonresolution 
+of the conflict continues, localised conflict is likely 
+to lead to new displacement. Another challenge is due to 
+climatic and socio-cultural conditions leading to crisis levels 
+of food insecurity and malnutrition. The scale and long-term 
+nature of displacement, and the sudden demographic shift 
+and urbanization in the major cities, especially in Darfur, 
+which has not been matched by economic opportunities, has 
+exposed displaced people to hardship and uncertainty about 
+their future. This is putting an additional strain on the 3.6 
+million people currently suffering from food insecurity, and 
+the 2.2 million children suffering from acute malnutrition. 
+Refugees and asylum seekers living in both emergency 
+and long-term situations remain largely dependent on 
+humanitarian assistance, with very limited access to livelihood 
+opportunities. 
+In 2016, almost 159,000 people were newly displaced (and 
+remain displaced) across Darfur, according to the UN 
+and partners. Up to an additional 6,000 people were also 
+reportedly displaced during the year, (in addition to about 
+123,000 who were displaced in 2016 and have reportedly 
+returned).2 This is in addition to an estimated 2.2 million 
+IDPs who were in need of assistance in 2016. Displacement 
+has been caused primarily by conflict in many parts of Sudan, 
+and smaller-scale, inter-communal conflict related to access to 
+land and natural resource management. 
+In addition to internal displacement, Sudan has a 
+longstanding tradition of hospitality towards refugees and 
+asylum seekers, and is currently hosting refugees from the 
+Central African Republic (CAR), Chad, Eritrea, Ethiopia, 
+South Sudan, Syria and Yemen. As of December 2016, over 
+793,700 asylum seekers and refugees are being hosted across 
+Sudan. Voluntary repatriation is not an option for the vast 
+majority of refugees due to the situation in their countries of 
+origin. In view of the ongoing fighting in South Sudan and 
+significant food insecurity, reaching the level of famine in 
+certain locations, the number of refugees crossing into Sudan 
+is likely to continue to grow. According to the Government 
+of Sudan, there are over 700,000 South Sudanese refugees 
+who have sought safety and protection in Sudan since 
+December 2013 due to the progressive deterioration of the 
+security situation in South Sudan, of whom 400,000 have been 
+registered so far. 
+Cyclical challenges (seasonal weather shocks and climate 
+variability) and structural challenges (macro-economic 
+instability, low-productivity livelihoods and poverty) result 
+in crisis levels of food insecurity and chronic malnutrition. 
+Over one in three children under five are too short for their 
+age (stunted) and more than one in six are too thin for their 
+height (wasted). According to the Ministry of Health, some 
+2.2 million children suffer from wasting annually (Global 
+Acute Malnutrition, GAM) out of which over 573,000 suffer 
+from Severe Acute Malnutrition (SAM). Eleven out of the 
+eighteen states have a malnutrition prevalence of above 15 
+per cent, which is above the emergency threshold as per the 
+WHO standards. Some states have much higher rates, such as 
+North Darfur where GAM prevalence is at 27.9 per cent.3 
+This is particularly significant in the east of Sudan, 
+where chronic underdevelopment often results in acute 
+humanitarian needs. The main contributing factors to these 
+high levels of malnutrition are food insecurity, disease 
+outbreaks, lack of access to primary healthcare and clean 
+drinking water, inadequate sanitation facilities, and poor 
+infant feeding practices. Both acute and chronic forms of 
+undernutrition affect the growth, development and survival of 
+children in Sudan. 
+While challenges related to seasonality are not new, 
+increasing climate variability and warming mean that shocks 
+to agricultural livelihoods are increasing in frequency and 
+intensity, extending lean seasons and creating situations where 
+humanitarian assistance is needed. Opportunities for rural 
+livelihoods are also diminished by increasing environmental 
+degradation. The 2015-16 El Niño event which mainly 
+affected people in already disadvantaged settings highlighted 
+the high vulnerability of the people of Sudan to recurrent 
+climate-related disasters. These cyclical challenges add to 
+pervasive structural challenges due to economic hardships 
+including inflation, short-term price volatility, limited social 
+safety nets, and limited job generation initiatives. 
+Planning Assumptions 
+This three-year strategy is based on the assumption that 
+the key drivers of humanitarian needs, both chronic and 
+structural causes, and the likelihood of shocks will continue 
+in the next three years. However, opportunities also exist 
+emanating from the unilateral cessation of hostilities, the 
+significant reduction of large scale armed conflict, the general 
+disposition of IDPs to return under certain conditions, the 
+2The number of people displaced in 2016 has increased since the 2017 HNO was finalized due to registration and verification of people displaced during 2016 (completed in early 2017). 
+3UNDAF CCA, 2016.
+
+10 sudan: humanitarian needs 
+discussion with the US administration on lifting the sanctions 
+and the conditions stipulated. Conditions include cessation of 
+hostilities, free and unfettered humanitarian access, to name 
+a few. Seasonal return continues to take place, in order for 
+people to carry out cultivation and farming. 
+Internal displacement: from 2017 to end 2019, displacement 
+and return patterns will vary based on low intensity conflict 
+and insecurity. With fighting still ongoing in Darfur, Blue 
+Nile, South Kordofan and insecurity in Abyei, further 
+displacement remains likely in 2017 and beyond. Since 2003, 
+some 533,000 people have voluntarily returned, of whom 
+209,000 since 2014. Investments in durable solutions for 
+IDPs will gradually reduce the number of people affected by 
+long-term displacement, while humanitarian partners remain 
+prepared to deliver comprehensive emergency assistance to 
+those newly displaced. 
+Refugees: in 2016, over 131,000 refugees arrived from South 
+Sudan – the highest number of refugees from any country. 
+An additional 85,000 refugees arrived from January to end 
+of March 2017. It is expected that by the end of 2017, the 
+total number of refugees fom South Sudan since the onset of 
+conflict in December 2013 will reach 477,000 mainly in South 
+and East Darfur, South and West Kordofan, and White Nile, 
+amid reports of an upsurge in armed conflict and emergency 
+levels of food insecurity in areas of South Sudan near the 
+Sudan border. UNHCR and partners are monitoring the 
+situation closely and prepositioning emergency shelter and 
+NFIs and scaling-up reception services to bolster the response. 
+UNHCR registers refugees in 5 states. 
+Malnutrition: undernutrition is one of Sudan’s most 
+serious, but least addressed, socioeconomic and health 
+problems. National malnutrition rates have not improved 
+for the last 30 years, with stunting levels even showing an 
+upward trend, reaching 38.2 % in 2014.4 In the absence of 
+adequate investment to address the underlying causes of 
+undernutrition, humanitarian actors will continue to provide 
+humanitarian nutrition services to affected populations in 
+2017. More generally, in a context shaped by insufficient basic 
+services, humanitarian assistance will remain a lifeline to 
+prevent people from slipping below emergency thresholds. 
+Climate-related shocks and hazards: according to the 2017 
+HNO, 3.6 million people are living at crisis or emergency 
+levels of food insecurity. This represents a decrease of 1 
+million people affected by food insecurity at the peak of the 
+El Nino period in 2016. In contrast to alarming levels of food 
+insecurity in neighbouring countries in the Horn of Africa, 
+the forecast in Sudan for wheat to be harvested by March 2017 
+is generally good, ensuring an adequate supply for Sudan’s 
+population for 2017 nationally. Humanitarian partners will 
+continue to closely monitor the situation. The frequency 
+of seasonal floods has gradually increased in recent years, 
+disproportionately impacting already vulnerable populations 
+and creating additional humanitarian needs. 
+Despite expected significant new humanitarian needs as 
+spelled out above, there have been improvements in the 
+security situation in Darfur that could facilitate development 
+activities. It is for such situations that a New Way of Working 
+was proposed at the World Humanitarian Summit. This 
+strategy has been developed with the assumption that links 
+to development programming can be strengthened over the 
+coming three years. More sustainable approaches will further 
+reduce the vulnerability of targeted populations and increase 
+self-reliance, so that the need for humanitarian assistance will 
+gradually decline. For 2017, this will require the identification 
+of potential thematic or geographic areas that would allow for 
+a sequencing and layering of humanitarian and development 
+assistance and a scale-up of development assistance to 
+gradually reduce vulnerabilities. 
+Acknowledging the fast-changing environment in Sudan, the 
+HCT and humanitarian stakeholders commit to periodically 
+validate and/or review these assumptions as necessary to 
+ensure the strategy remains relevant or is adapted to address 
+any changes in the context. Activities under Outcome 1 will 
+be rapidly scaled up as necessary in the event of emergencies 
+or a deterioration of the humanitarian situation to ensure that 
+timely life-saving assistance is prioritised and delivered at 
+scale and as needed. 
+4UNDAF CCA, 2016 
+
+sudan: humanitarian needs 11 
+© UN agencies 
+The Refugee Response: moving toward a multi-year 
+approach in Sudan 
+Responding to the emergency needs of South Sudanese 
+refugees remains a top priority. Having usually travelled 
+long distances to seek safety and protection, they need 
+protection, food, water, shelter, health and nutrition 
+assistance as well as livelihood opportunities. In view of 
+the ongoing fighting in South Sudan and significant food 
+insecurity, reaching famine level in certain locations, 
+the number of refugees crossing into Sudan is likely 
+to continue to grow. As the South Sudanese refugee 
+emergency enters its fourth year, there is a need to move 
+beyond the emergency phase and focus on long-term 
+solutions that strengthen the resilience of refugees and 
+allow them to become more self-reliant in the face of a 
+potentially protracted crisis. There are over 400,000 South 
+Sudanese refugees who have sought safety and protection 
+in Sudan since December 2013 due to the progressive 
+deterioration of the security situation in South Sudan. 
+A move to a multi-year strategy supports enhanced 
+preparedness of the refugee response, with a view to 
+preparing for the needs of anticipated new influxes in 2018 
+and 2019. 
+Refugees living in protracted situations in Darfur and 
+eastern Sudan remain largely dependent on humanitarian 
+aid, with a small percentage able to access livelihood 
+opportunities. The majority of refugees in Sudan are 
+living in chronic poverty, driven by a lack of livelihood 
+opportunities, restriction of movement in some areas, high 
+prices of local commodities, and limited access to land 
+for farming. The ability of refugees to become self-reliant 
+remains challenging, with most households unable to 
+find work or forced to engage in casual labor on low and 
+unreliable wages. The lack of livelihood opportunities 
+also compounds protection issues, particularly for refugee 
+women. 
+Increasing numbers of mainly Eritrean refugees in eastern 
+Sudan are turning to smuggling networks in order to 
+facilitate their movement onward. Along these migratory 
+routes, refugees and asylum-seekers risk exposure to 
+various forms of exploitation, including human trafficking. 
+Drivers of onward movement of refugees and asylum 
+seekers living in protracted situations fall within a broader 
+development context in Sudan. There is a need for more 
+durable solutions that support the development of 
+opportunities for refugees to gain greater self-reliance and 
+enhanced protection, and these solutions require multiyear 
+considerations and long-term planning. 
+
+12 The MULTI-YEAR HUMANITARIAN Strategy OUTCO MES: 
+The MULTI-YEAR HUMANITARIAN Strategy OUTCO MES: 
+from saving lives 
+to reducing needs 
+& vulnerabilitieS & 
+building resilience 
+strategy overview 
+The over-arching objective of this strategy is to protect the lives, security and integrity, as well as the fundamental wellbeing and 
+dignity, of people affected by emergencies, including conflict. At the same time, self-reliance and resilience of affected people, in 
+particular for those living in long-term crises, will be strengthened through further integrating an early recovery approach.5 The 
+response will be anchored in humanitarian principles, International Humanitarian Law, International Human Rights Law and 
+International Refugee Law. In order to ensure efficiency in achieving these outcomes, there is a dedicated commitment from 
+humanitarian partners to use an integrated approach throughout the planning, implementation and monitoring phases of the 
+strategy. 
+By capitalizing on the impact of life-saving interventions and strategically linking the emergency response to resilience, 
+development, and peacebuilding programming, the strategy aims at gradually reducing the number of people in Sudan who are 
+in need of humanitarian assistance. In this regard, the Humanitarian Country Team has agreed on three strategic outcomes: 
+5Guidance Note on Inter-Cluster Early Recovery, Global Cluster for Early Recovery, January 2016 
+6“Productive capacities” as derived from UN Secretary-General’s report to ECOSOC, E/2012/74, 
+encompass the productive resources, entrepreneurial capabilities and production linkages, which 
+together determine the capacity of a country to produce goods and services in a way which 
+achieves economic growth, poverty reduction and environmental sustainability. 
+Multi-ye ar HUMANITARIAN STRATEGY Strategic Outcomes 
+Outcome 1: Populations affected by natural 
+or man-made disasters receive timely 
+assistance during and in the aftermath of 
+the shock 
+Outcome 2: Displaced populations, 
+refugees, returnees and host communities 
+meet their basic needs and/or access 
+essential basic services while increasing 
+their self-reliance 
+Outcome 3: Vulnerable residents in 
+targeted areas have improved nutrition 
+status and increased resilience 
+UNDAF Strategic Outcomes 
+Outcome 1: By 2021, people in Sudan, with 
+emphasis on small producers and microentrepreneurs, 
+have access to improved 
+productive capacities6 that contribute to 
+inclusive and sustainable livelihoods, job 
+creation and ending extreme poverty 
+Outcome 2: By 2021, people’s resilience 
+to consequences of climate change, 
+environmental stresses and natural hazards is 
+enhanced through strengthened institutions, 
+policies, plans and programmes 
+Outcome 2: By 2021, people’s resilience 
+to consequences of climate change, 
+environmental stresses and natural hazards 
+is enhanced through strengthened 
+institutions, policies, plans and programmes 
+Outcome 3: By 2021, the most vulnerable population have improved health, nutrition, 
+education, water and sanitation, and social protection outcomes 
+820 
+Outcome 4: By 2021 national, state and local institutions are more effective to carry out 
+their mandates including strengthening normative frameworks that respect human rights 
+and fundamental freedoms and ensure effective service delivery 
+75 
+Outcome 5: By 2021, security and stabilization of communities affected by conflict 
+are improved through utilization of effective conflict management mechanisms, peace 
+dividends and support to peace infrastructures and durable solutions that augment 
+peaceful coexistence and social cohesion
+
+The MULTI-YEAR HUMANITARIAN Strategy OUTCO MES: 13 
+outcome 1 
+Populations affected by natural or man-made 
+disasters receive timely assistance during and in the 
+aftermath of a shock 
+Until end 2019, humanitarian partners will work to ensure:7 
+(i) Strengthened emergency response preparedness of 
+humantarian actors; (ii) Affected people receive timely 
+lifesaving assistance; (iii) Coping mechanisms are 
+strengthened through integrated community-based early 
+recovery programming. 
+New emergencies will require providing emergency food 
+assistance, increasing access to livelihoods to reduce negative 
+coping strategies, attending to the critical needs of acutely 
+malnourished children and pregnant and lactating women, 
+providing shelter from the elements, and ensuring access to 
+basic services such as education, health, nutrition, protection, 
+water, sanitation and hygiene. Protection services are also 
+required to identify and respond in a timely manner to people 
+at risk of abuse or neglect, including women and children, 
+older people and people with disabilities, and victims of 
+explosive remnants of war. Additionally, newly displaced 
+persons, returnees and refugees will also require timely 
+access to registration and documentation services including 
+protection from trafficking. During the emergency phase, 
+humanitarian partners must make every effort to reassess the 
+needs of vulnerable people and prioritize assistance, through 
+vulnerability criteria, under Outcome 2 of this plan.8 
+Under Outcome 1, humanitarian partners commit to 
+improve the timeliness of the response to new emergencies. 
+Collective investment in the capacity for situation and risk 
+monitoring will help to improve regular evidence generation 
+on the severity of needs across the country. Early warning 
+information will enable a timely response as soon as new 
+needs arise, and facilitate the adjustment of priorities as 
+required. This will facilitate a seamless flow between alert, 
+appeals for funding and action on the ground. The Minimum 
+Operating Standards (MOS)9 and the Sudan Emergency 
+Response Framework (ERF)10 will guide operations in the face 
+of new shocks and risks and inform preparedness efforts for 
+IDPs and resident populations, while the refugee response will 
+be guided by UNHCR Emergency Standards and Indicators. 
+Implementation of Emergency Response Preparedness 
+(ERP) actions will help identify priority humanitarian risks 
+in the country, determine the level of preparedness needed 
+to respond, and identify gaps in the response system that 
+need to be addressed. UNHCR’s Framework for Emergency 
+Preparedness and Response Procedures will assist to 
+identify the procedures needed, guide internal leadership, 
+coordination arrangements and accountabilities during the 
+pre-emergency phase and during the emergency. 
+Emergency interventions will be linked to existing safety 
+net platforms (including cash transfers, input subsidies, 
+other livelihood initiatives and health insurance), which will 
+provide a spring board to scale up the response and promote 
+a continuum and alignment with development activities and 
+partners. Close coordination with government counterparts 
+and local partners will contribute to building the capacity 
+of national partners and improving preparedness for new 
+emergencies.11 
+Link to development programming: 
+Humanitarian activities aimed at providing assistance to 
+communities affected by natural or climate-related shocks 
+are aligned to UNDAF Outcome 2, which aims to increase 
+resilience and risk management capacities at household, 
+community and policy levels. Community-based activities 
+under this UNDAF outcome (reduce conflict over natural 
+resources, improve early warning systems and the capacity 
+to prepare and respond to natural disasters) will target 
+geographical areas and communities that also benefit from 
+humanitarian assistance, including vulnerable resident 
+communities hosting IDPs and refugees. Investments in early 
+warning systems and capacity-building of national partners 
+on Disaster Risk Management will be complemented by 
+capacity building and readiness efforts, gradually reducing the 
+need for large-scale humanitarian assistance in the aftermath 
+of natural and climate-related shocks. Humanitarian actors 
+are also advocating for development actors to step in earlier 
+after an emergency to provide medium and long-term 
+support to people affected by natural and man-made disasters 
+to help reduce their dependence on humanitarian assistance 
+and rebuild their self-reliance. 
+outcome 2 
+Displaced populations, refugees, returnees and host 
+communities meet their basic needs and/or access 
+essential basic services while increasing their selfreliance 
+Until end 2019, humanitarian actors aim to ensure:12 (i) 
+People have equal, sustainable access to essential assistance 
+based on vulnerability targeting; (ii) People in need have 
+equal, sustainable access to quality basic services; and 
+(iii) People in need have access to income and livelihood 
+opportunities. 
+Over the last decade, new displacement, both temporary 
+and long-term, has generally ranged between one and four 
+hundred thousand people per year. In 2017, 2.3 million IDPs 
+were estimated to be in need of humanitarian assistance 
+in Sudan. This is in addition to over 790,000 refugees and 
+asylum seekers in need. The spontaneous return of IDPs 
+and Sudanese refugees mainly from Chad has taken place to 
+7DRAFT Outcomes. Please refer to Results Framework and annual HRPs for target figures 
+8Timespan of emergency interventions vary depending on the type of emergency and related guiding principles. The emergency phase of the response is usually 24 months for IDPs (WFP) 
+and five years for refugees (UNHCR). 8 
+9https://www.humanitarianresponse.info/en/operations/sudan/document/minimum-operating-standards-mos-full-enar 
+10https://www.humanitarianresponse.info/en/operations/sudan/document/emergency-response-framework-erf-2015 
+11In line with IASC Common Framework for Preparedness 
+12Please refer to Results Framework
+
+14 
+locations where conditions have improved. Since the onset of 
+the crisis in 2003, approximately 532,000 persons voluntarily 
+returned to their places of origin across Sudan. However, due 
+to unresolved land issues, ongoing insecurity and weak rule 
+of law, large-scale sustainable returns have, for the most part, 
+not yet taken place. This is further complicated by lack of 
+access to basic services, natural assets and economically and 
+environmentally sustainable livelihoods in areas of return. 
+The long-term displacement situation is not only a highly 
+destabilizing experience for the affected people, but also 
+leads to very significant development challenges. Most IDPs, 
+returnees and refugees are unable to meet their basic needs 
+independently and have very limited livelihood opportunities. 
+In addition, rapid population growth and displacement have 
+altered the human geography and exerted stress on available 
+natural and economic resources. Leaving IDPs in continued 
+marginalization without the prospect of a durable solution is 
+an obstacle to long-term peace, recovery and reconstruction. 
+Early recovery and self-reliance interventions will therefore 
+be increased and the dependence of people on emergency 
+relief will progressively be reduced as early as possible. For 
+refugees, only few opportunities to find a durable solution 
+exist, despite their importance to guaranteeing safety and 
+protection. The lack of long-term options contributes to the 
+long-term nature of these emergencies and refugees finding 
+often unsafe alternative solutions to ease their suffering. 
+Investments in in-depth vulnerability assessments for IDPs 
+have already helped to target assistance based on vulnerability 
+and capacities where appropriate (see box). Through a rightsbased 
+approach and based on outcomes from IDP intention 
+surveys for return/reintegration, communities will be 
+supported to regain their capacity to address their basic needs 
+in an autonomous way, develop safety nets, and be integrated 
+into the essential services provided by the government to its 
+citizens. This requires that their access to essential services 
+reaches appropriate standards and becomes sustainable, safe, 
+and equitable with the rest of the population. 
+Example: Investments in vulnerability assessments for 
+IDPs to reduce dependence 
+In-depth assessments are helping to target IDPs based 
+on their capacities, needs and vulnerabilities rather than 
+based on their status as IDPs, thereby supporting the shift 
+away from annual blanket assistance for all long-term IDPs 
+in Darfur. Beneficiaries are grouped in categories based 
+on the severity of their vulnerability and then provided 
+with targeted assistance, ranging from unconditional 
+food assistance to livelihoods support and basic services. 
+This will support IDPs to become more self-reliant and 
+to gradually increase their productive assets. To date, 
+vulnerability assessments have identified 333,000 IDPs 
+as relatively better-off households. An additional 300,000 
+IDPs have been transitioned to livelihood activities (or 
+seasonal unconditional support). 
+989,920 
+853,000 
+No data 
+270,000 300,000 317,000 175,000 268,000 80,000 114,000 
+380,000 430,000 
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 
+247,000 
+2015 2016 
+159,000* 
+*2016 gures indicate veried displacement, not including reported displacement/returns. 
+No. of people newly displaced per year 
+(including verified, unverified and returns) 
+Cash-based programming and use of technology 
+The anticipated context during 2017 - 2019 will challenge the humanitarian community to address urgent needs and to 
+foster more innovative approaches to strengthen self-reliance, adapt to evolving situations and to work across sectors. 
+The Humanitarian Country Team recognises that the use of Cash-Based Transfer Programming (CTP) has the potential 
+to provide a timely and cost efficient and effective response to a variety of urgent needs, offering dignity, flexibility and, 
+depending on the modality, choice to beneficiaries while supporting local markets. Applied in the right context, CTP has the 
+potential to facilitate and strengthen self-reliance, particularly for long-term displaced and refugee communities and hence 
+offers an appropriate mechanism to link humanitarian and development programming. Where appropriate, cash and voucher 
+transfer modalities will be considered to support or complement service-based safety net approaches, in coordination with 
+government Ministry of Welfare and Social Security (MoWSS)-led social protection systems. In addition, the humanitarian 
+community will enhance its capacity to monitor the impact in a coordinated manner using available new technologies. The 
+Inter-Sector Coordination Group Cash Working Group (CWG) is co-chaired by WFP and the World Bank, extending the 
+community of practice beyond humanitarian actors and ensuring humanitarian cash-based programming is informed by the 
+broader work in Sudan on cash transfers and social safety nets. 
+The MULTI-YEAR HUMANITARIAN Strategy OUTCO MES: 
+
+15 
+To provide a basis for long term solutions for IDPs in line 
+with the Doha Document for Peace in Darfur (DDPD), 
+recovery and development plans such as the Darfur 
+Development Strategy and the UNDAF, and contributing 
+to the Sustainable Development Goals (SDGs), different 
+area-based and multi-sector approaches have already been 
+developed and endorsed. The Humanitarian Country Team 
+(HCT) Darfur Protracted Displacement Strategy (PDS) is an 
+integral part of the Multi-Year Humanitarian Strategy. The 
+PDS aims to strengthen IDP coping capacities and increase 
+self-reliance as well as improve sustainable access to quality 
+basic services for IDPs in camps and in host communities, and 
+contributes to laying the foundation for Durable Solutions. 
+While the PDS addresses displaced people’s needs and 
+vulnerabilities in their places of displacement, the areabased 
+Recovery, Return and Reintegration Sector (RRR) 
+Multi-sectoral Response Strategy aims to address immediate 
+needs and underlying vulnerabilities in areas of return and 
+reintegration. The Strategy looks into new and innovative 
+ways for humanitarian-development cooperation, including 
+scaling up and coordinating early recovery efforts from both 
+the development and humanitarian ends of the aid spectrum. 
+The framework is based on the criteria13 and benchmarks 
+for durable solutions set out in the Inter-Agency Standing 
+Committee’s Framework on Durable Solutions for Internally 
+Displaced Persons and on lessons learned from Sudan. It is 
+one of three inter-linked and overlapping phases that cover 
+immediate needs while at the same time addressing long-term 
+needs necessary to allow people to permanently return to 
+their places of origin. 
+Ensuring the self-reliance of refugees remains challenging, 
+with most households unable to find work or engaged in 
+casual labour with low wages in relation to Sudan’s high cost 
+of living. Investment in targeted livelihoods programming 
+will form a key component of the Multi-Year Humanitarian 
+Strategy in order to enhance the self-reliance and protect 
+the fundamental well-being of refugees in Sudan. Increasing 
+the resilience of host communities to absorb new influxes of 
+displaced people, refugees and returnees is also necessary. 
+Community support projects will be used to help to mitigate 
+the impact of displacement on host communities by 
+alleviating strains on local services and infrastructure. This 
+will also significantly contribute to reconciliation and the 
+inclusion of persons with specific needs, in turn promoting 
+social cohesion and peaceful co-existence. The response 
+will be in line with the Regional Refugee Response Plan for 
+South Sudanese and the Joint Strategy to Address Human 
+Trafficking, Kidnappings and Smuggling of Persons in Sudan. 
+Link to development programming: 
+Building on the humanitarian support within this 
+outcome, related to UNDAF Focus Area 3, development 
+programming will focus on providing or extending social 
+services throughout Sudan, with IDPs, refugees and 
+returnees identified as particularly vulnerable groups. Close 
+coordination with government counterparts and local 
+partners will contribute to building the capacity of national 
+partners and improving preparedness for new emergencies, 
+thereby directly contributing to UNDAF Outcome 4. The 
+work on durable solutions for IDPs under the Multi-Year 
+Humanitarian Strategy will be mirrored under UNDAF 
+Outcome 5. 
+Greater engagement of development actors within the 
+refugee response in Sudan will also benefit host communities, 
+especially as it relates to improved access to basic services 
+Durable Solutions 
+Within the Recovery, Returns and Reintegration Sector (RRR), humanitarian and development partners and authorities will 
+coordinate their support to durable solutions for IDP and refugee returnees through a rights-based approach. Assessments 
+in areas of return, local integration and resettlement will be carried out so as to ensure that the right of IDPs to make an 
+informed and voluntary choice is fulfilled, and that conditions of safety and dignity are provided in areas where durable 
+solutions are supported. Support to ensure rights related to access to land, to documentation, and ownership rights, must also 
+be provided. To this end, the verification and assessment framework adopted by the RRR Sector comprises three steps: 
+1. Verification of conditions of return to ensure voluntariness, safety and dignity 
+2. Registration of returnees 
+3. Technical assessments to inform evidence-based planning and multi-year/multi-sector response 
+A mission completed by the Joint IDP Profiling Service in December 2016 in Sudan recommended that a comprehensive 
+profiling exercise be carried out to provide an evidence base for more strategic joint programming for durable solutions. This 
+should include consolidated thematic analysis of the different durable solutions criteria and analysis on IDPs’ perceptions 
+and preferences for durable solutions, as well as analysis of the capacity of the surrounding environment to accommodate 
+and support these solutions. Partners currently producing displacement-related data in the Sudan context, the World Bank 
+and national authorities will reinforce their coordination to combine approaches into one joint profiling methodology. 
+13Long-term safety, security and freedom of movement; Adequate standard of living, including at a minimum access to adequate food, water, housing, health care and basic education; 
+Access to employment and livelihood opportunities; Access to mechanisms to restore housing, land and property or provide compensation; Access to and replacement of personal and other 
+documentation; Voluntary reunification with family members separated during displacement; Participation in public affairs, at all levels, on an equal basis with the resident population; & 
+Effective remedies for displacement-related rights violations, including access to justice, reparations and information on root causes. 
+The MULTI-YEAR HUMANITARIAN Strategy OUTCO MES: 
+
+16 
+and livelihood opportunities for both refugees and host 
+community members. Increasing the resilience of host 
+communities to absorb new influxes of refugees also requires 
+multi-year planning. Investments in social and physical 
+infrastructure of host communities should seek to enhance the 
+capacity of local service providers to deliver health, education, 
+water, sanitation and protection services of good quality to all 
+members of the community, and should also allow for nondiscriminatory 
+access for refugees to these services. Doing so 
+will also contribute significantly social cohesion and peaceful 
+co-existence, as well as the inclusion of groups with specific 
+needs into specialized services. 
+Link to peace building and social cohesion: 
+To contribute to peace building efforts so as to promote social 
+cohesion among communities affected by long-term conflict, 
+reduce vulnerability and ensure sustained access to basic 
+services, humanitarian programmes will be implemented 
+according to the “do no harm” principle, and will build 
+on existing community-based mechanisms and systems. 
+Proposed actions include the completion of joint conflict 
+analyses, conflict-sensitive programming, the introduction 
+of interventions for peace building and social cohesion in 
+maximising existing network mechanisms such as childfriendly 
+spaces in IDP and refugee sites, alternative learning 
+programmes, and primary healthcare services in areas where 
+tribal conflicts occur. The expansion of existing community 
+centres and the creation of new centres will empower IDPs, 
+refugees, returnees and host communities and provide safe 
+public spaces for self-help among women, men, and youth, 
+boys and girls. 
+These interventions, strengthening the humanitariandevelopment-
+peace nexus, will feed into Outcome 5 of the 
+UNDAF. By 2021, security and stabilization of communities 
+affected by conflict are improved through utilization of 
+effective conflict management mechanisms, peace dividends 
+and support to peace infrastructures and durable solutions 
+that augment peaceful coexistence and social cohesion. 
+outcome 3 
+Vulnerable residents in targeted areas have 
+improved nutrition status and increased resilience 
+Until end 2019, humanitarian partners will work to ensure 
+that:14 (i) Malnourished children, pregnant and lactating 
+women and other vulnerable groups have access to nutritionsensitive 
+and nutrition-specific services; (ii) Stakeholders 
+and affected communities (national and state level) have 
+improved capacity to prevent malnutrition in a multi-sectoral 
+manner; (iii) The affected communities are empowered 
+through community-based livelihood interventions and other 
+prevention and resilience measures. 
+In line with the Agenda for Humanity’s core responsibility 
+4, work differently to end need, this strategic outcome 
+acknowledges the fact that there are pockets of severe 
+vulnerability across Sudan, even in areas that are not directly 
+affected by conflict or natural disasters. Sudan has some of 
+the highest malnutrition rates in the world, and in 2014, 52% 
+of acutely malnourished children lived in states that are not 
+affected by conflict.15 In the absence of sufficient access to 
+basic services and without access to humanitarian assistance, 
+vulnerable people drop below emergency nutrition thresholds. 
+This is mainly hotspots for insecurity and natural disasters. 
+Under Outcome 3, humanitarian actors will focus on local 
+populations in targeted areas not affected by conflict based 
+on their needs and vulnerabilities as identified in the annual 
+HNO. In light of the economic situation across the country, 
+there is an increased need to prevent larger segments of 
+the population from falling into a spiral of negative coping 
+mechanisms and thereby slipping into this category. While 
+high levels of malnutrition represent the visible humanitarian 
+consequence, undernutrition is the result of multiple 
+underlying structural causes: food security, health, water and 
+sanitation. The HCT’s multi-sector approach to addressing 
+the emergency needs of malnourished children is designed to 
+also contribute to the long-term efforts of the government and 
+partners to tackle malnutrition in Sudan. 
+A comprehensive multi-sectoral integrated approach could 
+capitalize on the comparative advantages of different actors 
+14Please refer to Results Framework and annual HRPs for target figures 
+15Federal Ministry of Health Department of Nutrition, National Nutrition Strategic Plan 2014-2018, 2014 
+© UN agencies 
+The MULTI-YEAR HUMANITARIAN Strategy OUTCO MES: 
+
+17 
+to strengthen the resilience of the targeted people and 
+address malnutrition in a comprehensive manner. This 
+includes helping communities to better understand, analyse, 
+and plan long-term solutions to tackle the root causes of 
+vulnerability and malnutrition. This will include direct and 
+lifesaving malnutrition support to affected populations as 
+well as strategic interventions on behalf of other sectors, 
+namely WASH, education and health to address underlying 
+vulnerabilities. Under this strategy, partners will continue to 
+support the government’s Scaling Up Nutrition (SUN) efforts 
+to operationalize a multi-sectoral nutrition strategy. Long and 
+short term causes of under-nutrition are addressed through 
+evidence-based, cost-effective interventions (both curative 
+and preventive aspects) implemented at key stages of the 
+life-cycle of the targeted populations, from early nutrition to 
+school children up to adults of productive age. Interventions 
+will place particular emphasis on children, pregnant and 
+lactating women, and older people. 
+NORTHERN 
+NILE 
+RED SEA 
+NORTH DARFUR 
+NORTH KORDOFAN 
+GEDAREF 
+KASSALA 
+SOUTH 
+DARFUR 
+SENNAR 
+EAST 
+DARFUR 
+BLUE NILE 
+WHITE 
+NILE
+AL GEZIRA 
+CENTRAL 
+DARFUR 
+KHARTOUM 
+WEST 
+DARFUR 
+Abyei 
+area 
+SOUTH 
+KORDOFAN 
+WEST 
+KORDOFAN 
+- + 
+SEVERITY 
+Kass 
+Zamzam 
+Gereida 
+Mornei 
+Otash 
+Kalma 
+Malnutrition severity ranking 2016 
+Link to development programming: 
+Succeeding in reducing malnutrition across Sudan will 
+require a sustained investment from the Government of 
+Sudan with support from development partners in the crucial 
+areas of education about the causes of malnutrition, food 
+insecurity, health, hygiene, safe water and sanitation. The 
+National Nutrition Strategic Plan 2014–2018 will remain 
+instrumental in guiding nutrition programming. Reducing 
+food insecurity will entail significant investment in increasing 
+livelihood opportunities as well as solid investment in natural 
+resource management and employment opportunities 
+(UNDAF Outcomes 1 and 2).16 Under UNDAF Outcome 3, 
+the UN and partners will seek to improve equitable access to 
+quality and comprehensive health, nutrition, water, sanitation 
+and hygiene services, based on an equity-focused approach 
+targeting the most vulnerable. 
+© UN agencies 
+16WFP/UNICEF Investment Case for Nutrition 
+The MULTI-YEAR HUMANITARIAN Strategy OUTCO MES: 
+
+18 coordination 
+COO RDINATION OVERVIEW 
+In line with UN GA Resolution 46/182, this Multi-Year 
+Humanitarian Strategy will be implemented under the overall 
+leadership of the Humanitarian Coordinator and in close 
+consultation with the Government of Sudan, in line with 
+national priorities. In collaboration with the HAC National 
+Mechanism, coordination and monitoring of the 2017 HRP 
+will be undertaken by the Inter-Sector Coordination Group 
+(ISCG) and Area HCTs. The coordination of the refugee 
+response under the Multi-Year Humanitarian Strategy will 
+continue to be led by UNHCR17 and the Commission for 
+Refugees (COR), through the Refugee Consultation Forum 
+(RCF). The RCF will cover all interventions for refugees 
+and asylum seekers delivered by humanitarian actors across 
+Education, ES/NFI, FSL, Health, Nutrition, Protection and 
+WASH Sectors. Building on progress made in 2016, the ISCG 
+will expand multi-sectoral, integrated and, where feasible and 
+appropriate, area-based approaches to deliver humanitarian 
+assistance to people in need based on comparative advantage. 
+The HCT and UN Country Team (UNCT), in parnership 
+with the Government, will collaborate on analysis of needs 
+and trends and capacities of Government, development and 
+humanitarian partners programming to ensure layering 
+and sequencing as appropriate, and commit to sharing data 
+and information for the benefit of both development and 
+humanitarian programming. Special attention will be paid 
+to ensure adequate conflict-sensitive and risk-informed 
+programming. The HCT, UNCT and Government will explore 
+modalities of establishing joint mechanisms to monitor and 
+evaluate the implementation of the strategy. 
+The review of Sudan’s humanitarian coordination architecture 
+in the second quarter of 2017 will be linked to this strategy 
+and will recommend mechanisms to facilitate coordination 
+and joint monitoring of the progress made against the outputs 
+and outcomes of this strategy. The review will also explore 
+how to strengthen Sudan’s humanitarian coordination 
+architecture and how to further enhance coordination 
+between humanitarian and development programming to 
+ensure humanitarian and development partners targeting 
+similar areas provide the required combination of short, 
+medium and long-term activities. 
+coordination 
+17Joint note: Joint UNHCR-OCHA Note on Mixed Situations: Coordination in Practice (2014) 
+184Ws: monitoring tool to track activities carried out (What, Where, by Whom, When) 
+193Ws: Who does What, Where. 
+© UN agencies
+
+cross-cutti ng issues 19 
+cross-cutti ng 
+issues 
+Centrality of Protection and 
+accountability 
+The overall aim of this strategy is to ensure that individuals 
+and families are safe wherever they are, especially during 
+displacement and upon return. In particular, humanitarian 
+partners will take all necessary steps to avoid exposing people 
+to further harm, and to reduce their exposure to risks to their 
+safety and dignity. Participation of affected people in all stages 
+of the Humanitarian Programme Cycle will be instrumental 
+to ensure that their feedback is taken into account and that 
+the response addresses their concerns in an appropriate and 
+sustainable way. This will, for example, include feedback 
+and complaints mechanisms, including related to sexual 
+exploitation and abuse. Child protection responses must be 
+established from the start of an emergency or children’s lives 
+and well-being will be at risk. 
+Humanitarian partners commit to ensure that services 
+provided to beneficiaries are accessible without 
+discrimination and based on needs. In addition, the 
+humanitarian community is committed to providing relevant 
+support to all actors and advocating for the upholding of 
+their responsibilities and obligations under International 
+Humanitarian Law, International Human Rights Law and 
+International Refugee Law, recognizing that the Government 
+holds the primary responsibility to protect civilians including 
+refugees. 
+Gender and age-sensitive programming 
+The majority of people in need of humanitarian assistance 
+in Sudan are women and children. Over 60 per cent of 
+refugees and over 60 per cent of IDPs are children. Situations 
+of displacement and emergency have devastating effects on 
+children’s lives, and boys and girls are uniquely vulnerable 
+due to their age and social status. Child protection responses 
+must be established from the start of an emergency to prevent 
+violence, abuse and exploitation. Female-headed households 
+are commonplace due to multiple displacements and the 
+separation of men and adolescent boys during conflictinduced 
+displacement. In 2016 in North and South Darfur, 80 
+per cent of single person-headed households were headed by 
+women20 and nearly 88 per cent of South Sudanese refugees 
+arriving in Sudan are women and children, with the majority 
+of households headed by women.21 As a result, there has been 
+a shift in traditional gender roles, exposing women and girls 
+to increased levels of burden and risk, while still excluding 
+women from decision-making mechanisms. Women and 
+girls are also exposed to violence when on the move to collect 
+water or firewood, work in fields or go to markets. 
+Preventing and responding to gender-based violence (GBV) 
+is therefore an important component of the Multi-Year 
+Humanitarian Strategy. Given the multi-sectoral nature of 
+the response required, humanitarian partners will seek to 
+mainstream GBV prevention throughout the humanitarian 
+response and in programming across all sectors, in 
+collaboration with government partners. The focus also 
+includes an emphasis on implementing assistance modalities 
+that directly engage women and girls not just as direct 
+beneficiaries, but as leaders in crises and recovery. In the 
+context of the HCT Gender Strategy, the HCT has articulated 
+minimum commitments for gender-sensitive programming 
+throughout the Humanitarian Programme Cycle. The 
+HCT-Gender Task Force (GIHA) is supporting the ISCG to 
+develop context-specific gender guidance that can be applied 
+throughout the humanitarian response. In monitoring the 
+results of the strategy, interventions targeting women will be 
+specifically measured. Also, humanitarian assistance will be 
+designed with due attention given to the needs and capacity of 
+youth, older people, and people with disabilities. 
+Environment 
+Climate change and related natural disasters have a strong 
+bearing on the socio-economic situation of communities 
+and households in Sudan. At the same time, environmental 
+degradation, unsustainable use of natural resources and 
+local level conflicts are both contributory factors and 
+consequences of the humanitarian crisis in Sudan. While 
+working towards sustainable natural resource management, 
+improved governance of natural resources and climate 
+change adaptation and mitigation on the development side, 
+environmental partners in Sudan are already supporting 
+humanitarian actors to ensure that humanitarian activities 
+have a minimum impact or enhancing impact on the 
+environment. In addition, both sides are working together 
+to develop and replicate environmental best practice, such 
+as integrated water resource management and sustainable 
+forest management. This will result in more environmentally 
+sustainable and accountable humanitarian actions, which 
+contribute positively to building long-term resilience. This 
+entails reviewing humanitarian projects submitted for the 
+Sudan Humanitarian Fund, as well as intensive work with 
+all IASC Sectors and RCF partners to build capacity and to 
+mainstream good practices throughout the Humanitarian 
+Programme Cycle. 
+20According to IOM 
+21According to UNHCR
+
+20 monitoring & evaluation 
+Vulnerability Analysis 
+An increased emphasis on vulnerability analysis is central to 
+the Humanitarian Response Strategy. Robust situation analysis 
+and monitoring systems will inform operations and feed into 
+the review and adaptation of the response, based on evidence, 
+demonstrating evolving needs in the dynamic operating 
+environment of Sudan. In addition, and in an effort to 
+strengthen emergency preparedness and readiness, the HCT 
+has committed to invest in the monitoring of risks. Other 
+important initiatives will contribute to the need for evidence 
+such as the 2017 locality-based multi-sector household survey 
+(S3M), the vulnerability assessment within the UN-World 
+Bank joint initiative, and continuous food security monitoring 
+of displaced populations. Needs-based targeting of householdlevel 
+assistance will continue to expand, building on lessons 
+learned, including census-based and household-level food 
+security profiling which at present is used to target the food 
+assistance response among long-term IDPs. More broadly, 
+the increased availability of sound evidence will enable better 
+prioritization and targeting of the most deprived localities and 
+communities needing humanitarian assistance. 
+MONITORING 
+In line with the HCT commitment to strengthen 
+accountability to affected people and in line with the Agenda 
+for Humanity’s core responsibility 4, Change people’s lives 
+– from delivering aid to ending need, “success must now be 
+measured by how people’s vulnerability and risk is reduced, 
+not by how needs are met year after year.”22 During 2017, a 
+results-based monitoring system will be developed that will 
+integrate situation, response and results monitoring to show 
+the impact of the activities carried out under this plan. Such a 
+system will include: 
+• The 2015 Emergency Response Framework (ERF) will 
+continue to provide the reference to humanitarian 
+partners in Sudan for more cohesive, principled and 
+timely emergency implementation/response monitoring. 
+Through the ISCG and the established 4W mechanism, 
+OCHA, in close collaboration with HAC, will continue to 
+monitor the response. 
+• The ISCG and the HCT, in partnership with the 
+Government, commit to measuring progress through 
+results monitoring of the outcomes and outputs of the 
+plan and regularly publish the results of these processes. 
+EvALUA TION AND CON TINUOUS LEARNING 
+• As part of mutual responsibility for aid efficiency, 
+effectiveness and impact in humanitarian action, the 
+humanitarian community and the Government will 
+maximize the use of lessons learnt from independent 
+evaluations of humanitarian response in order to 
+capitalize on strengths and best practices generated 
+within the long-term emergency response in Sudan . This 
+will also help to continuously sharpen this Multi-Year 
+Humanitarian Strategy for greater impact and sustainable 
+results regarding the promotion of the humanitarian, 
+development, and peace nexus. 
+• Field testing, evaluation and replication of area-based, 
+multi-sector, multi-year approaches will be used to build 
+the evidence base for successful examples of the New 
+Way of Working. While these approaches may only be 
+appropriate in selected geographical areas, an area-based 
+approach will allow capitalizing on successes, identifying 
+preconditions of expansion of the approach, and 
+advocating for replication. 
+• RCF is working proactively in Sudan and in the region to 
+plan, respond and monitor implementation. The Refugee 
+Response Plan will continue to ensure coordinated 
+planning in terms of the response to the South Sudan 
+emergency. Monthly indicator reporting and the 4W 
+mechanism will continue to be the tools utilized to 
+monitor the response. Efforts to enhance information 
+management within the RCF are ongoing to ensure 
+timely information is available to inform the response. 
+Regular field monitoring will continue and follow up with 
+partners will enable the response to be adjusted as the 
+situations evolves. 
+22Agenda For Humanity, 2016: http://www.agendaforhumanity.org/agendaforhumanity 
+monitoring 
+& evaluation
+
+monitoring & evaluation 21 
+Outcome/Output Indicators Baseline Target 2017 Target 2018 Target 2019 
+Outcome 1: Populations 
+affected by natural or man-made 
+disaster receive timely assistance 
+during and in the aftermath of 
+a shock 
+• % of people affected by shocks who receive 
+adequate minimum emergency assistance 
+• % of newly arrived refugees who receive 
+adequate minimum emergency assistance 
+• % of people who report adequate access to 
+and benefits from services received 
+% of integrated emergency responses, 
+including protection services, that follow 
+evidence-based system and based on 
+needs assessments 
+• % of refugee multi-sectoral emergency 
+responses that are based on coordinated 
+needs assessments 
+Output 1.1 Strengthened 
+emergency response 
+preparedness of humanitarian 
+actors 
+• # of national and inter-agency milestones 
+on emergency preparedness reached, 
+including the number of updated 
+contingency plans 
+• # of Preparedness Actions implemented 
+as part of the Regional Refugee Response 
+Plan and Country Contingency Plan 
+• % of needs (identified in planning 
+documents) met through prepositioning 
+supplies 
+Output 1.2 Affected people 
+receive timely lifesaving 
+humanitarian assistance and 
+protection 
+• % of new emergencies where adequate 
+population data was available to inform 
+the response in accordance with the 
+Emergency Response Framework 
+• % of new emergencies where needs 
+assessments were conducted in accordance 
+with the Emergency Response Framework 
+• # of people in need assisted after the onset 
+of an emergency in accordance with the 
+Emergency Response Framework or other 
+IASC frameworks 
+• # of refugees assisted after the onset 
+of influx in accordance with Refugee 
+Response Plans 
+• % of humanitarian assistance provided with 
+community participation 
+Output 1.3 Coping mechanisms 
+are strengthened through 
+integrated community-based 
+early recovery programming 
+• # of implemented projects strengthening 
+coping mechanisms through integrated 
+community-based approach 
+• # of households provided with support to 
+their own coping mechanisms 
+• # projects providing support to refugees 
+using a community-based integrated 
+approach with the host community 
+• 
+DRAFT Results Framew ork
+
+22 monitoring & evaluation 
+Outcome/Output Indicators Baseline Target 2017 Target 2018 Target 2019 
+Outcome 2: Displaced 
+populations, refugees, returnees 
+and host communities meet 
+their basic needs and/or access 
+essential basic services while 
+increasing their self-reliance 
+• % of people with long-term humanitarian 
+needs accessing basic services and assistance 
+• % of communities who are self-reliant and 
+resilient to shocks and risks 
+• % of refugees who have access to durable 
+solutions and are self-reliant 
+• % of people transferred out of humanitarian 
+aid assistance and into national safety nets 
+• % of people who report adequate access to 
+and benefits from services received 
+Output 2.1 People have equal, 
+sustainable access to essential 
+assistance based on vulnerability 
+targeting 
+• # of vulnerable people in need provided 
+with assistance and protection services 
+• # of refugees who can access basic services 
+• # of institutions and facilities providing 
+basic services 
+Output 2.2 People in need have 
+equal, sustainable access to 
+quality basic services 
+• # of people in need provided with 
+sustainable basic services 
+• # of institutions and facilities providing 
+basic services 
+Output 2.3 People in need 
+have access to income and 
+livelihood opportunities (target 
+will decrease as development 
+activities scale up) 
+• # of households generating income based 
+on livelihood support received 
+• # of refugees who are provided with access 
+to livelihoods and income opportunities 
+• # of assets built, restored or maintained by 
+targeted HH and communities, by unit and 
+type 
+Output 2.4 Refugees have 
+access to protection services 
+• # of refugees with access to referral mechanisms 
+• # of refugees biometrically registered 
+• # identified survivors/victims of SGBV and 
+trafficking/kidnapping, UA Ms/separated 
+children and individuals with undetermined 
+status receiving assistance
+
+monitoring & evaluation 23 
+Outcome/Output Indicators Baseline Target 2017 Target 2018 Target 2019 
+Outcome 3: Vulnerable 
+residents in targeted areas have 
+improved nutrition status and 
+increased resilience 
+• % of targeted local government institutions 
+adopting nutrition-sensitive planning and 
+budgeting systems 
+• % of targeted localities with below emergency-
+level GAM rates 
+• % of mothers adopting optimal maternal 
+and childcare practices 
+• % of targeted communities where there is 
+evidence of improved capacity to manage 
+shocks and risks 
+Output 3.1 Malnourished 
+children, pregnant and 
+lactating women (PLW) and 
+other vulnerable groups have 
+access to nutrition-sensitive and 
+nutrition-specific services 
+• # of boys and girls aged 6-59 months and 
+PLW provided with acute malnutrition 
+treatment services 
+• # of nutritionally at-risk children under 
+5 and PLW provided with food-based 
+prevention services 
+• # of children between 6-59 months and 
+PLW who received micronutrient services 
+• % of localities with multi-sectoral nutritionsensitive 
+programme 
+• # of localities with multi-sectoral nutritionsensitive 
+programmes 
+Output 3.2 Stakeholders and 
+affected communities (national 
+and state level)have improved 
+capacity to prevent malnutrition 
+in a multi-sectoral manner 
+• # of trained community groups providing 
+Social Behaviour Change Communication 
+and other forms of nutrition education 
+services 
+• # of ministries and implementing partner 
+programm managers trained on adopting 
+nutrition-sensitive multi-sectoral approach 
+• # states with a costed multi sectoral 
+nutrition implementation plan available at 
+state level 
+• # of mothers and caregivers who 
+participated in social and behaviour change 
+activities promoting maternal and child 
+care practices 
+• # of institutions strengthened to plan and 
+implement multi-sectoral program based 
+on malnutrition risk analysis 
+Output 3.3 The affected 
+communities are empowered 
+through community based 
+livelihood interventions and 
+other prevention and resilience 
+measures 
+• # of communities resilent to shocks and 
+risks 
+• # of individuals who have diversified their 
+livelihood options 
+• # of communities self-reliant through 
+access to sustainable livelihoods 
+• % of people transferred out of humanitarian 
+aid and into national safety nets
+
+24 monitoring & evaluation 
+This document is produced on behalf of the Humanitarian Country Team and partners. 
+The designation employed and the presentation of material on this report do not imply the expression of any opinion 
+whatsoever on the part of the Humanitarian Country Team and partners concerning the legal status of any country, territory, 
+city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. 
+www.unocha.org/sudan 
+www.humanitarianresponse.info/en/operations/sudan 
+@UNOCHA_Sudan 
+UNOCHA Sudan 
+Humanitarian Kiosk
+

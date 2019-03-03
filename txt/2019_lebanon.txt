@@ -1,0 +1,3598 @@
+LEBANON CRISIS 
+2017- 2020 (2019 update) 
+RESPONSE PLAN
+
+3 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 TABLE OF CONTENTS . 
+TABLE OF CONTENTS 
+Foreword........................................................................................................................................................................................... 5 
+Reference map................................................................................................................................................................................. 6 
+PART I: LEBANON CRISIS RESPONSE STRATEGY 
+Introduction...................................................................................................................................................................................... 8 
+At a glance.......................................................................................................................................................................................10 
+Needs Overview............................................................................................................................................................................. 11 
+Population in Need and Targeted............................................................................................................................................. 17 
+Response Strategy.........................................................................................................................................................................18 
+Response Monitoring and Evaluation......................................................................................................................................28 
+PART II: OPERATIONAL RESPONSE PLANS 
+Basic Assistance.............................................................................................................................................................................36 
+Education.........................................................................................................................................................................................37 
+Energy..............................................................................................................................................................................................38 
+Food Security & Agriculture........................................................................................................................................................39 
+Health...............................................................................................................................................................................................40 
+Livelihoods...................................................................................................................................................................................... 41 
+Protection........................................................................................................................................................................................42 
+Shelter..............................................................................................................................................................................................43 
+Social Stability................................................................................................................................................................................44 
+Water................................................................................................................................................................................................45
+
+. LEBANON CRISIS RESPONSE PLAN 2017-2020 
+4 
+Please note that appeals are revised regularly. The latest version of this document is available on http://www.LCRP.gov.lb and 
+http://data.unhcr.org/syrianrefugees/regional.php. Financial tracking can be viewed from http://fts.unocha.org. 
+Cover photo credit: Hannah Maule-ffinch; UNHCR 2018. 
+Produced by the Government of Lebanon and the United Nations, January 2019. 
+Terminology in the Lebanon Crisis Response Plan (LCRP) 
+The UN characterizes the flight of civilians from Syria as a refugee movement, and considers that these Syrians are 
+seeking international protection and are likely to meet the refugee definition. 
+The Government of Lebanon considers that it is being subject to a situation of mass influx. It refers to individuals who 
+fled from Syria into its territory after March 2011 as temporarily displaced individuals, and reserves its sovereign right 
+to determine their status according to Lebanese laws and regulations. 
+The Lebanon Crisis Response Plan uses the following terminologies to refer to persons who have fled from and cannot 
+return to their country of origin: 
+1. “persons displaced from Syria” (which can, depending on context, include Palestinian refugees from Syria as well 
+as registered and unregistered Syrian nationals); 
+2. “displaced Syrians” (referring to Syrian nationals, including those born in Lebanon to displaced Syrian parents); 
+3. “persons registered as refugees by UNHCR” and; 
+4. Palestinian refugees from Lebanon, refer to 180,000 PRL living in 12 camps and 156 gatherings. 
+5. Palestinian refugees from Syria, refer to 28,800 PRS across Lebanon. 
+Partners involved in the LCRP 
+ABAAD, ACF, ACS, ACTED, ActionAid, ADRA, AFDC, Al Fayhaa, Al Majmouaa, Al Mithaq, Al-Fayhaa, ALLC, ALLC IH, Alpha, AMEL, Ana Aqra, 
+AND, ANERA, Arcenciel, Arche Nova, ARCPA, ARCS, AVSI, Avsi-Cesvi, Basmeh & Zeitooneh, Bluemission, British Council, BZRD, CARE, Caritas 
+Lebanon, CCP JAPAN, CESVI, CISP, CLDH, CONCERN, COOPI, COSPE, Cure Violence, CWW, DAF, Danish Red Cross/Lebanese Red Cross, Dar El 
+Fatwa, Dorcas, DOT, DOT Lebanon, DPNA, DRC, DRC/LRC, EDA, EDF, Expertise France, Fair Trade Lebanon, FAO, Fondation Mérieux, FPSC - 
+Lebanon, GAME, GVC, HabitatForHumanity, HCI lebanon, HDA, Heartland, HEKS/EPER, HelpAge, HI, Hilfswerk Austria International, Himaya, 
+Himaya Daee Aataa (HDA), HOOPS, House of Peace, Humedica, HWA, ICU, IDRAAC, IECD, IFE-EFI, ILO, IMC, INARA, Injaz, International Alert, 
+Intersos, IOCC, IOCC Lebanon, IOM, IR, IR Lebanon, IRAP, IRC, Islamic Relief Lebanon, KAFA, Kayany-AUB, Leb Relief, Lebanese Developers, 
+Lebanese Red Cross, Lebanese Relief Council, Lebanon Support, LebRelief, LECORVAW, LFPADE, LLWB, LOM, LOST, LRI, LSESD, LUPD, MAG, 
+MAGNA, Magna Lebanon, Makassed, Makhzoumi, MAP, MAPS, MAP-UK, MEHE, MoA, MoET, MoIM, MoEW, MoPH, MoSA, MCC, MDM, MDSF, 
+MEDAIR, Mentor Arabia, Mercy Corps, Mercy USA, mosaic-mena, Mouvement Social, MSD, MSF, MTI, Muslim Aid, Nabaa, Nabad, Nawaya 
+network, Near East Foundation, Ninurta, NRC, NRDC, ODAlb, Order of Malta, OWS, OXFAM, PCPM, PCRF, Plan International, PU-AMI, R&R, 
+RDFL, Red Oak, RESTART, RET Liban, RI, Right to Play, RMF, RtP, Rural Entrepreneurs, Safadi Foundation, SAMS, SAWA, SAWA Group, SB 
+Overseas, SBO, SBOverseas, SCI, SDAid, SEED NATIONAL, SFCG, shareQ, SHIELD, SIDC, SIF, Solidar Suisse, Solidarites International, Sonbola, 
+SPARK, TAAWON, Tabitha-Dorcas, Tahaddi Lebanon, TDH, TdH-Italy, TdH-L, TDH-Lausanne, Teach for Lebanon, The Civil East Assembly, UN 
+Habitat, UNDP, UNESCO, UNFPA, UN-Habitat, UNHCR, UNICEF, UNIDO, UNOPS, UNRWA, UNWOMEN, URDA, USJ, WCH, Welfare Association, 
+Welthungerhilfe, WFP, WHO, WRF, WVI, YFORD, YNCA. 
+CORE PRINCIPLES AND COMMITMENTS 
+Building on the lessons learned from previous LCRP frameworks, as well as a needs and results-based approach used for 
+defining outputs, targets and related budgets, key priorities for improving delivery of the LCRP include: 
+• Strengthening current tracking, monitoring and evaluation mechanisms; 
+• Improving transparency, efficiency and accountability; 
+• Reinforcing Government institutions’ leadership and partnership with UN organizations, the donor community, 
+international and national non-governmental organizations and other civil society actors; 
+• Enhancing the programmatic design and implementation systems in view of the broadened focus on 
+stabilization and targeting the most vulnerable; and 
+• Improving field level coordination in light of the multi-year programming envisioned for 2017-2020. 
+As a basis for addressing these priorities, several core principles and commitments have been agreed between GoL and its 
+international partners: see section 4.6, ‘Principles of partnership and accountability’.
+
+5 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 .Foreword. 
+FOREWORD 
+Pierre Bou Assi 
+Minister of Social Affairs 
+Philippe Lazzarini 
+UN Resident and Humanitarian Coordinator 
+2019 will mark eight years since the conflict in Syria began, and serves as a reminder of Lebanon’s unwavering 
+support and generosity to Syria’s displaced despite the wide-ranging impact of the Syrian conflict on 
+its economy and society. With some 1.5 million Syrians in addition to a large community of Palestinian 
+refugees, Lebanon continues to host the highest number of displaced per capita in the world, showing the 
+tremendous commitment to displaced Syrians and vulnerable populations within its borders. 
+Since 2011, Lebanon has received more than US$6.7 billion in support of its crisis response, with tangible 
+results on the ground. In 2018, the response through the Lebanon Crisis Response Plan (LCRP) prevented 
+a further deterioration in food insecurity and poverty levels for the most vulnerable communities, while 
+supporting municipalities and infrastructure across the country. With increased investments in public 
+services and local institutions, response partners are stepping up their support to Lebanon to help it cope 
+with the crisis. These achievements are a testament to the strong partnerships that have evolved under the 
+LCRP, led by the Government of Lebanon in collaboration with the UN and more than 150 international and 
+national partners. 
+While we have achieved key successes over the past year, the situation of many vulnerable families remains 
+extremely precarious, and it is more important than ever that we maintain our support. Amid economic 
+uncertainty and an extremely protracted crisis, challenges continue to deepen for many displaced and 
+vulnerable Lebanese who face long-term poverty and deteriorating dwelling conditions. Lack of legal 
+residency remains a crucial issue for many displaced families, compounding their vulnerability. These areas 
+will be further prioritized in 2019. While it is difficult to predict how the situation will evolve, it is critical that 
+we maintain strong and predictable support to the most vulnerable families, to avoid tensions and maintain 
+stability. While a number of returns are taking place, they will increase gradually once the main obstacles 
+to return are addressed in Syria. Until such time, Lebanon will continue to require substantial support and 
+attention to mitigate the impact of the crisis. 
+It is vital that we remain mobilized and redouble our efforts. The 2019 LCRP calls for $2.6 billion for the 
+provision of direct humanitarian assistance and protection to 2.4 million highly vulnerable people. The 
+appeal will also ensure the provision of basic services to 2.16 million affected persons, while supporting 
+public institutions and the country’s overall stability. In line with the commitments made at the London 
+and Brussels conferences, the LCRP seeks to expand investments and partnerships to ensure recovery while 
+working towards long-term development strategies until durable solutions become available on a larger 
+scale in Syria. This year will also provide partners with the unique opportunity to take stock of achievements 
+so far through the mid-term review of the LCRP, and help us set course for the remainder of the 2017-2020 
+framework. 
+As we embark on the penultimate year of the LCRP, our collective solidarity with vulnerable Lebanese and 
+displaced communities must continue. It is difficult to predict what the future holds, but we all share the 
+same ambitions for what we can collectively achieve for Lebanon. 2019 offers an important opportunity for 
+us to accelerate our progress towards stability and greater prospects for all, leaving no one behind.
+
+. Reference map . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+6 
+SYRIA 
+Mediterranean Sea 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! ! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+Baalbek 
+Aakar 
+Sour 
+Jbayl 
+Chouf 
+Hermel 
+Zahleh 
+Rachaiya 
+Metn 
+Saida 
+Aaley 
+West Bekaa 
+Batroun 
+Jezzine 
+Kesrouane 
+Koura 
+Hasbaiya 
+El Nabatieh 
+Bent Jbayl 
+Baabda 
+Zgharta 
+Marjaayoun 
+Miniyeh-Danniyeh 
+Bcharreh 
+Beirut 
+Tripoli 
+Sour 
+Enfé 
+Aley 
+Rayak 
+Zahlé 
+Halba 
+Khiam 
+Saida 
+Chhim 
+Barja 
+Jbail 
+Hermel 
+Aarsal 
+Laboué 
+Baabda 
+Aanjar 
+Chekka
+Amioun 
+Jouaya 
+Jdaidé
+Jounié 
+Damour 
+Qbaiyat 
+Baalbek 
+Chtaura 
+Fnaydek 
+Maaraké 
+Batroun Bcharré 
+Zgharta 
+Tebnine 
+Jezzine 
+Naqoura 
+Bikfaya 
+Chmistar 
+Rachaiya 
+El Minié 
+Hasbaiya 
+Sarafand 
+Broumana 
+Baskinta 
+Bhamdoun 
+Nabatiyé 
+El Aabdé 
+Bar Elias 
+Marjayoun 
+Beit Meri 
+Aajaltoun 
+Bent Jbail 
+Joub Janine 
+Beit ed Dine 
+Yabroud 
+Damascus 
+Al-Qusayr 
+Az-Zabdani 
+AKKAR 
+NORTH 
+LEBANON 
+BAALBEK - HERMEL 
+MOUNT LEBANON 
+BEIRUT 
+EL NABATIEH 
+SOUTH 
+LEBANON 
+REFERENCE MAP 
+Governorate, Caza and major towns in Lebanon 
+LOCATION DIAGRAM 
+! Major Towns 
+Waterways 
+International Boundaries 
+Governorate Boundaries 
+Caza Boundaries 
+Capital 
+BEKAA 
+REFERENCE MAP
+
+7 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Reference map . 
+PART I 
+LEBANON CRISIS RESPONSE STRATEGY 
+INTRODUCTION 
+LCRP AT A GLANCE 
+NEEDS OVERVIEW 
+RESPONSE STRATEGY 
+MONITORING AND EVALUATION
+
+PART I : Introduction . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+8 
+Context and key challenges 
+Eight years into the Syrian crisis, Lebanon remains at 
+the forefront of one of the worst humanitarian crises of 
+our time and has shown exceptional commitment and 
+solidarity to people displaced by the conflict in Syria. 
+As of October 2018, the Government of Lebanon (GoL) 
+estimates that the country hosts 1.5 million Syrians 
+who have fled the conflict in Syria (including 950,3341 
+registered as refugees with UNHCR, of which 25.2% are 
+women, 19.4% men, 27.1% are girls, 28.3% are boys with 
+diverse backgrounds and specific needs), along with 
+28,800 Palestinian refugees from Syria (PRS) and a preexisting 
+population of an estimated 180,000 Palestinian 
+refugees from Lebanon (PRL) living in 12 camps and 156 
+gatherings.2 The vulnerabilities of each of these groups 
+have different root causes, requiring the overall response 
+strategy to include a multifaceted range of interventions, 
+from emergency aid to development assistance. Nearly 
+half of the Lebanese, Syrian and Palestinian populations 
+affected by the crisis are children and adolescents.3 Up 
+to 1.4 million children under 18 years of age are currently 
+growing up at risk, deprived, and with acute needs 
+for basic services and protection.4 Public services are 
+overstretched, with demand exceeding the capacity of 
+institutions and infrastructure to meet needs. 
+The conflict in Syria has significantly impacted Lebanon’s 
+social and economic growth, caused deepening poverty 
+and humanitarian needs, and exacerbated pre-existing 
+development constraints in the country. Moreover, at the 
+end of 2015, the crisis had cost the Lebanese economy 
+an estimated US$18.15 billion due to the economic 
+slowdown, loss in fiscal revenues and additional pressure 
+on public services.5 
+Unemployment and high levels of informal labour were 
+already a serious problem pre-crisis, with the World Bank 
+suggesting that the Lebanese economy would need to 
+create six times as many jobs just to absorb the regular 
+market entrants.6i Unemployment7 is particularly high 
+(1) As at 30 November 2018. 
+(2) For further details on the Palestinian figures, see the official Census carried out by Central 
+Administration of Statistics, the Palestinian Bureau of Statistics and the Lebanese Palestinian 
+Dialogue Committee in July 2017. 
+(3) UNHCR and UNRWA statistics. 
+(4) The response within the LCRP will be in line with the Convention on the Rights of the 
+Child. 
+(5) According to the World Bank, the cumulative cost to Lebanon since the start of the 
+conflict, in terms of lowering the GDP growth rate, is US$18.15 billion through 2015, and the 
+fiscal impact, in terms of lower revenues, is estimated at $4.2 billion during 2012-2015. See: 
+World Bank (2017), Preliminary findings of the Economic and Social Impact Assessment of 
+the Syrian Conflict on Lebanon. Public debt currently stands at $83.69 billion (LBP 126,165 
+billion) for August 2018. Gross public debt reached 149 per cent of GDP in 2017. Source: 
+Ministry of Finance. Please note that the current account deficit reached 20 per cent of GDP 
+as a result of the economic situation and not solely due to the crisis. 
+(6) The informality rate was estimated at 50 per cent by the World Bank. 
+(7) The Government stated, in its Vision for Stabilisation and Development presented at the 
+Brussels conference in April 2017: “The World Bank estimates that as a result of the Syria 
+crisis some 200,000 Lebanese have been pushed into poverty (adding to the 1 million before 
+the crisis) and that some 250,000-300,000 have become unemployed, in particular youth.” 
+Additionally, unemployment among Palestinian refugees stands at 52.2 per cent according 
+to the AUB Survey on the Social Economic Status of Palestine refugees in Lebanon 2015. 
+INTRODUCTION 
+in some of the country’s poorest localities: in some 
+areas, it is nearly double the national average, placing 
+considerable strain on host communities.8ii Both 
+Lebanese and displaced Syrians perceive that longstanding 
+inequalities are deepening, and competition for 
+jobs and access to resources and services remain drivers 
+of tension at the local level. The economic downturn has 
+had a disproportionate effect on young people entering 
+the workforce: Lebanon’s youth unemployment rate is 37 
+per cent, compared with a 25 per cent national average.iii 
+Relations between displaced Syrians and host 
+communities are relatively stable, with no major incidents 
+of intercommunal violence. Municipal measures have 
+been imposed in some municipalities, making host 
+community-displaced community interactions more 
+challenging.iv At the community level, displaced Syrians 
+and Lebanese are also interacting less often – especially 
+in social circles where daily and regular interactions are 
+down 10 per cent from May 2017 to June 2018.v 
+The assistance made possible by donor contributions 
+and implemented by humanitarian and development 
+partners under the Lebanon Crisis Response Plan (LCRP), 
+along with the exceptional hospitality of Lebanese 
+communities, has brought substantial, vitally-needed 
+support across all sectors and has prevented an even 
+greater deterioration of living conditions for the poorest 
+groups. Since 2013, a total of $6.39 billion has been 
+received in support of the crisis response, including $4.5 
+billion under the current 2017-2020 LCRP.9 Achievements 
+under the LCRP and through the government include: 
+support to Lebanese infrastructure such as roads, water 
+and waste management; a wide range of initiatives 
+helping local municipalities implement priority projects 
+for their communities; extensive cash assistance bringing 
+life-saving support to the poorest groups while boosting 
+the local economy; support to health centres and 
+hospitals around the country; a better understanding 
+of affected populations’ views and priorities to inform 
+sector interventions; and substantial advances in helping 
+the Government of Lebanon enrol greater numbers 
+of children in public schools every year. However, 
+despite these achievements, the needs are growing and 
+continue to outstrip resources, and renewed support is 
+essential. The prolonged crisis is having an ever-stronger 
+impact on Syrian, Palestinian and vulnerable Lebanese 
+households, as well as on Lebanese host populations 
+and the country’s institutions and infrastructure. 
+The LCRP, a joint plan between the Government of 
+Lebanon and its international and national partners, 
+aims to respond to these challenges in a holistic, 
+comprehensive manner through longer-term, multi-year 
+(8) In Wadi Khaled, unemployment is estimated to be 58 per cent. 
+(9) Figures are calculated according to the LCRP Financial Tracking System as of 30 
+September 2018.
+
+9 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Introduction . 
+planning to achieve the following strategic objectives: 
+ensure the protection of displaced Syrians, vulnerable 
+Lebanese and Palestinian refugees; provide immediate 
+assistance to vulnerable populations; support service 
+provision through national systems; and reinforce 
+Lebanon’s economic, social and environmental stability. 
+To achieve these strategic objectives, the LCRP is 
+committed to respond to the needs identified by the 
+affected communities, government and its partners, 
+and to strengthen communication and transparency 
+by ensuring information from response actors is 
+accessible and uses appropriate channels. It seeks to 
+set out an integrated response centred on needs which 
+recognizes the interrelatedness and beneficial impact of 
+the activities undertaken in the various sectors on the 
+individual’s protection and dignity. It is critical that the 
+response maintains a strong focus on ensuring access to 
+humanitarian assistance to all vulnerable communities 
+and continued protection in Lebanon. In line with 
+the commitments made at the London, and Brussels 
+conferences, the response strongly and continuously 
+seeks to expand investments, partnerships and delivery 
+models that ensure recovery, and social stability whilst 
+working towards longer-term development strategies 
+and durable solutions. In Lebanon, the main durable 
+solution for displaced Syrians is their safe, dignified 
+and non-coercive return to their country of origin, in 
+accordance with international law and the principle 
+of non-refoulement. Another durable solution is the 
+resettlement of those displaced from Syria to a third 
+country. The international partners recognize that the 
+stay of displaced people in Lebanon is temporary, and 
+commit to continue to provide support to both host 
+community and the displaced Syrians.vi 
+The LCRP also aims to increase the focus on aid 
+coordination under the general leadership, guidance 
+and supervision of the Government of Lebanon, 
+through the Ministry of Social Affairs (MoSA) which 
+hasthe legal mandate to oversee the response to 
+the crisis, in partnership with the donor community, 
+UN agencies, civil society actors including NGOs, the 
+private sector, and academic institutions. In addition, 
+the LCRP strives to promote transparency, enhanced 
+coordination, tracking, accountability, efficiency and 
+learning, through reinforced and objective monitoring 
+and evaluation. As a medium-term plan, the LCRP aims 
+to address national objectives and priorities to respond 
+to the impact of the Syrian crisis in Lebanon through 
+an overarching four-year strategic planning framework 
+developed and implemented under the leadership 
+of MoSA in collaboration with the UN, national and 
+international NGOs, other civil society actors and the 
+donor community. 
+It is essential for the international community to 
+strengthen its international cooperation with, and 
+development support to, Lebanon to respond to the 
+protracted displacement from Syria. This is in line with 
+the shared responsibility of the international community 
+to manage large movements of refugees that was 
+acknowledged by all states in the 2016 New York 
+Declaration for Refugees and Migrants of September 
+2016vii and its Comprehensive Refugee Response 
+Framework (CRRF), as well as in Lebanon’s Statement of 
+Intent presented at the 2016 London Conferenceviii and 
+“A Vision for Stabilization and Development in Lebanon”ix 
+presented at the Brussels Conferences in 2017 and 2018 
+respectively. One of the LCRP partners’ key priorities 
+in Lebanon is helping to mobilize increased financial 
+resources to support the country’s national institutions 
+and strengthen public service delivery systems, as a 
+critical way to meet growing needs, mitigate a further 
+deterioration of the situation, and preserve social 
+stability 
+The LCRP is founded on needs-based, bottom-up 
+and cross-sectoral approaches and, as such, requires 
+adaptation as changes in experiences and context occur. 
+Yearly appeals are developed based on an annual review 
+of needs. Each document includes detailed targets 
+and budgets for the current year, along with indicative 
+figures for the following year where feasible. The 
+current document therefore outlines the updated sector 
+response plans for 2019, based on results achieved within 
+the LCRP in 2017 and 2018, and an analysis of remaining 
+gaps for 2019 and 2020. 
+A girl in an informal settlement. Photo credit: WFP/Edward Johnson 2017 
+
+PART I : At a glance . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+10 
+Provide immediate 
+assistance to 
+vulnerable 
+populations 
+$44 m 
+$162 m 
+$1,186m 
+$1,040 m 
+2011 2012 2013 2014 2015 
+DONOR CONTRIBUTION 
+FUNDING TREND 
+Overall Funding Received 
+The gures are as of 31 December 2017 
+Estimated population 
+living in Lebanon 
+2019 PLANNING FIGURES STRATEGIC OBJECTIVES 
+$1,100 m 
+$1,258 m 
+2016 2017 
+Ensure protection of 
+vulnerable 
+populations 
+Reinforce Lebanon’s 
+economic, social 
+and environmental 
+stability 
+Support service 
+provision through 
+national systems 
+2019 TARGET & REQUIREMENT BY SECTOR 
+Livelihoods 
+Education 
+Energy 
+Shelter 
+Food Security 
+& Agriculture 
+Basic Assistance 
+Water 
+Health 
+Protection 
+Social Stability 
+MOST VULNERABLE CADASTERS* 
+BEKAA 
+NORTH 
+BAALBEK/HERMEL 
+MOUNT 
+LEBANON 
+AKKAR 
+EL NABATIEH 
+BEIRUT 
+251 Most Vulnerable Cadastres host 
+87% Displaced from Syria 
+67% Deprived Lebanese 
+Most Vulnerable 
+Cadastres 
+$1,285 m 
+Source: Financial Tracking Service (FTS) and LCRP nancial tracking. 
+2,156,137 
+1,884,800 
+1,563,500 
+1,351,624 
+1,023,911 
+1,017,821 
+694,480 
+678,487 
+497,171 
+49,662 
+2012 2013 
+RRP5 
+2014 
+RRP6 
+$ 1.9 b 
+*includes GoL requirement 
+Source: Funding gures used are from FTS and LCRP nancial tracking. 
+% received towards the plan Initial requirement* 
+$ 1.7 b 
+90% 
+$ 106 m 
+$ 2.14 b 
+2015 
+LCRP 
+$ 2.48 b 
+$ 2.75 b 
+2016 
+LCRP 
+2017 
+LCRP 
+3.2 million 
+People in Need 
+2.8 million 
+People Targeted 
+$2.62 billion 
+Funding required 
+5.9 million 
+1.5 million 
+Vulnerable Lebanese 
+1.5 million 
+Displaced Syrians 
+180,000 PRL 
+28,800 PRS 
+133 
+Appealing UN and 
+NGO Partners 
+PEOPLE TARGETED SECTORS REQUIREMENTS (US$) 
+54% 
+51% 
+47% 
+46% 43% 
+125.4m 
+174.1m 
+267.5m 
+214m 
+476.8m 
+508.6m 
+156.9m 
+99.2m 
+380.7m 
+214.4m 
+* The map will be reviewed and updated 
+based on an agreed methodology for targeting 
+as part of the LCRP Mid-Term Review process 
+scheduled for the second quarter of 2019. 
+AT A GLANCE
+
+11 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Needs Overview . 
+NEEDS OVERVIEW 
+The concerted response by the Government, international 
+partners and civil society has prevented a sharp decline 
+in socio-economic vulnerability levels between 2015 and 
+2018, compared to the steep deterioration witnessed 
+between 2014 and 2015.x 
+However, the situation in Lebanon continues to 
+be precarious, with extensive humanitarian and 
+development needs. The estimated 1.5 million displaced 
+Syrians, more than half of whom are women and children, 
+add to the 1.5 million Lebanese whose vulnerabilities 
+have been exacerbated by the crisis. According to an 
+official Census carried out by Central Administration of 
+Statistics, the Palestinian Bureau of Statistics and the 
+Lebanese Palestinian Dialogue Committeexi in July 2017, 
+174,422 Palestinian refugees from Lebanon (PRL) were 
+enumerated residing in the 12 official refugee camps and 
+in 156 gatherings across Lebanon. A national census in 
+Lebanon would be required in order to accurately count 
+the individual Palestinian households residing outside 
+these areas. On the basis of the census results, for 2019 
+planning purposes the figure of 180,000 will be used 
+as the estimate for Palestinian refugees from Lebanon, 
+taking into account the population natural growth 
+rates and migration factors. This figure also excludes 
+Palestinian refugees from Syria, which are estimated at 
+28,800.xii 
+Many of the most vulnerable communities in Lebanon 
+are concentrated in specific pockets of the country: 
+the majority of deprived Lebanese (67%) and persons 
+displaced from Syria (87%) live in the country’s most 
+vulnerable cadastres.1 However, after eight years, 
+Lebanon has suffered the impact of being a host country, 
+on all levels and across all regions. Vulnerable Lebanese 
+households face a decrease in income, which has left 
+them increasingly unable to meet basic needs, including 
+food and healthcare. Displaced Syrian households 
+and Palestinian refugees from Syria are suffering the 
+impact of protracted displacement, sinking deeper into 
+(1) The map of the most vulnerable cadasters will be reviewed and updated based on an 
+agreed methodology for targeting as part of the LCRP Mid-Term Review process scheduled 
+for the second quarter of 2019. The newly agreed criteria for prioritization of the most 
+vulnerable cadasters will be presented to the LCRP Steering Committee for final endorsement 
+and will provide the main guidance framework for geographic targeting within the LCRP. 
+1/3 of displaced Syrians households are 
+moderately or severely 
+food insecure 
+36% 
+substandard or 
+dangerous 
+shelter conditions 
+54% of 
+displaced Syrian children 
+between 3 and 18 years 
+are out of 
+school 
+of displaced Syrians live in 
+1.5 million 
+Vulnerable Lebanese 
+180,000 Palestinian 
+Refugees from 
+Lebanon 
+More than 1/2 of displaced from 
+Syria are women & children 
+1.5 million 
+Displaced 
+Syrians 
+28,800 
+Palestinian 
+Refugees from 
+Syria 
+
+PART I : Needs Overview . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+12 
+debt2 and resorting to negative coping mechanisms as 
+they struggle to meet their families’ needs. Palestinian 
+refugees from Lebanon also face challenges, including 
+multi-generational poverty and a lack of access to 
+decent work opportunities. These conditions continue to 
+fuel serious protection concerns and lead to high levels 
+of marginalization and vulnerability. 
+Eight years into the conflict, poverty levels are high and 
+the long-term resilience of the country’s vulnerable 
+communities is eroding as they run out of savings and 
+struggle to access income. At present, an estimated 
+28.5 per cent of Lebanese live below the poverty line,xiii 
+of which 470,000 are children.xiv More than 68 per cent 
+of displaced Syrians are living below the poverty line,xv 
+along with 65 per cent of Palestinian refugees from 
+Lebanon and 89 per cent of Palestinian refugees from 
+Syria, who are one of the most vulnerable groups in the 
+region.xvi 
+Overall, 97 per cent of households resort to some type 
+of livelihood coping strategy. In 2018, households 
+reported a general tendency to adopt less severe coping 
+strategies. In particular, the use of crisis strategies 
+registered a decrease from 55 per cent (2017) to 51 per 
+cent (2018). As a consequence, the share of households 
+(2) According to the VASyR 2018, average debt per capita is now at $250, compared with 
+$211 in 2017. 
+resorting to stress coping increased, going from 30 per 
+cent to 34 per cent. Despite the slightly positive trend, 
+the protracted crisis situation severely affects refugee 
+households’ capacities to build a sustainable income 
+in the medium to long term and 12 per cent of them 
+still reported the use of emergency coping strategies, 
+which severely impact on their well-being. At the same 
+time, the share of households not adopting any coping 
+strategy was extremely low (3%).3 
+As a result, households are also sinking deeper into debt: 
+displaced Syrians have an average debt of $1,016 per 
+household, an increase from $919 in 2017.xvii It is estimated 
+that around 71 per cent of Palestinian refugees from 
+Syria are in debt while the greatest portion of their debt 
+(approximately 80%) is related to funds used for food.4 
+Moreover, debt is also a concern for the Lebanese host 
+community as evidenced by the 2015 Food Security and 
+Livelihoods Assessment of Lebanese, which indicates 
+that more than half of interviewed Lebanese households 
+reported having incurred debt in the last 24 months.xviii 
+Socio-economic vulnerabilities, exacerbated by the 
+protracted emergency, are worse amongst femaleheaded 
+households, and even higher for those living in 
+families with disabilities,xix who are also less food secure, 
+have worse diets, adopt severe coping strategies more 
+often, and have higher poverty levels.xx This situation has 
+also translated, according to UN reports, into an increase 
+in the levels of violence against children and women. 
+There is continued reliance on harmful practices such as 
+child marriage, with 22 per cent of displaced Syrian girls 
+aged 15 to 19 being married.xxi Women and girls bear the 
+brunt of incidents of gender-based violence (GBV), and 
+whilst incidents of GBV are underreported, 93 per cent 
+of survivors who reported and sought assistance were 
+women and girls, 7 per cent men and boys.xxii Children in 
+female headed household are twice as likely to work as 
+children with a male headed household.xxiii In addition, 
+there is a risk of engagement of children in the worst 
+forms of child labour, 5 as there is an increased risk of 
+(3) Coping categories: Stress (spend savings, sell household goods, buy on credit, incur 
+debt), Crisis (sell productive assets, withdraw children from school, reduce non-food 
+expenses, marriage of children under 18), and Emergency (Involve school children in income 
+activities, beg, accept high-risk jobs, sell house or land). 
+(4) UNRWA, September 2017. 
+(5) Trends of association of children with armed violence or conflict have been reported in the 
+paragraphs on Lebanon of the UN Secretary-General’s annual reports on children and armed 
+conflict covering 2009 (A/64/742–S/2010/181, para. 85-87), 2010 (A/65/820–S/2011/250, 
+para. 101-105), 2011 (A/66/782–S/2012/261, para. 50-52), 2012 (A/67/845–S/2013/245, para. 
+76-79), 2013 (A/68/878–S/2014/339, para. 86-91), 2014 (A/69/926–S/2015/409, para. 112-115), 
+2015 (A/70/836–S/2016/360, para. 80-85), 2016 (A/72/361–S/2017/821, para. 97-103), and 
+2017 (A/72/865–S/2018/465, para. 98-104). 
+! 
+Akkar 
+North Baalbek/Hermel 
+Mount Lebanon 
+Beirut 
+Bekaa 
+El Nabatieh 
+South 
+MOST VULNERABLE 
+LOCALITIES IN LEBANON* 
+Most Vulnerable 
+2nd Most Vulnerable 
+3rd Most Vulnerable 
+4th Most Vulnerable 
+5th Most Vulnerable 
+High Pressure 
+(37 Cadastres) 
+Substantial Pressure 
+(77 Cadastres) 
+The 251 Most 
+Vulnerable 
+Cadastres host 
+87% Displaced 
+from Syria 
+& 67% Deprived 
+Lebanese 
+* The map will be reviewed and updated based on an agreed methodology 
+for targeting as part of the LCRP Mid-Term Review process scheduled for the 
+second quarter of 2019. 
+51% of displaced Syrian households 
+live below the Survival Minimum 
+Expenditure Basket 
+(<$2.9/person/day) 
+DEBT 
+9 out of 10 
+displaced Syrians housholds 
+are in debt 
+of displaced Syrians over 
+15 years old are 
+73% 
+without legal 
+residency
+
+13 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Needs Overview . 
+traffickers preying on the heightened vulnerability of 
+populations. Early marriage and child labour have a 
+significant impact on children’s health and psychological 
+wellbeing. The Government of Lebanon constantly 
+reaffirms its commitment to combat violence against 
+children and women, in accordance with applicable 
+international standards and national legislation. Joint 
+efforts between partners and the Government are 
+needed in order to remedy this situation. 
+Persons with disabilities are at high risk of violence, 
+discrimination and exclusion. These risks are exacerbated 
+in protracted emergency settings, and limited targeted 
+interventions are in place aimed at reducing inequities. 
+This is specifically the case for children living with 
+disabilities and their families. A data gap on disability 
+persists in Lebanon, limiting the targeting of interventions 
+aimed at improving the situation for children and youth 
+living with disabilities. 
+Simplification measures were adopted by the GoL in 
+2018 to facilitate displaced persons from Syria’s access to 
+birth registration and other civil documents. The Ministry 
+of Interior and Municipalities will require continued 
+international support to process increased numbers 
+of cases in 2019 and beyond, including advocacy and 
+awareness raising towards displaced persons from 
+Syria to encourage them to obtain civil documentation. 
+Remaining challenges, such as access, cost and 
+administrative requirements related to obtaining civil 
+documentation, continue to be addressed. To ease legal 
+residency processes and increase access, in March 2017 
+the General Security Office (GSO) announced a waiver 
+of legal residency renewal and overstay fees ($200 per 
+year, per person aged 15 years and above). The waiver 
+applies to displaced Syrians registered with UNHCR 
+before 1 January 2015 and who had not renewed their 
+residency previously based on tourism, sponsorship, 
+property ownership or tenancy in 2015 or 2016. While 
+recent data indicates a slight increase, still only 27 per 
+cent of displaced Syrians over 15 years of age have legal 
+residency.xxiv Overall there are variations in the level to 
+which displaced Syrians have obtained legal residence, 
+with Akkar (14%) having the lowest level of legal 
+residency nationally and the South of Lebanon (54%) 
+having the highest. This is partially indicative of differing 
+levels of implementation of the waiver by local GSO 
+offices due to their absorption capacity and awareness of 
+revised procedures. The obstacles that displaced Syrians 
+continue to face in obtaining legal residency, particularly 
+for those who fall outside of the fee waiver categories, 
+impact their mobility and access to essential services, 
+and put them at risk of detention and exploitation. 
+Addressing these obstacles remains a key priority for 
+the Government of Lebanon (GoL) and its partners as 
+reflected in the Brussels Partnership Paper.6 
+The large presence of displaced populations has also 
+increased demand on infrastructure and social 
+services, which lack the capacity to meet increased 
+needs. The distribution of the displaced Syrian 
+population in areas with a high concentration of 
+vulnerable Lebanese has also compounded an already 
+problematic economic situation, increasing poverty and 
+social tensions between different communities while 
+deepening the country’s socio-economic disparities. 
+Since the start of the crisis, the affected populations in 
+Lebanon have experienced a gradual shrinking of space 
+for livelihoods and income-generation, translating 
+into the inability of poor and displaced families to 
+secure their basic needs and access social services. 
+Constraints related to residency and labour policies and 
+their implementation, as well as challenging market 
+conditions, have also compelled displaced Syrians and 
+Palestinian refugees from Syria, including children, to 
+resort to informal and exploitative labour in order to 
+meet the basic needs of their families. Given the limited 
+access to the labour market, the two main sources of 
+income for displaced Syrians are informal credit7 and 
+debt (52%) and food assistance (32%). For Palestinian 
+refugees from Syria, 80 per cent rely on cash assistance 
+as their main source of income. Developing sustainable 
+livelihood activities for people affected by the crisis is a 
+key priority for the GoL and its national and international 
+partners – as highlighted in the GoL’s Statement of 
+Intent for the London Conferencexxv and “A Vision for 
+Stabilization and Development in Lebanon” presented 
+at the Brussels Conference in 2017 and 2018xxvi – as 
+they reduce the dependence of vulnerable populations 
+on assistance and, at the same time, increase the 
+productivity and income of local communities. 
+Prior to the crisis, the housing market did not supply 
+(6) The Government of Lebanon with the assistance of its international partners commit 
+to ensuring that all eligible refugees can renew their residency free of charge, by further 
+upscaling the capacity of the offices of the General Security to process a higher number of 
+applications, and by applying the waiver to all. Furthermore, international partners request 
+the Government of Lebanon to consider measures to cover all categories of refugees in 
+an inclusive manner through the expansion of the residency fee waiver to categories of 
+refugees currently not covered. 
+(7) Informal credit debt, including from shops, friends and relatives. 
+69% 
+of displaced Syrian households 
+live below the poverty line of 
+(<$3.84/person/day) 
+84% 
+of displaced Syrian women 
+in working age remain 
+outside the 
+labor force 
+17% of 
+displaced Syrian children 
+between 3 and 5 years 
+were attending 
+school in 2018
+
+PART I : Needs Overview . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+14 
+sufficient accessible and adequate housing units for 
+vulnerable Lebanese. The increased pressure on the 
+housing market and continued decrease in available 
+funds to the sector means that the most vulnerable 
+Lebanese and Syrians have limited access to affordable 
+and adequate shelter. A 2013 World Bank study linked 
+the pre-crisis under-investment in affordable housing 
+or rental housing to ‘the development of marginalized 
+pockets and informal areas…characterized by poor 
+housing conditions and limited access to basic urban 
+services and infrastructure’. Housing in Lebanon has 
+only been available through the market, with very 
+limited engagement in public housing initiatives or other 
+measures to support low-income Lebanese. Low-income 
+urban Lebanese households have typically accessed 
+shelter in disadvantaged neighborhoods including 
+those in and adjacent to Palestinian camps. 
+Post-crisis, the increased pressure on the housing market 
+and continued decrease in available funds to the sector 
+means that the most vulnerable among Lebanese and 
+Syrians have limited access to affordable and adequate 
+shelter. 
+Whilst there is no representative data on the shelter 
+conditions of poor Lebanese, illustrative snapshots from 
+neighborhood profiles of vulnerable urban areas show 
+that the difficulties in accessing secure, adequate and 
+affordable housing are shared by Lebanese and non- 
+Lebanese low income groups. Significant proportions of 
+Lebanese in deprived urban pockets live in buildings with 
+structural or exterior conditions that are in substandard 
+or critical condition, with precarious communal space 
+standards. Whilst lower than amongst Syrian households, 
+overcrowding is also a feature for many. 
+In 2018, there has been a marked deterioration 
+in shelter conditions amongst displaced Syrian 
+households: 34 per cent of households now live in nonresidential 
+or non-permanent structures as compared 
+with 26 per cent in 2017. The lack of durability of shelter 
+materials in informal settlements (ISs) means that 
+people with specific needs (PwSN), elderly individuals, 
+persons with disabilities, female-headed households 
+and children can face particular risks. This includes 
+difficulties in weatherproofing their shelters, which 
+means an additional financial burden that could lead 
+to decreased spending on other basic needs such as 
+food and health. In parallel, there has been an increase 
+in the average monthly rent for these types of shelters. 
+Displaced Syrians are now paying on average $57 per 
+month for non-permanent shelters, an increase of $22 
+from 2017 and $149 for non-residential shelters, with 
+an increase of $13. Three in ten refugees were living 
+in substandard shelters, and another 5.5 per cent 
+living in dangerous shelter conditions.xxvii This trend is 
+particularly worrying in Baalbek-Hermel and the Bekaa 
+where 53 per cent and 50 per cent of households live in 
+substandard shelters. Additionally, the shelter conditions 
+are declining in the densely populated low income innercity 
+neighbourhoods where adequate shelters are in 
+short supply for the affected populations. Overcrowding 
+among displaced Syrians has increased slightly in 2018, 
+with 34 per cent living with less than 4.5m2 per person. 
+This is also high amongst Palestinian refugees from Syria, 
+with 46 per cent living in overcrowded conditions.xxviii 
+Municipal measures such as eviction notices continue to 
+present multiple protection challenges for displaced 
+persons. Against the backdrop of growing frustrations 
+in municipalities and host communities, acceptance 
+by host communities and local authorities of displaced 
+people relocating within Lebanon due to evictions is 
+becoming increasingly challenging. VASyR recorded an 
+average of 13,000 evictions, approximately affecting 
+100,000 people on a yearly basis.xxix Security of tenure 
+is limited, with most refugees renting on informal verbal 
+agreements, making them more susceptible to evictions. 
+Intercommunal interaction is decreasing and displaced 
+Syrians and host communities are living increasingly 
+parallel lives. This, coupled with the rise of certain hostile 
+discourses in social media against displaced Syrians, 
+primarily around the issue of return, pose particular 
+challenges for ensuring continued protection and 
+reinforcing social stability in Lebanon.xxx 
+Vulnerable populations continue to live in poor urban 
+areas where living conditions remain difficult. Rent has 
+increased in large urban areas alongside pressure 
+on the provision of basic services such as water, 
+energy, sanitation and solid waste collection, in addition 
+to social stability challenges. It is estimated that 
+poor urban neighbourhoods and Palestinian 
+refugee camps now host a larger proportion than 
+ever before of displaced Syrians. An increased number 
+of displaced Syrians living in urban areas makes it 
+harder for organizations to assist, since people in need 
+are more dispersed and difficult to identify and 
+locate, as does the shortage of data and limited 
+availability of partners with experience in urban 
+34% Only 21% 
+of Displaced Syrian households 
+now living in overcrowded shelter 
+conditions (less than 4.5 m2 per 
+person) 
+of Displaced Syrian children born 
+in Lebanon had their birth 
+registered at foreigner’s registry 
+47% 
+of displaced Syrian men 
+in working age 
+have access 
+to work
+
+15 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Needs Overview . 
+30% Only 44% 
+of Displaced Syrian households 
+report having experienced verbal 
+harassment 
+of those living in informal 
+settlements have access to 
+basic sanitation services 
+Public hospitals have accumulated 
+a deficit amounting to 
+US$ 15 million 
+since the onset of the Syria 
+crisis (MoPH records) 
+responses. Displaced Syrians living in urban areas face 
+challenges in obtaining information on access to services 
+such as health and education, and to make informed 
+decisions. 
+The food security situation remains critical, despite 
+a slight improvement over the past year. 90 per cent 
+of displaced Syrians continue to display some degree 
+of food insecurity in 2018. Baalbek-Hermel, Akkar and 
+North Lebanon continue to have the highest prevalence 
+of food insecurity, joined by Mount Lebanon, with more 
+than 35 per cent of households reporting moderate 
+and severe food insecurity.xxxi The majority of Syrian 
+households – 57 per cent – fall in the mild food insecurity 
+category, whilst 31 per cent are moderately food insecure 
+and 2.5 per cent are severely food insecure. The situation 
+is even worse among Palestinian refugees from Syria, 
+63 per cent of whom are severely food insecure and 
+31 per cent moderately food insecure.xxxii In addition, 
+49 per cent of Lebanese have reported being worried 
+about their ability to source enough food, while 31 per 
+cent say they were unable to eat healthy and nutritious 
+food over the course of a year.xxxiii The food insecurity 
+of vulnerable families also has a negative impact on 
+the nutrition of their children and infants, particularly 
+as exclusive breastfeeding rates are low among the 
+Lebanese community (25%).xxxiv Among displaced Syrians 
+breastfeeding rates have increased significantly from 
+34 per cent in 2017 to 42 per cent in 2018.xxxv Lebanon 
+currently does not have a national infant and young child 
+feeding policy to guide optimal child nutrition during 
+the first two years of life. 
+In terms of education, around 631,209 Syrian children 
+aged 3-18 years old are located in Lebanon.8 These 
+children affected by the conflict, in addition to 447,409 
+vulnerable Lebanese children (3-18 years), are in 
+need of education assistance. Despite the Ministry of 
+Education and Higher Education (MEHE) and education 
+partners’ efforts, it is estimated that 40 per cent of the 
+displaced Syrians (3-18) – more than 250,000 – remain 
+out of certified education (formal and non-formal). The 
+enrolment rates significantly drop in lower secondary, 
+and the out-of-school rates are highest among 15-to-18- 
+year-old Syrians, with around 6 percent of 15-18-year-old 
+registered Syrian refugees enrolled in formal education 
+(secondary schools and Technical Vocational (TVET) 
+public schools).xxxvi Social, economic and academic 
+(8) Total number of children known to UNHCR as of September 2018. 
+barriers have hindered enrolment of children and youth 
+in the public education system. As desperate families 
+are forced to rely on their children to earn money, child 
+labour becomes a major barrier to school enrolment and 
+attendance For Palestinian refugees, 32,433 children of 
+compulsory school age (6-14) are enrolled in UNRWA 
+schools during the 2018/19 school year. With only one of 
+65 UNRWA schools running double shift, most of the PRS 
+children attend class with their PRL peers. However, due 
+to overcrowded classrooms and the lack of staff to cope 
+with the additional caseload, the learning environment 
+is impacted. 
+Since the onset of the crisis, Lebanon’s healthcare 
+facilities have been overstretched by an increase in 
+utilization, 30 per cent of service recipients through 
+Ministry of Public Health (MoPH) primary healthcare 
+centres are displaced Syrian women, men, girls and 
+boys. This challenges the absorption capacity of the 
+centres as well as their financial sustainability. The overall 
+health status of Palestinian refugees from Syria is poor, 
+with 83 per cent reporting having at least one family 
+member who suffers from a chronic illness.xxxvii While 
+both Palestinian refugees from Lebanon and Palestinian 
+refugees from Syria receive free-of-charge primary 
+healthcare services and support for hospitalization 
+through UNRWA, many displaced Syriansxxxviii and 
+vulnerable Lebanese require financial subsidies to access 
+timely and adequate healthcare. In 2018, 13 per cent 
+of displaced Syrian households who required primary 
+healthcare services were not able to access them, mainly 
+for reasons related to treatment costs and doctors’ fees. 
+Financial support for hospitalization is limited to lifethreatening 
+and obstetric conditions, and only 75 per 
+cent of the hospitalization fees is covered. Thus, there are 
+large unmet needs, particularly for conditions which do 
+not fall under current coverage, including catastrophic 
+illnesses (such as cancer) and chronic conditions (such 
+as dialysis for chronic renal failure) as well as advanced 
+diagnostics. While maintaining a direct service delivery 
+component to cover critical needs for vulnerable people, 
+the priority of the health sector is increasingly shifting 
+toward strengthening the health system and enhancing 
+institutional resilience. 
+While Lebanon remains polio-free, overall vaccination 
+coverage rates remain sub-optimal. As a result, health 
+security is a rising concern, particularly as it relates to 
+communicable diseases. Lebanon has experienced 
+
+PART I : Needs Overview . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+16 
+outbreaks of vaccine preventable diseases (measles 
+and mumps) and water-borne diarrhoea, which could 
+significantly affect mortality and morbidity levels among 
+both the host and displaced populations. In 2018, 867 
+cases were classified as measles, requiring an emergency 
+response. 81 per cent of these cases were Lebanese and 
+19 per cent were displaced Syrians, the high-risk age 
+group being children under 5 years.xxxix 
+With regard to water, sanitation and hygiene (WASH), 
+already in 2014 it was estimated that the additional 
+population pressure had led to an increase of 15 per cent 
+of solid waste, 14 per cent of wastewater and 12 per cent in 
+water demand aggravating an already fragile situation.xl 
+64 per cent of the population in Lebanon does not have 
+access to safely managed drinking water services.9 Water 
+quality is severely compromised, with over half of all 
+water supply networks past their useful life,10 unchecked 
+urban sprawl, unsafe solid waste management, 
+thousands of informal settlements, and only 3 per cent 
+of wastewater treated for bacteriological contamination 
+prior to discharge into the ground or waterbodies.11 In 
+2017, it was estimated that only 45 per cent of informal 
+settlements, representing 69 per cent of people 
+living in ISs, are benefitting from desludging services 
+compounding the contamination of water sources and 
+soil. Adding to the complexity of this situation is the 
+proliferation of illegal private boreholes which lead to 
+unaccounted-for-water losses from decrepit systems 
+and intermittent power supply, and quantities which 
+eventually reach the population are substandard and 
+unreliable. In these living conditions, poor hygiene 
+practices, particularly in relation to handling food and 
+water, aggravate the risk of disease, as evidenced in 
+food and water borne diseases accounting for up to 60 
+per cent of notifiable communicable diseases.12 Women 
+and girls report protection risks in accessing water and 
+sanitation services at night. Furthermore, governance 
+of Lebanon’s water sector is undermined by lack of 
+resources, both financial and human, delaying the water 
+sector reform that would enable Water Authorities to 
+fulfil their mandated role and to realize sustainable 
+solutions for water and wastewater service provision. 
+The critical need of the electricity sector is recognized 
+through the adoption of the GoL Policy Paper for the 
+(9) UNICEF/WHO Joint Monitoring Program, Lebanon Water Quality Survey, 2016. 
+(10) National Water Sector Strategy, 2012. 
+(11) WHO/UNICEF JMP conducted a Rapid Assessment for Large & Medium Scale Wastewater 
+Treatment Plants across Lebanese Territories 2016. 
+(12) Ministry of Public Health (MoPH), Epidemiology Surveillance Unit. 
+Electricity Sector in June 2010, which outlines policies, 
+investments and reforms aimed at ultimately improving 
+service delivery and reducing the fiscal burden.13 The 
+Policy Paper also identifies a deficit in installed generating 
+capacity, reaching only 61 per cent of the instantaneous 
+peak demand in summer. A study undertaken by 
+the Ministry of Energy and Water and UNDP in 2016, 
+estimated the required increase in the production 
+capacity in electricity as a result of the Syrian crisis at 
+486MW.xli This is equivalent to five hours of electricity 
+supply per day, and is incurring losses to the Government 
+of Lebanon and the Lebanese citizens estimated at 
+around $333 million per year. The study also showed that 
+more than 45 per cent of displaced Syrian households are 
+illegally connected to the national grid, thus leading to 
+the Government incurring uncovered costs. Insufficient 
+electricity supply forces Lebanese, as well as displaced 
+Syrians, to further rely on private and environmentallyunfriendly 
+generators, which is expensive and further 
+increases their economic vulnerability. 
+(13) Ministry of Energy and Water (June 2010), Policy Paper for the Electricity Sector, https:// 
+data2.unhcr.org/en/documents/details/64585. 
+91% Only 44% 
+of Lebanese and Displaced 
+Syrians believe that the Lebanese 
+have been good hosts to 
+refugees since 2011 
+of those living in informal 
+settlements have access to 
+basic sanitation services 
+88% 
+of displaced Syrian households 
+are indebted, with an 
+average amount of $1,016 
+(almost double of the value of the 
+MEB) 
+Tripoli Market. Photo credit: UNDP, Rana Sweidan, 10/1/2019
+
+17 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Population in Need and Targeted . 
+APPEALING PARTNERS BY SECTOR 
+Total of 133 appealing UN and NGO partners 
+PEOPLE IN NEED
+3.2 million 
+people are in need 
+1.5 million 
+Vulnerable Lebanese 
+1.5 million 
+Displaced Syrians 
+180,000 
+Palestinian Refugees from Lebanon (PRL) 
+28,800 
+Palestinian Refugees from Syria (PRS) 
+PEOPLE TARGETED 
+2.40 million 
+people are targeted for protection and direct 
+assistance 
+145,800 
+PRS and PRL 
+2.16 million 
+people are targeted for service 
+delivery, economic recovery and 
+social stability 
+208,800 
+PRS and PRL 
+1,005,000 
+Vulnerable 
+Lebanese 
+942,337 
+Displaced 
+Syrians 
+POPULATION IN NEED AND TARGETED 
+79 
+Protection 
+63 
+Social Stabililty 
+68 
+Livelihoods 
+38 
+Health 
+39 
+Basic Assistance 
+37 
+Water 
+37 
+Education 
+45 
+Food Security 
+28 
+Shelter 
+14 
+Energy 
+750,000 
+Vulnerable 
+Lebanese 
+1,500,000 
+Displaced 
+Syrians 
+28,800 PRS 
+117,000 PRL 
+28,800 PRS 
+180,000 PRL 
+Note: PRL, PRS figures pertain to the 12 camps and 56 gatherings as covered by the recent CAS/PCS/LPDC census. 
+Note: PRL, PRS figures pertain to the 12 camps and 56 gatherings as covered by the recent CAS/PCS/LPDC census. 
+POPULATION IN NEED AND TARGETED
+
+PART I : Response Strategy . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+18 
+RESPONSE STRATEGY 
+Strategic Objectives 
+As in the previous years, the Government of Lebanon 
+(GoL) and national and international partners work 
+together to deliver integrated and mutually reinforcing 
+humanitarian and stabilization interventions. 
+The LCRP promotes the strategic priorities identified 
+by the GoL and partners, with interventions aligned to 
+national policies and strategies, responding to evolving 
+needs, and seeking to complement and build on other 
+international assistance in the country. 
+The response plan focuses on humanitarian assistance 
+to vulnerable communities, including persons displaced 
+from Syria, vulnerable Lebanese and Palestinians, but it 
+also strongly seeks to expand investments, partnerships 
+and delivery models for stabilization as a transition 
+towards longer-term development strategies. 
+1 Ensure protection of vulnerable 
+populations 
+2 Provide immediate assistance to 
+vulnerable populations 
+3 Support service provision through 
+national systems 
+4 Reinforce Lebanon’s economic, 
+social and environmental stability 
+1 Ensure protection of vulnerable 
+populations 
+Recognizing that the imperative of 
+protecting people lies at the heart of 
+humanitarian action, this response objective 
+aims to strengthen protection services 
+and interventions for displaced persons 
+from Syria and other vulnerable populations, empower 
+individuals and mainstream protection across all sectoral 
+interventions. It promotes protection of, and access to, 
+affected people in accordance with relevant principles 
+and instruments of international refugee and human 
+rights law ratified by Lebanon. 
+• Ensure that persons displaced from Syria have access 
+to legal status in accordance with Lebanese laws and 
+regulations, while anticipating their return in safety 
+and dignity as the preferred durable solution,1 and 
+while abiding by the principle of non-refoulement;2 
+• Continue granting access to Lebanon for exceptional 
+humanitarian cases through the approval of the 
+Minister of Social Affairs, while upholding the 
+principle of non-refoulement; 
+• Continue to provide durable solutions such as 
+resettlement and other admissions to third countries; 
+• Continue facilitating access to civil documentation, 
+including birth, death and marriage registration, for 
+persons displaced from Syria as per Lebanese laws, 
+regulations and policies; 
+• Ensure tailored provision of protection and other 
+services for persons with specific needs, such as 
+persons with disabilities and older persons as well as 
+for women and children; 
+• Build the capacity of Lebanese, Palestinian and 
+Syrian communities to identify protection concerns, 
+provide feedback on programmatic interventions, 
+and contribute to the referral of cases to specialized 
+service providers; and 
+• Support the GoL to enforce laws to prevent 
+and address child abuse, sexual and economic 
+exploitation, and the worst forms of child labour. 
+(1) The position of the Government of Lebanon is that any form of local integration is 
+unconstitutional and, therefore, not an option. The Government considers that the only 
+durable solution being available for displaced Syrians in Lebanon is their safe return to Syria, 
+in accordance with applicable norms of international law and taking into full consideration 
+the vital interests of Lebanon as a host country. Resettlement to third countries is seen as an 
+alternative durable solution. 
+(2) In any refugee situation, the ultimate goal for the United Nations is the realization of 
+durable solutions to the plight of refugees. While local integration is not an option for 
+displaced Syrians in Lebanon, the dignity and well-being of displaced Syrians must be 
+preserved until they can attain durable solutions outside of Lebanon..
+
+19 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Response Strategy . 
+2 Provide immediate assistance to 
+vulnerable populations 
+This response objective aims to address 
+the immediate needs of the vulnerable 
+populations (displaced Syrians, vulnerable 
+Lebanese, Palestinian refugees from Syria 
+and Palestinian refugees from Lebanon), 
+prioritizing the most vulnerable through 
+temporary solutions, with the aim to mitigate the rapid 
+deterioration of social and economic conditions which 
+exacerbate protection risks. 
+• Provide direct and targeted assistance to the 
+most vulnerable populations to ensure their 
+protection and meet their survival needs, including 
+needs caused by displacement, while ensuring 
+complementarity across sectors; 
+• Reduce exposure to hunger, homelessness, health 
+complications and disease outbreaks, violence, 
+abuse and exploitation as well as the worst effects 
+of poverty, including resorting to negative coping 
+mechanisms, with practices such as child labour, 
+begging and early marriage; 
+• Continue immediate and temporary service delivery 
+in informal settlements, collective shelters, substandard 
+dwellings and gatherings; and 
+• Continue to respond to emergency humanitarian 
+needs as they arise through immediate and 
+temporary interventions. 
+3 Support service provision through 
+national systems3 
+This response objective aims to strengthen 
+national and local capacities to meet the 
+increasingly overwhelming service-related 
+needs and seeks to reinforce confidence 
+in the equitable access to and quality of 
+public services for vulnerable populations. It aims to 
+establish or upgrade basic public service infrastructure, 
+strengthening service delivery in the most vulnerable 
+communities affected by the crisis through the support 
+of the Ministry of Social Affairs’ (MoSA) network of Social 
+Development Centres as a key gateway. 
+• Ensure that all children, including children displaced 
+from Syria, can access, learn and be retained in a 
+quality learning environment (formal and nonformal4), 
+widening the absorption capacity of 
+education premises (rehabilitation, expansion and 
+construction), in addition to strengthening the 
+education system to be able to cater for all children; 
+• Ensure support to strengthening social safety nets; 
+(3) “National systems” is inclusive of national government and local institutions, NGOs/civil 
+society and the private sector. 
+(4) Non-formal education is conceived as a means to bridge the gap with formal education. 
+• Ensure that the most vulnerable Lebanese and 
+displaced populations can access disease prevention 
+interventions and affordable healthcare, with a 
+focus on accessibility and quality of services and 
+controlling disease outbreaks; 
+• Protect the most vulnerable, especially children and 
+women, older persons and persons with disabilities, 
+and other minority groups at risk of violence 
+(including abuse, exploitation and neglect), through: 
+• increased outreach and responsiveness of 
+community and institutional systems; 
+• referrals and a full package of services, including 
+appropriate support to survivors through a 
+robust and coordinated national system; and 
+• Extending safe water, sanitation, hygiene and 
+energy for the most vulnerable Lebanese and 
+persons displaced from Syria by reinforcing 
+existing infrastructure. 
+• Scale up service delivery mechanisms that are costefficient, 
+yet responsive to needs and offer clear 
+benefits to all vulnerable communities; and 
+• Strengthen government ownership of investments 
+made by supporting national planning and 
+implementation, monitoring and management 
+processes. 
+4 Reinforce Lebanon’s economic, social 
+and environmental stability 
+This response objective aims to strengthen 
+productive sectors in expanding economic 
+and livelihood opportunities, benefiting 
+local development and the most 
+vulnerable communities. It aims to invest 
+in mitigating the environmental impact of the Syrian 
+crisis, ensuring that actions are taken to maintain longterm 
+sustainability of the natural eco-system and avoid 
+its further degradation. Furthermore, it will invest in 
+national and local capacities to promote dialogue that 
+mitigates tensions and conflicts at municipal and local 
+levels, with a particular focus on youth and adolescents. 
+• Promote job creation and support businesses 
+to generate income for local economies in poor 
+areas benefiting all vulnerable communities, in 
+accordance with Lebanese laws and regulations,5 
+and the outcomes of the Brussels conferences; 
+• Enhance the productive capacities of local microand 
+small-to-medium enterprises (MSME) and 
+cooperatives through improving local economic 
+infrastructure and supporting their capability to 
+respond to market demands; 
+(5) As per MoL annual decisions related to businesses, occupations and crafts, and jobs that 
+must be limited to Lebanese only.
+
+PART I : Response Strategy . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+20 
+begin to facilitate voluntary repatriation. 
+• Inter-community tensions and public pressure for 
+returns are likely to increase if sufficient support is 
+not provided to Lebanon to mitigate the impact of 
+the crisis and reverse the economic crisis and rising 
+unemployment. 
+Despite ongoing efforts, the majority of displaced 
+populations continue to live below the poverty line and 
+the pressure on Lebanese institutions to accommodate 
+these increased needs, with many needing to be 
+upgraded prior to the crisis, continues. A sense of fatigue 
+is growing among the communities, as are concerns over 
+increase in the use of negative coping mechanisms, 
+impeding access to services and ability to cover basic 
+needs. 
+Some 68 per cent of displaced Syriansxlii live under 
+the minimum survival requirements, and 89 per cent 
+of Palestinian refugees from Syria and 65 per cent of 
+Palestinian refugees from Lebanon are living under the 
+poverty line. As for the Lebanese, approximately 10 per 
+cent live below the extreme poverty line, with between 
+27 and 30 per cent of people in Lebanon living beneath 
+the national poverty line7 before the crisis.xliii 
+• Vulnerable households will increasingly shift to living 
+in non-residential and non-permanent structures 
+as living in residential, urban settings becomes 
+unaffordable. 
+The crisis in Syria continues to have a negative impact 
+on the sustainable development of Lebanon and the 
+pressures felt by public systems, such as: 
+• An improved relationship and trust between service 
+providers and customers will increase cost recovery 
+and result in better water service provision. 
+• Without additional resources, the education sector 
+will be unable to absorb an increased number of 
+children and youth in formal education. 
+• More standardized service provision across primary 
+healthcare providers will increase quality of services 
+across all regions. 
+At the end of 2015, the crisis had cost the Lebanese 
+economy an estimated $18.15 billion due to the economic 
+slowdown, loss in trade and fiscal revenues as well as 
+additional pressure on public services.8,xliv 
+• Unemployment levels and informal labour are on 
+the rise, especially in some of the country’s poorest 
+localities: in some particularly vulnerable areas, 
+unemployment is twice the national average. The 
+economic downturn has had a disproportionate 
+effect on young people, with youth unemployment 
+three to four times higher than the overall 
+(7) The National Poverty Line is established at $3.84 per person per day. 
+(8) World Bank (2017), Preliminary findings of the Economic and Social Impact Assessment of 
+the Syrian Conflict on Lebanon: the cumulative cost to Lebanon since the start of the conflict, 
+in terms of lowering the GDP growth rate, is $18.15 billion through 2015, and the fiscal 
+impact, in terms of lower revenues, is estimated at $4.2 billion during 2012-2015. 
+• Promote sustainable agriculture production 
+by supporting vulnerable food producers and 
+communities and improve agricultural livelihood 
+activities; 
+• Reduce the impact of the crisis on Lebanon’s 
+environment, with a particular focus on integrated 
+solid waste management, water and wastewater 
+management, use of renewable energy sources 
+and energy-efficient products, protection of air 
+quality, conservation of land use and ecosystems 
+by strengthening good management of natural 
+resources and sustainable investments abiding by 
+environmental regulations; 
+• Support government institutions and government 
+partners to implement necessary economic, labour, 
+social welfare, disaster risk management and 
+environmental protection reforms; 
+• Address social and economic risks faced by Lebanese, 
+displaced Syrians and Palestinian adolescents and 
+youth with a particular focus on empowering young 
+women and girls, including through TVET and decent 
+work opportunities;6 
+• Prevent social tensions from further rising within 
+stressed communities by strengthening the 
+capacities of government, local systems and 
+mechanisms, and individuals to address critical 
+needs and promote intra- and inter-community 
+dialogue, with full respect of the Lebanese laws and 
+regulations; and 
+• Strengthen national emergency preparedness and 
+response capacity. 
+Planning assumptions 
+The planning assumptions for the LCRP 2019 were 
+developed through a participatory process with 
+representatives from government institutions, UN 
+agencies, and international and national NGOs. In 
+addition to the below key assumptions, each sector 
+strategy has incorporated an analysis of planning 
+assumptions, risks and mitigating measures in their 
+respective theories of change. 
+Context: 
+• It is assumed that, pending a political solution in Syria, 
+the crisis will continue. While important obstacles 
+to large-scale returns in safety and dignity remain, 
+some spontaneous returns of displaced Syrians 
+from Lebanon to Syria are taking place, particularly 
+since 2017. Group returns are also facilitated by 
+the Directorate General of General Security since 
+early 2018. Nevertheless, the number of Syrians in 
+Lebanon is expected to remain relatively stable in 
+2019. The number of sustainable returns to Syria will 
+substantially increase if obstacles to voluntary, safe 
+and dignified returns are removed and the UN can 
+(6) As per MoL annual decisions related to businesses, occupations and crafts, and jobs that 
+must be limited to Lebanese only
+
+21 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Response Strategy . 
+unemployment rate.9,xlv Thus, investment in the 
+strengthening of public systems and economic 
+opportunities remains essential for Lebanon. 
+• Increased access to sustainable livelihoods, including 
+through provision of work permits, will decrease 
+the need for cash and food assistance. Having a 
+work permit will be taken into consideration when 
+identifying the most vulnerable in need of assistance. 
+In accordance with the principle of international 
+solidarity and accountability,xlvi the response will be 
+developed based on priorities, needs, and capacities, 
+and partners will continuously seek feedback from the 
+populations that they serve and address concerns about 
+the response raised by the affected populations. 
+• The data available and targeting used allows for 
+identification of particular profiles of vulnerability 
+amongst the populations in need and takes into 
+account geographical diversity in terms of capacity 
+and pressure. 
+Governance: The LCRP underscores its national 
+leadership by the Government of Lebanon through the 
+Ministry of Social Affairs and reaffirms the international 
+community’s commitment to support and reinforce 
+the response capacity of national/local institutions and 
+national/local humanitarian actors. 
+• The response strategy allows for linkages and 
+complementarity with longer-term development 
+plans, enabling a shift towards more sustainable 
+delivery of support and services. 
+• Partnerships with development actors and civil 
+society actors are in place to allow for complementary 
+approaches to the response, within a whole-ofsociety 
+approach. 
+• The coordination framework is sufficient to allow 
+integrated approaches that avoid overlap and 
+ensure adequate coverage and prioritization. 
+• Support to public institutions builds sustainable 
+capacities, and strengthens service delivery. 
+Population planning figures: The LCRP addresses the 
+very diverse needs of four target groups: 1.5 million 
+vulnerable Lebanese (49.7% are female; 50.3% male; 
+31.15% children); 1.5 million displaced Syrians (51.6% 
+female; 48.4% male; 54.1% children); 28,800 Palestinian 
+refugees from Syria (49.58% female; 50.42% male; 42.11% 
+children) and 180,000 Palestinian refugees (49.58% 
+female; 50.42% male; 34.78% children) from Lebanon 
+living in 12 camps and 156 gatherings. 
+Funding trends: The calls for burden-sharing continue 
+throughout the four-year plan that ask for investment in 
+Lebanon and support to the population that Lebanon 
+hosts. At the same time, increasing advocacy with donor 
+countries will focus on putting in place mechanisms that 
+provide persons displaced from Syria with humanitarian 
+access to third countries, as well as mechanisms for 
+(9) Arab Weekly Digest, Interview with Minister of Labor, Beirut, August 2017: Lebanese 
+unemployment rate is around 25 per cent, with 37 per cent for youth under 35 years of age, 
+and 18 per cent for women. 
+economic development. 
+The international community should also bring essential 
+support to Lebanon through other funding streams, 
+including development assistance and other funding 
+mechanisms, as it is assumed that the level of funding to 
+the LCRP may not be sustained throughout the duration 
+of the four-year plan. 
+Predictable and multi-year funding is required to 
+implement more sustainable solutions. 
+Alignment with other planning 
+frameworks 
+The LCRP is aligned with the following key processes and 
+frameworks: 
+• As the second edition of the LCRP, the 2017-2020 
+framework response is the successor of the 2015- 
+2016 LCRP. Within the four-year framework, this plan 
+seeks to expand the stabilization and development 
+focus and facilitate the transition of crisis response to 
+national structures and systems, while maintaining a 
+robust and integrated humanitarian and stabilization 
+response to the protracted crisis. This medium-term 
+strategic planning framework aims to address national 
+objectives and priorities to respond to the impact of the 
+Syrian crisis in Lebanon, and has been developed and 
+implemented in collaboration with the Government 
+of Lebanon, the UN, national and international NGOs, 
+and donors. Yearly appeals, including multi-year 
+programmes, are developed based on an annual review 
+of needs. 
+• The 2017-2020 LCRP is the Lebanon chapter of the 
+Regional Refugee and Resilience Plan 2018-2019 
+(3RP) led by UNHCR and UNDP. The 3RP is a regional 
+plan that sets out the response to the humanitarian, 
+protection and assistance needs of refugees from 
+Syria and other impacted persons, communities and 
+institutions in the five countries hosting displaced 
+Syrians, i.e. Turkey, Lebanon, Jordan, Iraq and Egypt. 
+As a nationally-owned chapter of the 3RP, the LCRP is 
+tailored to respond to the specific needs of Lebanon 
+and vulnerable populations within this ongoing 
+regional crisis. It ensures that humanitarian and 
+stabilization interventions are mutually reinforcing to 
+deliver value, and emphasizes support to Lebanon’s 
+national capacities, including its aid and assistance 
+management efforts. 
+• The LCRP incorporates priority measures articulated in 
+the GoL’s 2013 Roadmap of Priority Interventions 
+for Stabilization from the Syrian Conflictxlvii and 
+its updated projects, and furthers its three objectives: 
+(i) to restore and expand economic and livelihood 
+opportunities for vulnerable groups; (ii) to restore and 
+build resilience in equitable access to and quality of 
+sustainable public services; and (iii) to strengthen social 
+stability. Programmes implemented directly by line 
+ministries are represented in the LCRP’s results matrix. 
+
+PART I : Response Strategy . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+22 
+All LCRP projects investing in Lebanon’s capacities are 
+linked to needs articulated in the Roadmap, particularly 
+the first two tracks. Furthermore, the LCRP is fully 
+aligned with the priority outcomes of international 
+donor conferences in London (February 2016) and 
+Brussels (April 2017 and April 2018). 
+• The shorter-term funding appealed for through the 
+LCRP is complemented by the Concessional Financing 
+Facility (CFF) currently benefitting Lebanon and 
+Jordan. This facility is focused on providing concessional 
+financing to middle income countries most affected by 
+the presence of large numbers of refugees. With an 
+initial focus on the Syrian crisis as it impacts Jordan and 
+Lebanon, and with a primary focus on infrastructure, 
+the CFF has been adapted to address the impacts of 
+current and future refugee crises on a global scale. So 
+far, $ 330 million has been approved with an additional 
+$295 million pledged to the Concessional Financing 
+Facility for Lebanon. 
+• The LCRP specifically focuses on the impact of the Syrian 
+crisis in Lebanon and is complemented by a number 
+of multi-lateral and bi-lateral cooperation agreements 
+such as the EU-Lebanon Partnership Priorities and 
+Compact 2016-2020,xlviii the World Bank Country 
+Partnership Framework for Lebanonxlix and, most 
+notably, the United Nations Strategic Framework 
+(see point 6 below). 
+• The LCRP is fully aligned with and complementary to 
+the 2017-2020 United Nations Strategic Framework 
+(UNSF),l the UN’s cooperation framework with 
+Lebanon, which provides the overall vision for UNwide 
+engagement in-country implemented through 
+the country programmes of its specific UN agencies, 
+funds and programmes. The UNSF articulates the 
+UN’s support to the Government of Lebanon towards 
+achieving the following priorities: (i) all people in 
+Lebanon have peace and security; (ii) Lebanon enjoys 
+domestic stability and practices effective governance; 
+and (iii) Lebanon reduces poverty and promotes 
+sustainable development while addressing immediate 
+needs in a human rights/gender sensitive manner. The 
+UNSF reaffirms humanitarian principles in relation to 
+the impact of the Syrian crisis, including the needs of 
+1.5 million displaced Syrians, and acknowledges the 
+continued requirement for a Lebanon Crisis Response 
+Plan (LCRP) that supports vulnerable populations 
+affected by the crisis while also strengthening the 
+resilience of local institutions and the host community 
+to manage the current situation. UN support for the 
+2017-2020 LCRP is outlined in the UNSF. 
+• The LCRP aligns with GoL’s strategies and contains 
+interventions developed as part of the regional No 
+Lost Generation strategy (NLG), specifically through 
+support to the RACE II Strategy, and other sectoral 
+investments in protection, psychosocial support and 
+skill development for children, adolescents and youth, 
+such as the Ministry of Social Affairs’ National Plan to 
+Safeguard Children and Women in Lebanon (MoSA NP) 
+and the Ministry of Education and Higher Education 
+National Child Protection Policy. The LCRP Education 
+and Protection sectors contain the GoL-endorsed 
+budget for RACE II and the MoSA NP implementation, 
+captured through UN agencies, donors and 
+participating NGOs, and the funding appeals by MEHE 
+and MoSA, with a view to moving to full government 
+implementation. 
+• The LCRP is coherent with the Dead Sea Resilience 
+Agendali endorsed at the Resilience Development 
+Forum held in Jordan in November 2015, which brought 
+together representatives of governments of countries 
+affected by the Syrian crisis, UN, international and 
+national NGOs, the donor community and the private 
+sector to discuss key guiding principles and elements 
+of a medium-term regional response. 
+• The LCRP strives to implement the commitments 
+made by more than 30 of the largest humanitarian 
+partners through the Grand Bargainlii at the World 
+Humanitarian Summit in 2016. Ten key commitments 
+were made to: ensure greater transparency; more 
+support and funding tools for local and national 
+responders; increase the use and coordination of 
+cash-based programming; reduce duplication and 
+management costs with periodic functional reviews; 
+improve joint and impartial needs assessments; include 
+people receiving aid in making the decisions which affect 
+their lives; increase collaborative humanitarian multiyear 
+planning and funding; reduce the earmarking of 
+donor contributions; harmonize and simplify reporting 
+requirements; and enhance engagement between 
+humanitarian and development actors. 
+• Many LCRP projects also integrate the principles of 
+the UN Sustainable Development Goals,liii a set 
+of globally-agreed goals to end poverty, protect the 
+planet and ensure prosperity for all as part of the 2030 
+Agenda for Sustainable Development. 
+• The LCRP strives to ensure the commitments in the New 
+York Declaration for Refugees and Migrants, and the 
+recommendations contained in the Comprehensive 
+Refugee Response Frameworkliv annexed to the 
+Declaration. 
+
+23 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Response Strategy . 
+Integrated response management10 
+(10) This structure is subject to possible future amendments following the change of 
+government in Lebanon. 
+GOVERNMENT OF LEBANON 
+INTER-MINISTERIAL COMMITTEE 
+ON DISPLACED 
+INTEGRATED RESPONSE MANAGEMENT 
+LCRP LEADERSHIP 
+SECTOR STEERING COMMITTEES 
+MoSA & UN RC/HC 
+CONVENING A STEERING BODY OF HUMANITARIAN & STABILIZATION 
+RESPONSE PARTNERS 
+SUPPORTED BY SECTOR WORKING GROUPS 
+LED BY LINE MINISTRIES 
+INTER-SECTOR 
+RESPONSE 
+MANAGEMENT 
+LED BY MoSA 
+CO-CHAIRED BY 
+UNDP & UNHCR 
+SUPPORTED BY AN INFORMATION 
+MANAGEMENT WORKING GROUP 
+COMPOSED OF UN AGENCIES, DONORS, NGOS AND AS 
+APPROPRIATE OTHER CONCERNED MINISTRIES OR PUBLIC 
+INSTITUTIONS. 
+ENGAGING WITH PUBLIC INSTITUTIONS, CIVIL SOCIETY & PRIVATE SECTOR 
+IMPLEMENTATION OF RESPONSE 
+by GoL & PARTNERS
+
+PART I : Response Strategy . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+24 
+BASIC 
+ASSISTANCE 
+MoSA 
+UNHCR 
+WVI 
+EDUCATION 
+MEHE 
+UNICEF 
+FOOD 
+SECURITY 
+MoA 
+FAO 
+WFP 
+HEALTH 
+MoPH 
+WHO 
+UNHCR 
+LIVELIHOODS 
+MoSA & 
+MoET 
+UNDP 
+PROTECTION 
+MoSA 
+UNHCR 
+UNICEF 
+UNFPA 
+SHELTER 
+MoSA 
+UNHCR 
+UN-HABITAT 
+SOCIAL 
+STABILITY 
+MoSA & 
+MoIM 
+UNDP 
+UNHCR 
+ENERGY 
+MoEW 
+UNDP 
+Inter-Sector working group led by MoSA and co-chaired by UNHCR and UNDP 
+supported by an Information Management Working Group 
+LCRP LEADERSHIP 
+MoSA & UN RC/HC 
+Convening a steering body of humanitarian & stabilization response partners 
+WATER 
+MoEW 
+UNICEF 
+Governance mechanism 
+The 2017-2020 LCRP will continue to ensure that the 
+coordination structure aligns with both the humanitarian 
+and stabilization dimensions of the response, under the 
+overall leadership of the Minister of Social Affairs and the 
+UN Resident Coordinator/Humanitarian Coordinator:11 
+LCRP sectors are coordinated through the Inter-Sector 
+Working Group led by MoSA, a mechanism that 
+reports to the leadership body of the LCRP and includes 
+LCRP sector leads from line ministries, as well as sector 
+coordinators, and key response partners as per the 
+terms of reference of the Inter-Sector Working Group. 
+In accordance with their specialized mandates, UNHCR 
+and UNDP act as co-chairs. This mechanism reports to 
+the LCRP Steering Committee co-chaired by the Minister 
+of Social Affairs and the UN Resident Coordinator/ 
+Humanitarian Coordinator and includes Government 
+ministries12 as well as members of the Inter-Ministerial 
+Committees and key response partners from the UN, 
+donors and NGOs. 
+Sector Steering Committees are supported by working 
+groups from the involved national and international 
+partners that contribute to the technical and operational 
+coordination of sector-specific issues including 
+monitoring of progress and sharing of information, 
+experiences and challenges. Sector working groups 
+will report to the Sector Steering Committees, and will 
+not duplicate the functions of the latter. Relevant terms 
+of reference were revised in 2016 to reflect these roles, 
+responsibilities and reporting lines (see the TORs in 
+Annex 5). 
+Aid coordination: Efforts are ongoing to improve aid 
+management under the leadership of MoSA in order 
+to assist in coordinating GoL/donor/UN/World Bank 
+priorities, and in tracking funding against those priorities. 
+(11) The UN Resident Coordinator/Humanitarian Coordinator is accountable for oversight of 
+humanitarian and development responses in countries through the Inter-Agency Standing 
+Committee (IASC) for coordination of humanitarian action and the Delivering-As-One 
+initiative of the UN Secretary-General. Under these principles, lead agencies for specific 
+sectors in Lebanon are accountable for representing the interest of their sectors at every 
+level of response management. 
+(12) MoIM, MoSA, MoL, MoPH, MoFA, MEHE, MoET, MoF, MoA, MoEW, MoE, PMO, HRC, and 
+CDR, to be cleared by the Minister. 
+Implementation Framework 
+Authority & Accountability: The GoL’s Inter-Ministerial 
+Committee on Displaced is the highest national authority 
+for international partners supporting the crisis response 
+inside Lebanese territory, including through the LCRP, in 
+accordance with Lebanese laws and regulations as well 
+as applicable international law. 
+Oversight: The Ministry of Social Affairs is mandated 
+by the Inter-Ministerial Committee on Displaced to lead 
+and oversee the Government’s response to the crisis in 
+Lebanon. The LCRP Steering Committee is co-chaired 
+by the Minister of Social Affairs and the United Nations 
+Resident Coordinator/Humanitarian Coordinator, and 
+includes participation of members of the Inter-Ministerial 
+Committee on Displaced and other public institutions, 
+humanitarian and stabilization partners across the UN, 
+national and international NGOs, and donors. 
+Planning and Coordination: LCRP activities are 
+coordinated, under the direct guidance of MoSA, with line 
+ministries through sector steering committees and sector 
+working groups, with the support of sector-coordinating 
+UN agencies, donors, the World Bank and NGO partners 
+– also engaging Lebanon’s civil society and private 
+sector where necessary. LCRP progress and strategies 
+will be steered by the Government of Lebanon through 
+MoSA in collaboration with the UN, as represented by 
+the UN Resident Coordinator/Humanitarian Coordinator, 
+and will be supported by the Office for the Coordination 
+of Humanitarian Affairs (OCHA) with the Inter-Ministerial 
+Committee on Displaced and the lead UN agencies for 
+refugee and stabilization responses (UNHCR and UNDP 
+respectively). 
+The current structure and management of LCRP sectors 
+is organized at the national level as below, with similar 
+structures operating in five operational areas of Lebanon:
+
+25 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Response Strategy . 
+Principles for LCRP 
+Implementation 
+Sector steering committees provide relevant 
+information and facilitate operation of partners for 
+successful implementation of projects in the field, 
+under the direct leadership of and in coordination with 
+MoSA’s LCRP team throughout Lebanon. To ensure 
+efficiency and avoid duplication, the LCRP coordination 
+structure remains the only system through which 
+partners coordinate efforts to respond to the Syrian 
+crisis in Lebanon. 
+Planning 
+The LCRP Steering Committee guides the allocation of 
+unearmarked funding and other resources among the 
+sectors following participatory consultations with the 
+relevant stakeholders, and in a timely manner. 
+In line with LCRP Steering Committee guidance, sector 
+steering committees ensure alignment of unearmarked 
+funding to key priorities and underfunded needs of the 
+LCRP. 
+For unearmarked funding, sectors present their 
+recommendations to the MoSA and UN lead partners, 
+which would coordinate with the relevant donors on 
+the allocation of funding, working through funding 
+instruments such as the Lebanon Recovery Fund. 
+Appealing partners commit to use earmarked funding 
+in coordination with sector steering committees and in 
+adherence to agreed LCRP sector outcomes and outputs. 
+The LCRP partners review progress on agreed objectives 
+and impact through regular and ad hoc meetings of sector 
+steering committees and the LCRP Steering Committee. 
+Planning of programmes should be coordinated through 
+sectors, in close collaboration with line ministries under 
+MoSA’s leadership, through a bottom-up field-based 
+approach that takes into consideration the national 
+priorities and needs identified by each line ministry and 
+in line with the Lebanese laws, rules and regulations. 
+Information sharing and tracking 
+Appealing partners are responsible for reporting fully 
+and in a timely manner on funding and other resources 
+received, through agreed coordination and reporting 
+mechanisms that are systematic and transparent to the 
+Government of Lebanon’s Inter-Ministerial Committee 
+on Displaced, through MoSA and the UN Resident 
+Coordinator/Humanitarian Coordinator. 
+Funding and other resources received and/or committed 
+should be reported to the LCRP Steering Committee led 
+by MoSA and the UN Resident Coordinator/Humanitarian 
+Coordinator. 
+LCRP implementing partners are responsible for 
+reporting on a regular basis, through agreed systems, 
+to the relevant sector steering committee on the 
+progress/achievements of the activities that they are 
+implementing. 
+Sector steering committees report on progress and 
+achievements to the LCRP Steering Committee. The 
+format, content and frequency of reports will be decided 
+at the start of the implementation period. 
+Financing the LCRP 
+The financing of the LCRP presents an opportunity 
+to strengthen aid architecture and harmonization in 
+Lebanon. Humanitarian and development needs set out 
+in the LCRP will continue to be funded on an appeal basis, 
+both bilaterally through a variety of donor mechanisms 
+and trust funds, as well as pooled funds such as the Multi- 
+Partner Trust Fund (MPTF) managed by the World Bank, 
+the UN-managed Lebanon Humanitarian Fund (LHF) and 
+the Lebanon Recovery Fund (LRF) chaired by GoL. 
+Cost-sharing opportunities will be explored with the 
+Government, along with public-private partnerships, 
+to support government implementation of Roadmap 
+projects. The introduction of an overall Lebanon 
+Financial Aid Tracking System, building on existing 
+systems, will also enable better planning of investment 
+coordination between GoL and its international partners 
+to ensure a predictable level of support to communities. 
+Further efforts will focus on broadening the diversity 
+of funding, including through donors from the MENA 
+region, members of the Gulf Cooperation Council, and 
+other partners. 
+Communicating the LCRP 
+The LCRP will be supported by an integrated multiagency 
+communication strategy, led by the Government 
+(MoSA). Communication priorities will include: (i) 
+maintaining international momentum in support 
+of Lebanon’s stability and finding durable solutions 
+to the crisis; (ii) fostering an international sense of 
+accountability for Lebanon’s vulnerable populations; 
+(iii) strengthening government leadership of Lebanon’s 
+assistance frameworks; (iv) fostering inter-communal 
+understanding and acceptance; and (v) joint messaging 
+on key achievements and critical needs.
+
+PART I : Response Strategy . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+26 
+Principles of partnership and 
+accountability 
+As a basis for addressing its key priorities, strengthening 
+partnership and enhancing the overall effectiveness of 
+the LCRP, several core principles and commitments have 
+been agreed between GoL and its international partners 
+in order to: 
+• Enhance the effectiveness, operationalization and 
+transparency of the LCRP, and the predictability of 
+funding, by complementing its guiding principles. 
+• Provide guidance, applicable to all LCRP partners, 
+for a timely, effective and coordinated response, by 
+clarifying requirements with respect to key functions 
+and processes: information sharing and tracking, 
+planning and implementation. 
+• Ensure synergies between national planning and 
+partner responses, by aligning LCRP efforts with 
+national strategies and agreed plans, and by enabling 
+line ministries to play a stronger role in leadership 
+and coordination at the national and local levels 
+under the guidance of MoSA, while benefiting from 
+the support of the UN, donors and NGOs. 
+• Enhance the localization of the response with national 
+actors involved in the design and coordination with 
+adequate efforts to build Lebanon’s capacity and 
+systems for future crisis prevention and response.13,lvi 
+• Ensure accountability to affected populations. LCRP 
+partners will continue to ensure that the response 
+engages affected populations and local authorities 
+in local programme design, under the guidance and 
+coordination of MoSA and relevant UN coordinating 
+agencies. This includes, where possible, regular 
+visits aimed at obtaining feedback from vulnerable 
+communities on needs, targets and effectiveness of 
+LCRP interventions. Plans in 2017-2020 will facilitate 
+access of affected populations to communication 
+processes in which they are able to ask questions, 
+provide feedback and contribute to discussions 
+about current and longer-term strategies. 
+• Enhance the multi-sectoral approach of the 
+LCRP based on a comprehensive and a common 
+understanding of risks, taking into account threats, 
+vulnerabilities and coping capacities at the individual, 
+community and institution level, in support of the 
+Sustainable Development Goal Agenda of leaving 
+no one behind. 
+(13) Within the Regional Refugee and Resilience Response Plan (3RP), principles for a 
+localized response are as follows: (a) local actors influence the design of the response by 
+feeding in the needs, priorities and social dynamics of populations affected by the Syrian 
+crisis; (b) coordination mechanisms are led by government actors where possible, and all 
+local actors are able to participate in and contribute to coordination processes at national 
+and sub-national levels; (c) partnerships between international and local organizations/ 
+institutions ensure equity and joint responsibility, as well as visibility for local actors within 
+the 3RP response; (d) initiatives jointly undertaken by international and local organizations 
+include a strong element of capacity development in order to build local capacity and 
+systems for future crisis prevention and response in the region; and (e) the maximum amount 
+of direct, quality funding as possible is channeled to national and local actors in order to 
+allow them to respond to the needs of crisis-affected populations while simultaneously 
+investing in their own institutional capacities. 
+Cross-cutting issues 
+The seven following cross-cutting issues are mainstreamed 
+across sectors under the LCRP, as they have been 
+designated as key priorities by all partners. 
+Better understanding vulnerability and risk to 
+strengthen multi-sectoral approaches 
+The term “most vulnerable” is currently defined within 
+the sectors, mainly using socio-economic, geographic 
+or categorical concepts of vulnerability. These concepts 
+have informed sectors in targeting their response. 
+Understanding vulnerability by focusing on risks will 
+facilitate a more multi-disciplinary and integrated 
+approach that incorporates different perspectives and 
+promotes involvement of a wide-range of actors. It will 
+allow for a tailoring of interventions to the specific context. 
+Circumstances and factors at the individual, community 
+and institutional level can increase a person’s vulnerability 
+and/or reduce their capacity to cope with a particular 
+situation. The LCRP will move towards a multi-dimensional 
+understanding of vulnerability – considering internal risk 
+factors, likelihood to experience harm, capacity to recover 
+and adapt to new situations, ability to resist and insurance 
+against new shocks - to better harmonize the response. 
+Programming decisions and targeting of displaced 
+populations will be informed through a comprehensive 
+analysis of risk, considering vulnerability in relation to 
+threats and coping capacities. 
+Sectors will build on the thematic conversations 
+developed over the course of 2018 to further strengthen 
+the alignment of targeting approaches, systematize 
+referral mechanisms and co-design mechanisms for 
+redress when persons are left behind as particular types 
+of assistance shift in scope and scale. 
+Protection 
+The protracted nature of displacement in Lebanon has 
+impacted different segments of the population differently, 
+due to their particular vulnerabilities, coping capacities 
+and susceptibility to threats. The LCRP is committed to a 
+protection-centered response. All assistance promotes 
+meaningful access, safety, dignity and basic rights of 
+affected people. Protection is mainstreamed through 
+the response, at the national and field levels. Through a 
+common understanding of the protective environment, 
+sectors ensure due consideration, and responses which 
+take into account the respective needs and multidimensional 
+vulnerabilities of individuals they serve, 
+allowing for more integrated approaches to service 
+provision. These efforts will be guided by a joint-protection 
+analysis highlighting threats, vulnerabilities and coping 
+capacities, which will be shared across sectors to inform 
+targeting and tailor common multi-sector approaches. 
+Gender and gender- based violence 
+Achieving gender equality and eliminating gender-based 
+violence (GBV) is one of the Sustainable Development 
+Goals (SDGs) of the 2030 Agenda for Sustainable 
+
+27 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : Response Strategy . 
+Development.14,lvii Mainstreaming gender efficiently 
+requires assessing the implications of any planned action 
+for women, girls, men and boys, as well as making their 
+concerns and experiences an integral dimension of the 
+design, implementation, monitoring and evaluation of 
+policies and programmes in all spheres.15 
+Furthermore, recognizing that GBV represents a 
+particular challenge in humanitarian contexts and that 
+preventing and responding to GBV constitutes a collective 
+accountability, the LCRP ensures risk mitigation across all 
+sectors of intervention.lviii 
+Youth 
+The 2017-2020 LCRP prioritizes mainstreaming youth 
+programming as a clear and harmonized component 
+within its different relevant sector plans. The main goal of 
+the youth component is to foster economically, personally 
+and socially active and resilient youth in order to increase 
+education, entrepreneurship, TVET, empowerment, 
+participation, and civic engagement of this cross-cohort.16 
+Partners continue to expand their focus on youth 
+programming across all sectors to provide this vulnerable 
+and marginalized group with a holistic and harmonized 
+package of services. These initiatives aim to motivate the 
+youth to positively influence their peers and communities. 
+As such, youth programming has been expanded under 
+the Livelihoods sector through job creation in accordance 
+with the Ministry of Labour decisions and the Lebanese 
+labour law, increased market-based skills training and 
+employability, apprenticeships, income generation 
+opportunities, and innovation and entrepreneurship 
+programmes. The Education sector tackles youth 
+challenges through increasing their access to formal 
+education, vocational training and regulated non-formal 
+education programmes. The Social Stability sector has 
+defined a clear output for the active role of youth in 
+stabilizing and building resilience in their communities 
+and among their peers. Finally, the Protection sector has 
+further detailed the focus on youth at risk of engagement 
+in risky behaviours, ensures provision of psycho-social 
+support, and addresses gender-based violence, building 
+community referral and response mechanisms for at-risk 
+girls and boys. 
+Environment 
+The environment remains a priority and a key area for 
+mainstreaming within the LCRP. Under the LCRP 2017-2020, 
+the Ministry of Environment (MoE) leads an Environment 
+Task Force (cf. the TORs in Annex 7) in close coordination 
+with the Government, MoSA and the Inter-Sector Working 
+Group with the aim of addressing priority environmental 
+impacts and mainstreaming environmental considerations 
+into activities and projects. 
+In order to do this, MoE will adopt a two-level approach: 
+(14) Social Development Goal 5 states: “Achieve gender equality and empower all women 
+and girls”. 
+(15) See for the full definition of gender mainstreaming: Economic and Social Council), 
+Mainstreaming the gender perspective into all policies and programmes in the United Nations 
+system, ECOSOC Agreed Conclusions 1997/2, in: A/52/3, p. 28. 
+(16) As per MoL annual decisions related to businesses, occupations and crafts, and jobs that 
+must be limited to Lebanese only. 
+i. Ensure the mainstreaming of environmental 
+safeguards in emergency relief and stabilization 
+activities and ensure that the institutional capacities 
+of MoE are enabled to continue the assessment and 
+monitoring of the environmental impacts of the 
+Syrian conflict and the provision of relevant technical 
+guidance for environmental interventions; and 
+ii. Cooperate with all concerned LCRP sectors in the 
+identification and implementation of environmental 
+interventions, with a specific focus on priority sectors 
+(Social Stability, Food Security, Water, Energy) and 
+aim for a further roll-out to additional sectors as 
+appropriate. 
+Conflict sensitivity 
+Given the complex social fabric of Lebanon and the 
+political impact of the Syrian conflict on the domestic 
+scene, the response in Lebanon’s most vulnerable 
+localities both shapes conflict dynamics and is shaped by 
+them. This must be taken into account in all interventions 
+through a conflict-sensitive approach that includes ‘dono-
+harm’ principles. This approach is generally defined 
+as organizations: (a) understanding the context in 
+which they operate, particularly the conflict dynamics, 
+drivers of tensions and local capacities for stability; (b) 
+understanding the interaction between the context and 
+their intervention; and (c) acting on this understanding in 
+order to minimize negative impacts of interventions and 
+maximize positive impacts on conflict. The response as 
+a whole will ensure that this approach is mainstreamed 
+across the sectors in a coordinated effort to support the 
+continued resilience of Lebanon through the crisis under 
+the leadership of MoSA and MoIM. 
+Conflict sensitivity is fully incorporated into the LCRP: 
+each sector strategy analyzes its potential adverse 
+effects on local conflict dynamics and how to maximize 
+its contribution to social stability, which in turn guides 
+partners’ respective programmes. In addition, regular 
+information on tension trends and risks are provided to 
+partners as well as research and evaluations on the impact 
+of different types of LCRP programming on the level of 
+tensions. These analyses are complemented by regular 
+trainings and guidance on conflict-sensitivity and ‘do-noharm’ 
+approaches, which are provided both to front-line 
+workers and programme management staff to ensure 
+that they are able to adjust their programmes accordingly. 
+Urban areas 
+Hosting one out of five displaced Syrians and already 
+strained by high levels of deprivation, inadequate access 
+to basic services, housing and social stability challenges, 
+poor urban areas have been particularly impacted by the 
+Syrian crisis. 
+By expanding multi-sectoral needs analysis, such as 
+the already ongoing Neighbourhood Profiles, partners 
+will expand their coverage into urban areas based on 
+a multi-dimensional vulnerability approach to provide 
+immediate assistance and sustainable solutions in 
+partnership with the local authorities.
+
+PART I : RESPONSE Monitoring and Evaluation . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+28 
+Reinforced and objective monitoring and evaluation 
+(M&E) is critical to improving effectiveness and 
+accountability. All sector logframes are technically 
+reviewed on a yearly basis in consultation with sector 
+working groups and stakeholders. Revisions have 
+been made based on sector strategies to strengthen 
+results chains of change, indicators and measurement 
+methodologies at sector level. In parallel, an inter-sector 
+M&E framework for 2017-2020 provides a multi-year 
+framework for measuring progress against the LCRP’s 
+expected impacts, ensuring transparency and facilitating 
+strategic and programmatic adjustments. Six impact 
+statements aligned with the four strategic objectives of 
+LCRP are as follows: 
+Strategic objective 1: Ensure protection of vulnerable 
+populations 
+• Impact 1: Displaced persons from Syria and 
+vulnerable populations live in a safe, protective 
+environment 
+Strategic objective 2: Provide immediate assistance 
+to vulnerable populations 
+• Impact 2: Immediate humanitarian needs of the 
+most vulnerable populations are met 
+Strategic objective 3: Support service provision 
+through national systems 
+• Impact 3: Vulnerable populations have equitable 
+access to basic services (health, education, water, 
+energy, solid waste, shelter and social protection) 
+through national (public and private) system 
+Strategic objective 4: Reinforce Lebanon’s economic, 
+social and environmental stability 
+• Impact 4: Mitigated deterioration in the economic 
+condition of vulnerable populations 
+• Impact 5: Social stability is strengthened in Lebanon 
+• Impact 6: Mitigated environmental impact of 
+the Syrian crisis, to avoid further degradation of 
+the natural eco-system and ensure its long-term 
+sustainability 
+The inter-sector framework provides clarity on impact 
+measurement and the causal linkages from sector 
+outcomes to impact. These causal relationships are 
+further detailed in each sector strategy and can guide 
+subsequent independent evaluations of the overall 
+response by partners. 
+In 2018, the response M&E system has been strengthened 
+further, as follows: 
+• A list of research questions at inter-sector and sector 
+levels have been identified to better shape data 
+collection and prioritize learning needs across the 
+response. These research questions will feed into the 
+upcoming mid-term review of the LCRP as well as 
+the final evaluation of the response; 
+• New qualitative indicators have been incorporated 
+in sector logframes to capture the response’s 
+accountability to affected populations. Reporting on 
+these indicators will start in 2019 and help assess the 
+level of engagement of beneficiaries in the response; 
+• A monitoring framework of the commitments made 
+by the international community and the Government 
+of Lebanon at the Brussels 2 conference, organized 
+in April 2018 has been developed and incorporated 
+into the LCRP M&E system for greater accountability. 
+Progress will be reported to the LCRP Steering 
+Committee on a yearly basis; and 
+• Finally, a mid-term review of the response was 
+designed and is expected to be conducted in the 
+first quarter of 2019 to: 1) take stock of progress 
+since January 2017; 2) review the existing response 
+coordination model, and; 3) identify possible 
+evolutions of existing frameworks beyond 2020. 
+The findings of the mid-term review are expected in 
+April 2019 to support decision-making and strategic 
+planning. 
+Coordination and management: 
+M&E is coordinated and managed at all three levels of the 
+LCRP institutional and coordination architecture: 
+• At the sector level, individual appealing/ implementing 
+partners will be responsible for reporting updates on 
+progress and resources allocated/used against sector 
+strategies and corresponding results frameworks, using 
+ActivityInfo. These will be provided to the Sector Steering 
+Committees, which will be responsible for reviewing and 
+preparing periodic monitoring and progress reports (see 
+below). 
+• At the inter-sector level, the Inter-Sector working group 
+is responsible for monitoring progress against LCRP’s 
+impact statements, across the LCRP against sector 
+outcomes and outputs. It reports to the LCRP Steering 
+Committee. 
+• The LCRP Steering Committee will periodically 
+review progress on LCRP implementation to inform 
+its discussions and decisions on overall strategy and 
+implementation issues. 
+Tracking and information management system: 
+• At sector output and outcome level, the 2017-2020 
+Lebanon Crisis Response Plan continues to be monitored 
+through ActivityInfo, which reports against a standard 
+set of indicators agreed by sectors and helps inform 
+progress against sector logframes. 
+RESPONSE MONITORING AND 
+EVALUATION
+
+29 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : RESPONSE Monitoring and Evaluation . 
+• At impact level, macro-level data related to each strategic 
+objective will be collected to inform progress. The LCRP 
+M&E system links to ActivityInfo as well as a number of 
+national surveys using mixed methods. In addition, a 
+series of qualitative enquiry processes, including case 
+studies, will be conducted to further explore causal 
+relationships from sector outcomes to impact statements. 
+At the same time, LCRP’s knowledge management function 
+will be strengthened to better reflect on and disseminate 
+lessons learned across sectors, key findings from surveys 
+and policy recommendations. Similarily, GoL/MoSA and 
+international partners will examine options for strengthening 
+the existing tools and system to make them more accessible, 
+improving compatibility with existing government aid 
+coordination mechanisms, and expanding analytical and 
+reporting functionality. 
+Financial tracking and reporting: 
+Funds for LCRP programmes will be received and programmed 
+in three ways: 1) bilaterally through government ministries 
+and institutions; 2) through UN/NGO response partners; and 
+3) through pooled funding arrangements. 
+MoSA, supported by the UN Resident Coordinator/ 
+Humanitarian Coordinator and in collaboration with members 
+of the Inter-Ministerial Committee on Displaced, will report on 
+funds received for the LCRP as part of its quarterly and annual 
+reporting, based on consolidated information captured 
+in existing financial tracking systems. All humanitarian 
+contributions to the LCRP through government and response 
+partners will be captured through the financial tracking 
+system managed by OCHA. While Lebanon’s aid coordination 
+platform is being strengthened, the LCRP financial tracking 
+will feed into an overall Lebanon Aid Tracking System 
+currently being developed by MoSA and the Ministry of 
+Finance with the support of the UN Resident Coordinator/ 
+Humanitarian Coordinator’s Office, to improve management 
+of multi-lateral and bilateral funding received in Lebanon or 
+funding committed. 
+Monitoring and evaluation products: A series of 
+M&E activities and events will take place during the 
+LCRP programming cycle. The LCRP M&E calendar 
+includes several M&E products that will be developed 
+and disseminated during 2017-2020, including, but not 
+limited to, quarterly sectoral dashboards, bi-yearly intersectoral 
+dashboards, thematic dashboards (in-focus), 
+reviews and an external evaluation. 
+Review: Every year, mid-year and final reports on the 
+LCRP appeal will be presented by MoSA, supported by 
+the Resident Coordinator/Humanitarian Coordinator, 
+under the auspices of the Inter-Ministerial Committee on 
+Displaced. As part of this process, the scope of the LCRP 
+will be reviewed to ensure that the response continues 
+to match evolving needs and the increasing level of 
+development support outside the LCRP (if available). The 
+Government of Lebanon and its partners will review the 
+progress of the LCRP in a process supported by the intersector 
+mechanism and coordinated under the leadership 
+of MoSA and the UN Resident Coordinator/Humanitarian 
+Coordinator, with support from the Inter-Ministerial 
+Committee on Displaced, UNDP, UNHCR, and other key 
+response partners. The mid-year consultation will set the 
+direction for the second half of year and inform the next 
+annual appeal. 
+Strategic Objective 1: Ensure protection of vulnerable populations 
+Impact 1: Displaced persons from Syria and vulnerable populations live in a safe protective enviroment 
+Impact Indicator Sector Sector outcomes contributing to impact 
+1.1 Percentage of displaced persons with a 
+protection risk reduced. 
+1.2 Number of instances of assistance provided 
+to displaced persons from Syria and vulnerable 
+populations. 
+Protection 
+1: Persons Displaced from Syria have their basic rights (incl. access 
+to territory, legal stay, civil documentation) respected and specific 
+protection needs fulfilled. 
+Protection 2: Support and actively engage community members in creating a 
+safe protection environment. 
+Protection 3: Reduce SGBV risks and improve access to quality services. 
+Protection 
+4: Provide boys and girls at risk and survivors of violence, 
+exploitation and abuse with access to an improved and equitable 
+prevention and response. 
+Livelihoods 2: Improve workforce employability. 
+Livelihoods 3: Strengthen policy development and enabling environment for 
+job creation. 
+Food security & 
+Agriculture 4: Improve food security stabilization. 
+Education 
+2: Enhanced quality of education services and learning 
+environment to ensure grade-appropriate learning outcomes for 
+children and youth. 
+Assumptions: 
+1. Favourable policies and legal framework implemented enabling enjoyment of basic human. 2. National insitutions are equipped and functioning (e.g.: 
+schools, court systems, hospitals, etc.). 3. No unforeseen events that could lead to a major shift in the refugee crisis. 
+Monitoring & Evaluation Framework
+
+PART I : RESPONSE Monitoring and Evaluation . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+30 
+Strategic Objective 2: Provide immediate assistance to vulnerable populations 
+Impact 2: Immediate humanitarian needs of the most vulnerable populations are met 
+Impact Indicator Sector Sector outcomes contributing to impact 
+2.1 Percentage of vulnerable population whose 
+immediate basic humanitarian needs are met 
+2.2 Percentage reduction of the population who 
+is severely economically vulnerable 
+Basic assistance 1: Strengthen the ability of vulnerable households, including 
+female-headed, to meet their basic survival needs 
+Basic assistance 2: Strengthen the ability of populations affected by seasonal 
+hazards and emergencies to secure additional basic survival needs 
+Shelter 
+1: Strengthen the ability of vulnerable displaced populations in 
+temporary shelters to live in adequate conditions 
+Food security & 
+Agriculture 1: Improve food availability 
+Food security & 
+Agriculture 2: Improve food access 
+Water 
+1: More vulnerable people in Lebanon are using safely managed 
+drinking water and sanitation services whilst reducing health and 
+environmental risks and improving water quality by increasing the 
+proportion of wastewater that is safely treated. 
+Assumptions: 
+1. Enabling environment for humanitarian operations. 2. Humanitarian assitance is sufficient to meet the needs of the most vulnerable population. 
+Strategic Objective 3: Support service provision through national system 
+Impact 3: Vulnerable populations have equitable access to basic services through national systems 
+Impact Indicator Sector Sector outcomes contributing to impact 
+3.1. Percentage of population with access to 
+quality public and private services Food security & 
+Agriculture 2: Improve food access 
+Food security & 
+Agriculture 3: Improve food utilization 
+Food security & 
+Agriculture 
+4: Promote food security stabilization activities and supporting 
+national institutions 
+Basic assistance 3: Support the National Poverty Targeting Programme (NPTP) 
+Health 1: Improve access to comprehensive primary healthcare (PHC) 
+Health 2: Improve access to hospital (incl. ER care) and Advanced Referral 
+Care (advanced diagnostic laboratory & radiology care) 
+Health 3: Improve Outbreak Control & Infectious Diseases Control 
+Health 4: Improve Adolescent & Youth Health 
+Water 
+1: More vulnerable people in Lebanon are using safely managed 
+drinking water and sanitation services whilst reducing health and 
+environmental risks and improving water quality by increasing the 
+proportion of wastewater that is safely treated. 
+Energy 
+1: Increase energy production through implementation of 
+renewable energy sources 
+Energy 
+3: Improve access to electricity through Rehabilitation and 
+Reinforcement works on the Transmission and Distribution 
+networks 
+Energy 
+4: Enhance capacity of MoEW to plan, budget and oversee energy 
+sector initiatives 
+Education 
+1: Enhanced access to, and demand from, children youth, and their 
+caregivers, for equitable formal or regulated non-formal education 
+Education 
+2: Enhanced quality of education services and learning 
+environment to ensure grade-appropriate learning outcomes for 
+children and youth
+
+31 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : RESPONSE Monitoring and Evaluation . 
+Education 
+3: Enhanced governance and managerial capacities of RACE 2 
+implemting institutions to plan, budget, deliver, monitor and 
+evaluate education services 
+Livelihoods 
+1: Stimulate local economic development and market systems to 
+create income generating opportunities and employment 
+Shelter 
+3: Enhance the contribution of national institutions and 
+organizations to the housing situation in Lebanon 
+Social stability 
+1: Strengthen municipalities, national and local institutions' ability 
+to alleviate resource pressure 
+Assumptions: 
+1. National systems (public and private) have the capacity and political will to deliver quality services for all. 2. Vulnerable populations know/are aware of 
+how to access services both public and private and the terms of use. 
+Strategic Objective 4: Reinforce Lebanon’s economic, social and environmental stability 
+Impact 4: Mitigated deterioration in the economic condition of vulnerable populations 
+Impact Indicator Sector Sector outcomes contributing to impact 
+4.1 Percentage of the population living below 
+the poverty line Food security & 
+Agriculture 
+1: Improve food availability through in kind food assistance and 
+sustainable food value chain 
+4.2 Percentage of the active population who has 
+access to decent employment opportunities 
+Food security & 
+Agriculture 
+2: Improve food access through cash-based food assistance and 
+agricultural livelihoods 
+Livelihoods 
+1: Stimulate local economic development and market systems to 
+create income generating opportunities and employment 
+Livelihoods 2: Improve workforce employability 
+Livelihoods 
+3: Strengthen policy development and enabling environment for 
+job creation 
+Education 
+2: Enhanced quality of education services and learning 
+environment to ensure grade-appropriate learning outcomes for 
+children and youth 
+Shelter 2: Contribute to multi-sectoral upgrading of disadvantaged areas 
+for enhanced stability 
+Assumptions: 
+1. Markets exist and offer economic opportunities. 2. Demand and supply in the job market meet. 
+Impact 5: Social stability is strengthened in Lebanon 
+Impact Indicator Sector Sector outcomes contributing to impact 
+5.1. Percentage of municipalities enforcing 
+restrictions 
+5.2. Percentage decrease in population living 
+in vulnerable areas reporting tensions in their 
+community 
+5.3. Percentage increase of population living in 
+vulnerable areas reporting sense of solidarity in 
+their community 
+Social stability 1: Strengthen municipalities, national and local institutions' ability 
+to alleviate resource pressure 
+Social stability 2: Strengthen municipal and local community capacity to foster 
+dialogue and address sources of tensions and conflicts 
+Social stability 3: Enhance LCRP capacities on early warning and conflict sensitivity 
+Shelter 2: Contribute to multi-sectoral upgrading of disadvantaged areas 
+for enhanced stability 
+Assumptions: 
+1. Institutions and communities effectively coordinate and engage in dialogue. 2. Youth have space and commitment to play a positive role in the 
+community.
+
+PART I : RESPONSE Monitoring and Evaluation . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+Endnotes 
+i. World Bank (December 2012), Republic of Lebanon: Good Jobs Needed: The Role of Macro, Investment, Education, 
+Labour and Social Protection Policies (“Miles”), Report no. 76008-LB, p. 1 
+ii. AKTIS Strategy (12 May 2016), Impact Evaluation Report: Lebanon Host Communities Support Project. 
+iii. Arab Weekly Digest, Interview with Minister of Labor, Beirut, August 2017. 
+iv. ARK, Tension Monitoring Survey. 
+v. ARK & UNDP (2018), Regular Perception Survey on Social Tensions throughout Lebanon: Wave I, II, III, IV. 
+vi. Brussels partnership paper. 
+vii. United Nations General Assembly (19 September 2016), New York Declaration for Refugees and Migrants, Resolution 
+A/RES/71/1, https://undocs.org/A/RES/71/1. 
+viii. Lebanon Statement of Intent, presented at the London Conference: Supporting Syria and the Region, February 2016. 
+ix. Government of Lebanon (2017), A Vision for Stabilization and Development in Lebanon, presented at Brussels 
+Conference, 5 April 2017. 
+x. UNHCR, UNICEF, WFP (2017), Vulnerability Assessment of Syrian Refugees in Lebanon 2017. 
+xi. Central Administration of statistics, the Palestinian Bureau of Statistics and the Lebanese Palestinian Dialogue Committee: 
+Census, 2017 and UNRWA planning figures for LCRP 2019. 
+xii. CAS, PBS, LPDC and UNHCR. 
+xiii. World Bank (20 September 2013), Lebanon: Economic and Social Impact Assessment of the Syrian Conflict, Report 
+No. 81098-LB. 
+xiv. Lebanon Crisis Response Plan 2015-2016: Year Two. 
+xv. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xvi. American University of Beirut and UNRWA (2016), Survey on the Socioeconomic Status of Palestinian Refugees in 
+Lebanon: 2015. 
+xvii. UNHCR, UNICEF, WFP (2017), Vulnerability Assessment of Syrian Refugees in Lebanon 2017. 
+xviii. 2015 Food Security and Livelihoods Assessment of Lebanese. 
+xix. UNHCR 2017-2018 Participatory Assessment. 
+xx. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxi. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxii. Data from the Inter-Agency GBV Information Management System (UNHCR/UNICEF/ UNFPA and supporting civil society 
+and municipal partners) covering the period January to August 2018 at the national level. 
+xxiii. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxiv. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxv. Lebanon Statement of Intent, presented at the London Conference: Supporting Syria and the Region, February 2016. 
+xxvi. Government of Lebanon (2017), A Vision for Stabilization and Development in Lebanon, presented at the Brussels 
+Conference, 5 April 2017. 
+xxvii. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+Impact 6: Mitigated environmental impact of the Syrian crisis, to avoid further degradation of the natural eco-system and 
+ensure its long-term sustainability 
+Impact Indicator Sector Sector outcomes contributing to impact 
+6.1. Percentage increase in emissions of 
+particulate matter (PM) reduced 
+6.2 Level of adoption of Environmental Marker 
+Food security 1: Improve food availability through in kind food assistance and 
+sustainable food value chain 
+Food security 4: Improve food security stabilization 
+Water 
+1: Improve access of more vulnerable people in Lebanon to 
+sufficient, safe water for drinking and domestic use with reduced 
+health and environmental impacts from unsafe wastewater 
+management. 
+Social stability 1: Strengthen municipalities, national and local institutions' ability 
+to alleviate resource pressure 
+Energy 
+4: Enhance capacity of MoEW to plan, budget and oversee energy 
+sector initiatives 
+Assumptions: 
+1. The environmental impact of the crisis can be reduced. 2. No unforeseen events that could lead to a major shift in the refugee crisis occur. 
+3. Institutions and communities actively engage in responding to the environmental impact of the crisis. 
+32
+
+33 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART I : RESPONSE Monitoring and Evaluation . 
+xxviii. American University of Beirut, UNRWA (2016), Survey on the Socioeconomic Status of Palestinian Refugees in Lebanon: 
+2015. 
+xxix. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxx. UNHCR 2017 and 2018 Participatory Assessment. 
+xxxi. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxxii. American University of Beirut, UNRWA (2016), Survey on the Socioeconomic Status of Palestinian Refugees in Lebanon: 
+2015. 
+xxxiii. Ministry of Agriculture, FAO & REACH (June 2015), Food Security and Livelihoods Assessment of Lebanese Host 
+Communities: Assessment Report, https://data.unhcr.org/syrianrefugees/download.php?id=9122. 
+xxxiv. UNICEF (8 July 2016), Baseline Survey 2016, Beirut. 
+xxxv. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxxvi. Human Rights Watch (July 2016), Growing up Without an Education: Barriers to Education for Syrian Refugee Children 
+in Lebanon, https://www.hrw.org/report/2016/07/19/growing-without-education/barriers-education-syrian-refugeechildren-
+lebanon. 
+xxxvii. AUB 2015, Survey on the socio-economic status of Palestine Refugees. 
+xxxviii. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xxxix. Lebanon, Ministry of Public Health (October 2018), Epidemiological Surveillance Program Descriptive Surveillance 
+Findings - prepared by L. Cheaito. 
+xl. Ministry of Environment, EU & UNDP (September 2014), Environmental Assessment of the Syrian Conflict & 
+Priority Interventions, http://www.lb.undp.org/content/lebanon/en/home/library/environment_energy/lebanonenvironmental-
+assessment-of-the-syrian-conflict.html. 
+xli. Lebanon, Ministry of Energy and Water and UNDP (February 2017), The Impact of the Syrian Crisis on the Lebanese Power 
+Sector and Priority Recommendations, http://www.lb.undp.org/content/lebanon/en/home/library/environment_ 
+energy/The-Impact-of-the-Syrian-Crisis-on-the-Lebanese-Power-Sector-and-Priority-Recommendations.html. 
+xlii. UNHCR, UNICEF, WFP (2018), Vulnerability Assessment of Syrian Refugees in Lebanon 2018. 
+xliii. UNDP (2008), Poverty Assessment. 
+xliv. World Bank (2017), Preliminary findings of the Economic and Social Impact Assessment of the Syrian Conflict on 
+Lebanon. 
+xlv. GIZ 2016, p. 30 (source cited: KILM 2015). 
+xlvi. Paragraph 34, page 9, Global Compact on Refugeess. 
+xlvii. Government of Lebanon (15 November 2013), Lebanon Roadmap of Priority Interventions for Stabilization from the 
+Syrian Conflict, http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/PCPD/pdf/lebanon_roadmap.pdf. 
+xlviii. European Union, EU-Lebanon Partnership Priorities & Compact 2016-2020, https://www.consilium.europa.eu/ 
+media/24224/st03001en16docx.pdf. 
+xlix. World Bank (15 June 2016), Lebanon – Country partnership framework for FY17-FY22, http://documents.worldbank. 
+org/curated/en/111451467996685776/Lebanon-Country-partnership-framework-for-FY17-FY22. 
+l. See: http://www.un.org.lb/english/unsf. 
+li. See: http://www.undp.org/content/dam/rbas/doc/SyriaResponse/RDF/DeadSeaResilience%20Agenda_05Nov2015. 
+pdf. 
+lii. See: https://www.agendaforhumanity.org/initiatives/3861. 
+liii. See: https://sustainabledevelopment.un.org/sdgs. 
+liv. See: http://www.globalcrrf.org. 
+lv. Government of Lebanon (15 November 2013), Lebanon Roadmap of Priority Interventions for Stabilization from the 
+Syrian Conflict, http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/PCPD/pdf/lebanon_roadmap.pdf. 
+lvi. 3RP Guidance Note (2018-2019), 02 Incorporating and Communicating Resilience Programming. 
+lvii. See: 2030 Agenda for Sustainable Development, adopted on 25 September 2015 See: UN General Assembly (25 
+September 2015), Transforming our world: the 2030 Agenda for Sustainable Development, Resolution A/RES/70/1, 
+http://undocs.org/A/RES/70/1. 
+lviii. United Nations Global Protection Cluster and Inter-Agency Standing Committee (2015), Guidelines for Integrating 
+Gender-Based Violence Interventions in Humanitarian Action: Reducing Risk, Promoting Resilience and Aiding 
+Recovery, http://gbvguidelines.org/wp-content/uploads/2015/09/2015-IASC-Gender-based-Violence-Guidelines_lores.
+pdf.
+
+PART I : RESPONSE Monitoring and Evaluation . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+34 
+A general view of an Informal Settlement in Bekaa Valley. 
+Photo Credit: WFP, Mikel Prieto, 26/11/2017 
+Notes
+
+35 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART II : OPERATIONAL RESPONSE PLANS . 
+OPERATIONAL RESPONSE PLANS 
+PART II 
+OPERATIONAL RESPONSE PLANS 
+BASIC ASSISTANCE 
+EDUCATION 
+ENERGY 
+FOOD SECURITY & AGRICULTURE 
+HEALTH 
+LIVELIHOODS 
+PROTECTION 
+SHELTER 
+SOCIAL STABILITY 
+WATER
+
+PART II : OPERATIONAL RESPONSE PLANS . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+36 
+BASIC ASSISTANCE 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $285 m 
+1,456,000 
+1,024,000 
+476.8 
+million 
+39 
+Indicators 
+POPULATION BREAKDOWN 
+Strengthen the ability of vulnerable Households, including 
+female-headed, to meet their basic survival needs. 
+Strengthen the ability of populations affected by seasonal hazards and 
+emergencies to secure additional basic survival needs. 
+LEAD MINISTRY 
+Ministry of Social Aairs (MoSA) 
+Hadi Haddad 
+hadi_haddad@live.com 
+COORDINATING AGENCIES 
+UNHCR and ACF 
+Khalil Dagher 
+dagherk@unhcr.org 
+Justine Cherrier 
+jcherrier@lb.acfspain.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+Outcome #2 $190 m 
+2019 
+2020 476.8 
+million 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+28,800
+1,020,000 
+227,546 
+180,000 
+765,000 
+227,546 
+2,565 
+Female Male 
+116,959 110,587 
+394,740 370,260 
+14,545 14,255 
+1,295 1,270 
+GENDER MARKER 
+Percentage reduction in population that is severly vulnerable. 
+Percentage of assisted severely economically vulnerable households 
+report being able to meet their basic survival needs. 
+Indicators 
+Percentage of newly displaced households who are provided basic 
+assistance. 
+Percentage of assisted households affected by seasonal shocks who 
+are able to meet their additional basic survival needs. 
+2a 
+Support the National Poverty Targeting Programme (NPTP). 
+Outcome #3 $0.8 m 
+Indicators 
+Enhancing the capacity of NPTP to provide social assistance. 
+National Social Safety Net Strategy developed. 
+28,800
+
+37 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART II : OPERATIONAL RESPONSE PLANS . 
+EDUCATION 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $358.2 m 
+1,232,883 
+497,171 
+381 
+million 
+37 
+POPULATION BREAKDOWN 
+Enhance access to, and demand from, children youth, and their 
+caregivers, for equitable formal or regulated non-formal education. 
+Enhance quality of education services and learning environment to 
+ensure grade-appropriate learning outcomes for children and youth. 
+LEAD MINISTRY 
+Ministry of Education and 
+Higher Education (MEHE) 
+Iman Assi 
+IAssi@MEHE.gov.lb 
+COORDINATING AGENCIES 
+UNICEF 
+Karim Rishani 
+krishani@unicef.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+Outcome #2 $20 m 
+2019 
+2020 TBD 
+million 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+14,041 
+705,000 
+451,323 
+62,519 
+254,243 
+229,100 
+7,927 
+Female Male 
+116,841 112,259 
+129,664 124,579 
+3,010 2,891 
+4,043 3,884 
+GENDER MARKER 
+1 
+51% 49% 
+Enhance governance and managerial capacities of RACE II 
+implementing institutions to plan, budget, deliver, monitor and 
+evaluate education services. 
+Outcome #3 $2.8 m 
+5,901 
+Indicators 
+Number of students (age 3-18) enrolled in formal education. 
+Indicators 
+Completion rates by education cycle (% of children and youth of the 
+corresponding graduation age who have completed a cycle). 
+Retention rates by cycle (% of students who were at school the last 
+scholastic year who remain at school the next scholastic year/ passage 
+rate by end of basic cycle). 
+Transition rates by cycle (% of students at the last grade of one cycle 
+the last scholastic year who are at the first grade of the next cycle the 
+next scholastic year). 
+Number of students in public schools successful in grade 3 and grade 6 
+learning assessment tests. 
+Percentage of children and youth attending regulated NFE who 
+transitioned to formal education. 
+Indicators 
+CERD Annual Statistics yearbook is published by 01 August every year 
+for the last academic year inclusive of all refugee education data. 
+Annual RACE II operational and financial plan and report available.
+
+PART II : OPERATIONAL RESPONSE PLANS . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+38 
+ENERGY 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $39.1 m 
+2,035,461 
+678,487 
+99.2 
+million 
+14 
+Indicators 
+POPULATION BREAKDOWN 
+Increase energy production through implementation of renewable 
+energy sources. 
+LEAD MINISTRY 
+Ministry of Energy & Water 
+(MoEW) 
+Suzy Hoayek 
+Suzy.hoayek@gmail.com 
+COORDINATING AGENCY 
+UNDP 
+Noritaka Hara 
+noritaka.hara@undp.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+2019 
+2020 171 
+million 
+Lebanese 
+Displaced Syrians 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+816,367 272,122 
+406,365 
+Female Male 
+207,246 199,119 
+138,782 133,340 
+GENDER MARKER 
+Increase in MWh resulting from installed capacity through renewable 
+energy sources. 
+Outcome #2 $7.5 m 
+Indicators 
+Reduce energy demand due to implementation of energy efficient 
+initiatives. 
+Reduction resulting from installed capacity through energy efficient 
+measures in MWh. 
+Outcome #3 $51.6 m 
+Indicators 
+Improve access to electricity through Rehabilitation and 
+Reinforcement works on the Transmission and Distribution networks. 
+Enhance capacity of MoEW to plan, budget and oversee energy sector 
+initiatives. 
+Outcome #4 $1 m 
+Number of people benefiting from rehabilitation and reinforcement 
+works on the transmission and Distribution networks. 
+Indicators 
+Number of new energy initiatives and projects resulting from capacity 
+development and support to MoEW. 
+2a 
+51% 49% 
+1,219,094
+
+39 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART II : OPERATIONAL RESPONSE PLANS . 
+FOOD SECURITY & AGRICULTURE 
+SECTOR 
+PEOPLE IN NEED 
+2,079,800 
+1,017,821 
+508.6 
+million 
+45 
+LEAD MINISTRY POPULATION BREAKDOWN 
+Ministry of Agriculture (MoA) 
+Ms. Majida Mcheik 
+Mmcheik@agriculture.gov.lb 
+Ms. Amal Salibi 
+asalibi@agriculture.gov.lb 
+COORDINATING AGENCIES 
+WFP and FAO 
+Etienne Careme 
+etienne.careme@fao.org 
+Kaori Ura 
+kaori.ura@wfp.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+2019 
+2020 508.6 
+million 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+28,800 
+180,000 
+1,371,000 
+500,000 
+795,177 
+91,644 
+Female Male 
+46,738 44,906 
+405,540 389,637 
+7,140 6,860 
+59,670 57,330 
+GENDER MARKER 
+2a 
+51% 49% 
+14,000 
+117,000 
+SECTOR OUTCOMES 
+Outcome #1 $69.7 m 
+Indicators 
+Improve food availability through in kind food assistance and 
+sustainable food production value chain. 
+Improve food access through cash based food assistance and sustainable 
+agricultural livelihoods. 
+Outcome #2 $411.8 m 
+Percentage of targeted households with borderline or acceptable food consumption score. 
+Percentage of farmers with increased production, access to market, reduced produce waste and 
+losses, and those benefitting as a result of Trans-boundary animal and plant disease control and 
+prevention. 
+Percentage of main staples/cereals available for food after calculating the amounts for industrial use 
+and exports. 
+Indicators Percentage of targeted households with borderline or acceptable food consumption score. 
+Percentage of households with increased agriculture livelihood opportunities. 
+Improve food utilization: food safety and nutrition practices improved 
+through the promotion of consumption of diversified and quality food. 
+Outcome #3 $18.1 m 
+Promote food security while enhancing access and application of 
+climate-smart practices, promoting resilience of livelihoods and conservation 
+of natural resources and effectively in coordinating with other actors in FSS as 
+well as other sectors, ETWG* and MoA departments during 2019 period. 
+*Environment Task Force Working Group 
+Outcome #4 $9 m 
+Indicators Percentage of women with a minimum dietary diversity score. 
+Percentage of beneficiaries supported in improved food safety and quality, and dietary diversity 
+practices. 
+Indicators Percentage of farmers applying climate - smart practices, measures for conserving natural 
+resources in collaboration with other relevant actors. 
+Percentage of actors involved in the food security sector reported use/access to food security 
+related data, information and technical support. 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+
+PART II : OPERATIONAL RESPONSE PLANS . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+40 
+HEALTH 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $97.05 m 
+2,473,800 
+1,563,800 
+267.5 
+million 
+38 
+Indicators 
+POPULATION BREAKDOWN 
+Improve access to comprehensive primary healthcare (PHC). 
+Improve access to hospital (incl. ER care) and advanced referral care 
+(advanced diagnostic laboratory & radiology care). 
+LEAD MINISTRY 
+Ministry of Public Health (MoPH) 
+Dr. Rasha Hamra 
+rashahamra@yahoo.com 
+COORDINATING AGENCIES 
+WHO and UNHCR 
+Dr. Alissar Rady 
+radya@who.int 
+Stephanie Laba 
+labas@unhcr.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+Outcome #2 $169.5 m 
+2019 
+2020 TBD 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+28,800 
+765,000 
+1,500,000 
+765,000 
+750,000 
+Female Male 
+382,500 367,500 
+390,150 374,850 
+14,688 14,112 
+GENDER MARKER 
+Percentage of displaced Syrians, vulnerable Lebanese, Palestinian 
+Refugees from Syria (PRS) and Palestinian Refugees from Lebanon (PRL) 
+accessing primary healthcare services. 
+Percentage of vaccination coverage among children under 5 residing in 
+Lebanon. 
+Indicators 
+Percentage of displaced Syrians, Lebanese, Palestinian Refugees from 
+Syria (PRS) and Palestinian Refugees from Lebanon (PRL) admitted for 
+hospitalization per year. 
+2a 
+51% 49% 
+Improve outbreak and infectious diseases control. 
+Outcome #3 $0.8 m 
+28,800 
+Improve adolescent & youth health. 
+Outcome #4 $0.1 m 
+Indicators 
+Number of functional Early Warning, Alert and Response System 
+(EWARS) centres. 
+Indicators 
+Prevalence of behavioural risk factors and protective factors in 10 key 
+areas among young people aged 13 to 17 years. 
+180,000 20,000 10,200 9,800
+
+41 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART II : OPERATIONAL RESPONSE PLANS . 
+LIVELIHOODS 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $189.9 m 
+171,182 
+49,662
+214.4 
+million 
+68 
+Indicators 
+POPULATION BREAKDOWN 
+Stimulate local economic development and market systems to create 
+income generating opportunities and employment. 
+Improve workforce employability. 
+Strengthen policy development and enabling environment for job 
+creation. 
+LEAD MINISTRY 
+Ministry of Social Aairs 
+(MoSA) and Ministry of 
+Economy and Trade(MoET) 
+Hiba Douaihy 
+hibadou.mosa@gmail.com 
+Johnny Matta 
+jmatta@economy.gov.lb 
+Rafif Berro 
+rberro@economy.gov.lb 
+COORDINATING AGENCY 
+UNDP 
+Gloria De Marchi 
+gloria.de-marchi@undp.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+Outcome #2 $17.5 m 
+Outcome #3 $7 m 
+2019 
+2020 189.2 
+million 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+2,473
+64,019 
+98,910 
+5,781 
+712 
+18,974 
+28,315 
+1,661 
+Female Male 
+14,441 13,874 
+9,677 9,297 
+363 349 
+847 814 
+GENDER MARKER 
+Total number of decent jobs created/maintained. 
+Number of targeted Lebanese MSMEs and cooperatives that report 
+increased performance and expanded market access as a result of 
+programme activities. 
+Indicators 
+Number of job seekers placed into jobs (at least 50% women). 
+Number of targeted vulnerable persons engaged in home-based 
+income generation (at least 50% women). 
+Indicators 
+Number of policies, regulations and strategies amended and/or 
+proposed approved by the Government. 
+2a Doing Business (World Bank) index ranking. 
+51% 49%
+
+PART II : OPERATIONAL RESPONSE PLANS . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+42 
+PROTECTION 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $77.5 m 
+3,208,800 
+1,884,800 
+174.1 
+million 
+79 
+POPULATION BREAKDOWN 
+Persons Displaced from Syria have their basic rights (incl. access to territory, legal 
+stay, civil documentation) respected and specific protection needs fulfilled. 
+Support and actively engage community members in creating a safe 
+protection environment. 
+LEAD MINISTRY 
+Ministry of Social Aairs (MoSA) 
+Natasha Sarkis 
+natachasarkis.mosa@gmail.com 
+COORDINATING AGENCIES 
+UNHCR 
+Fanette Blanc, blancf@unhcr.org 
+Elsa Bousquet, bousquet@unhcr.org 
+Jackie Atwi, jatwi@unicef.org 
+Petronille Geara, geara@unfpa.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+Outcome #2 $26.5 m 
+2019 
+2020 TBD 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+28,800
+1,500,000 
+1,500,000 
+180,000 
+1,500,000 
+336,000 
+20,000 
+Female Male 
+174,720 161,280 
+780,000 720,000 
+14,976 13,824 
+10,400 9,600 
+GENDER MARKER 
+2a 
+52% 48% 
+Reduce SGBV risks and improve access to quality services. 
+Outcome #3 $30.5 m 
+28,800 
+Provide boys and girls at risk and survivors of violence, exploitation and abuse 
+with access to an improved and equitable prevention and response. 
+Outcome #4 $39.6 m 
+Percentage of persons with legal stay. 
+Percentage of persons referred provided with services. 
+Percentage of children born in Lebanon whose birth is registered at the Noufos level. 
+Percentage of children born in Lebanon whose birth is registered at the Foreign Registry level. 
+Number of persons benefitting from resettlement or other humanitarian pathways. 
+Percentage of households who have moved accomodation in the last 6 months due to eviction. 
+Indicators 
+Indicators Percentage of persons reporting that information received has helped 
+them accessing services. 
+Percentage of persons reporting that they feel involved in the assessment, 
+design, monitoring and evaluation of programmes and activities. 
+Indicators Percentage of women (20-24) married before 18. 
+Percentage of women and girls age 15-49 who state that a husband 
+is justified in hitting or beating his wife. 
+Indicators Percentage of children 2-14 years who experience violent 
+disciplinary practices. 
+Percentage of children aged 5-17 yrs who engage in child labor. 
+Percentage of children (boys and girls) who reported an 
+improvement in their psychosocial wellbeing as measured through 
+the SDQ. 
+
+43 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART II : OPERATIONAL RESPONSE PLANS . 
+SHELTER 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $73.8 m 
+1,362,300 
+694,480 
+157 
+million 
+28 
+Indicators 
+POPULATION BREAKDOWN 
+Reduce immediate protection-related shelter needs of most 
+vulnerable households. 
+Contribute to multi-sectoral upgrading of disadvantaged areas for 
+enhanced stability. 
+LEAD MINISTRY 
+Ministry of Social Aairs (MoSA) 
+Mazen Riachi 
+riachimazen@outlook.com 
+COORDINATING AGENCIES 
+UNHCR and UN-Habitat 
+Abdulrahman Abdelghani 
+abdelgab@unhcr.org 
+Suzanne Maguire 
+suzanne.maguire@un.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+Outcome #2 $81.8 m 
+2019 
+2020 TBD 
+million 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+28,800 
+817,500 
+336,000 
+180,000 
+18,000 
+581,200 
+77,280 
+18,000 
+Female Male 
+39,413 37,867 
+296,412 284,788 
+9,180 8,820 
+9,180 8,820 
+GENDER MARKER 
+Percentage of most vulnerable households whose shelters in informal 
+settlements or in substandard residential and non-residential buildings 
+have improved privacy, safety and security. 
+Indicators 
+Percentage of households living in disadvantaged areas benefitting 
+from shelter upgrades to minimum standards. 
+Percentage of households living in disadvantaged areas benefitting 
+from shelter upgrades to mainstream standards. 
+Percentage of all cadastres that contain a multi-sectorally assessed or 
+profiled area. 
+Enhance the contribution of national institutions and organizations to 
+the housing situation in Lebanon. 
+Outcome #3 $1.4 m 
+Indicators 
+Percentage of institutions and organizations participating in the 
+response that are Lebanese. 
+Number of national and local institutions participating in the shelter 
+sector, that contribute to housing policy discussions for Lebanon. 
+2a 
+51% 49%
+
+PART II : OPERATIONAL RESPONSE PLANS . LEBANON CRISIS RESPONSE PLAN 2017-2020 
+44 
+SOCIAL STABILITY 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $99.7 m 
+3,208,800 
+2,156,137 
+125.35 
+million 
+63 
+Indicators 
+POPULATION BREAKDOWN 
+Strengthen municipalities, national and local institutions' ability to 
+alleviate resource pressure. 
+LEAD MINISTRY 
+Ministry of Social Aairs (MoSA) 
+and Ministry of Interior and 
+Municipalities (MoIM) 
+Hiba Douaihy 
+hibadou.mosa@gmail.com, 
+Randa Hobeiche 
+randahobeiche@yahoo.com 
+COORDINATING AGENCY 
+UNDP and UNHCR 
+Tom Lambert 
+tom.lambert@undp.org 
+Rasha Akil 
+akil@unhcr.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+2019 
+2020 126.1 
+million 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+28,800
+1,500,000 
+1,500,000 
+180,000 
+28,800
+1,005,000 
+942,337 
+180,000 
+Female Male 
+480,591 461,746 
+490,015 452,322 
+14,280 14,520 
+89,252 90,748 
+GENDER MARKER 
+Percentage of of people reporting positive impact of municipalities on 
+their lives. 
+Percentage of people reporting competition for services and utilities as 
+source of tension. 
+Percentage of people who feel that they can voice concern with 
+authorities in case of dissatisfaction. 
+Waste diversion rate. 
+Outcome #2 $23.75 m 
+Indicators 
+Strengthen municipal and local community capacity to foster dialogue 
+and address sources of tensions and conflicts. 
+Percentage of people able to identify conflict resolution 
+mechanisms/actors in their community they would turn to. 
+Percentage of people identifying factors that could improve 
+inter-community relationships. 
+Percentage of people displaying propensity for violence. 
+2a 
+51% 49% 
+Outcome #3 $1.9 m 
+Indicators 
+Enhance LCRP capacities on early warning and conflict sensitivity. 
+Proportion of LCRP partners reporting that they have their own 
+mechanisms to ensure conflict sensitivity. 
+Number of LCRP sectors taking steps to ensure conflict sensitivity in 
+their strategy and delivery of work plans.
+
+45 
+LEBANON CRISIS RESPONSE PLAN 2017-2020 PART II : OPERATIONAL RESPONSE PLANS . 
+WATER 
+SECTOR 
+PEOPLE IN NEED SECTOR OUTCOMES 
+Outcome #1 $214 m 
+3,208,800 
+1,351,624 
+214 
+million 
+37 
+Indicators 
+POPULATION BREAKDOWN 
+More vulnerable people in Lebanon are using safely managed 
+drinking water and sanitation services whilst reducing health and 
+environmental risks and improving water quality by increasing the 
+proportion of wastewater that is safely treated. 
+LEAD MINISTRY 
+Ministry of Energy & Water 
+(MoEW) 
+Randa Nemer 
+rnemer@cyberia.net.lb 
+COORDINATING AGENCY 
+UNICEF 
+Oliver Thonet 
+othonet@unicef.org 
+PEOPLE TARGETED 
+REQUIREMENTS(US$) 
+PARTNERS 
+CONTACTS 
+2019 
+2020 TBD 
+Lebanese 
+Displaced Syrians 
+Palestinian Refugees 
+from Syria 
+Palestinian Refugees 
+from Lebanon 
+POPULATION 
+COHORT 
+PEOPLE 
+IN NEED 
+PEOPLE 
+TARGETED 
+28,800 
+1,500,000 
+1,500,000 
+180,000 
+522,160 
+684,800 
+Female Male 
+349,248 335,552 
+266,302 255,858 
+8,295 7,969 
+65,484 62,916 
+GENDER MARKER 
+Percentage increase in proportion of population using safely managed 
+drinking water services. 
+Percentage increase of boys, girls, women and men with appropriate 
+hygiene knowledge, attitudes and practices. 
+Percentage increase in proportion of wastewater safely treated. 
+2a 51% 49% 
+16,264 
+128,400
+
+Lebanon Crisis Response Plan 2017 - 2020 
+2019 update 
+Produced by the Government of Lebanon and the United Nations, January 2019
+
