@@ -1,0 +1,28 @@
+---
+title: "Change"
+author: "Change"
+date: ' '
+output:
+  html_notebook
+---
+
+```{r Setup, include=FALSE, results='hide', warning=FALSE}
+    library(knitr)
+    opts_chunk$set(fig.path="images/",
+                   cache.path="cache/",
+                   cache=FALSE,
+                   echo=TRUE,
+                   message=FALSE,
+                   warning=FALSE)  
+setwd("/Users/owner/Documents/02. Education/Columbia 2018-2019/06. CU Extra Curricular/HackItTogether/HRPtxt")
+```
+
+```{r}
+all <- read.csv(file="./txt/All.csv", header=TRUE)
+
+library(dplyr)
+library(ggplot2)
+
+short <- all %>%
+  filter(Var1=="cash" | Var1=="critical" | Var1=="repatriation" | Var1=="gbv" | Var1=="protect" | Var1=="suicide" | Var1=="wash")
+```
